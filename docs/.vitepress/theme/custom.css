@@ -1,0 +1,80 @@
+/* 全局排版基准 */
+:root {
+  --dt-line-height: 1.7;
+}
+
+.vp-doc {
+  line-height: var(--dt-line-height);
+  font-size: 18px;
+}
+
+@media (max-width: 768px) {
+  .vp-doc {
+    font-size: 17px;
+  }
+}
+
+/* 繁体模式下笔画更密，字形更方，行高略微放宽，避免视觉拥挤 */
+html[data-script='traditional'] {
+  --dt-line-height: 1.78;
+}
+
+/* 类目卡片列表（类目首页用） */
+.dt-article-list {
+  list-style: none;
+  padding: 0;
+}
+.dt-article-list li {
+  border-bottom: 1px solid var(--vp-c-divider);
+  padding: 12px 0;
+}
+.dt-article-list a {
+  font-size: 17px;
+  color: var(--vp-c-text-1);
+  text-decoration: none;
+}
+.dt-article-list a:hover {
+  color: var(--vp-c-brand-1);
+}
+.dt-article-date {
+  font-size: 13px;
+  color: var(--vp-c-text-3);
+  margin-left: 8px;
+}
+
+/* 首页类目卡片（"豆腐块"）在手机端强制每行两个，
+   VitePress 默认在窄屏下是每行一个，这里覆盖它的宽度规则 */
+@media (max-width: 639px) {
+  .VPFeatures .container .items .item {
+    width: 50% !important;
+  }
+  .VPFeatures .container .items .item .VPFeature {
+    margin: 4px;
+  }
+}
+
+/* 导航栏左上角 Logo —— VitePress 默认限制得很小（24px），这里放大 */
+.VPNavBarTitle .logo {
+  height: 40px !important;
+  width: 40px !important;
+}
+@media (min-width: 960px) {
+  .VPNavBarTitle .logo {
+    height: 44px !important;
+    width: 44px !important;
+  }
+}
+
+/* 页脚 Logo：用 ::before 直接插在页脚文字容器上方，
+   保证顺序一定是"Logo 在上、文字在下"，不依赖插槽渲染顺序 */
+.VPFooter .container::before {
+  content: '';
+  display: block;
+  width: 80px;
+  height: 80px;
+  margin: 0 auto 16px;
+  background-image: url('/logo.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
