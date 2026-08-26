@@ -6,19 +6,19 @@ hero:
   tagline: 承继利美精神，不拘宗派，致力于藏汉显密佛法精华文献的发掘、白话转译与长久保存。愿正法余晖，于末世愈加灿耀。
 features:
   - title: 唯识
-    link: /weishi/
+    link: /唯识/
   - title: 中观
-    link: /zhongguan/
+    link: /中观/
   - title: 华严
-    link: /huayan/
+    link: /华严/
   - title: 禅宗
-    link: /chanzong-baoqie/
+    link: /禅宗/
   - title: 密宗
-    link: /mixu-jinghua/
-  - title: 大手印
-    link: /dashouyin/
-  - title: 大圆满
-    link: /dayuanman/
+    link: /密宗/
   - title: 随笔
-    link: /wensi-xinde/
+    link: /随笔/
+  - title: 大手印
+    link: /大手印/
+  - title: 大圆满
+    link: /大圆满/
 ---

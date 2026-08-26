@@ -24,7 +24,7 @@ export default defineConfig({
     // 社交平台转发卡片（微信/微博/Twitter等分享时显示的横幅图）
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: '藏汉佛教精华 · DharmaTrove' }],
-    ['meta', { property: 'og:description', content: '唯识中观、禅宗宝箧、密宗精华、大手印、大圆满——藏汉佛教典籍精华白话转译' }],
+    ['meta', { property: 'og:description', content: '唯识、中观、华严、禅宗、密宗、大手印、大圆满——藏汉佛教典籍精华白话转译' }],
     ['meta', { property: 'og:image', content: '/og-image.png' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:image', content: '/og-image.png' }]
@@ -34,28 +34,29 @@ export default defineConfig({
     // 导航栏左上角 Logo
     logo: '/logo.png',
 
+    // 导航栏顺序：关于我们排最前，随笔排最后，中间按内容体系排列
     nav: [
       { text: '首页', link: '/' },
       { text: '关于我们', link: '/about' },
-      { text: '唯识', link: '/weishi/' },
-      { text: '中观', link: '/zhongguan/' },
-      { text: '华严', link: '/huayan/' },
-      { text: '禅宗宝箧', link: '/chanzong-baoqie/' },
-      { text: '密宗精华', link: '/mixu-jinghua/' },
-      { text: '大手印', link: '/dashouyin/' },
-      { text: '大圆满', link: '/dayuanman/' },
-      { text: '闻思心得', link: '/wensi-xinde/' }
+      { text: '唯识', link: '/唯识/' },
+      { text: '中观', link: '/中观/' },
+      { text: '华严', link: '/华严/' },
+      { text: '禅宗', link: '/禅宗/' },
+      { text: '密宗', link: '/密宗/' },
+      { text: '大手印', link: '/大手印/' },
+      { text: '大圆满', link: '/大圆满/' },
+      { text: '随笔', link: '/随笔/' }
     ],
 
     sidebar: {
-      '/weishi/': [{ text: '唯识', link: '/weishi/' }],
-      '/zhongguan/': [{ text: '中观', link: '/zhongguan/' }],
-      '/huayan/': [{ text: '华严', link: '/huayan/' }],
-      '/chanzong-baoqie/': [{ text: '禅宗宝箧', link: '/chanzong-baoqie/' }],
-      '/mixu-jinghua/': [{ text: '密宗精华', link: '/mixu-jinghua/' }],
-      '/dashouyin/': [{ text: '大手印', link: '/dashouyin/' }],
-      '/dayuanman/': [{ text: '大圆满', link: '/dayuanman/' }],
-      '/wensi-xinde/': [{ text: '闻思心得', link: '/wensi-xinde/' }]
+      '/唯识/': [{ text: '唯识', link: '/唯识/' }],
+      '/中观/': [{ text: '中观', link: '/中观/' }],
+      '/华严/': [{ text: '华严', link: '/华严/' }],
+      '/禅宗/': [{ text: '禅宗', link: '/禅宗/' }],
+      '/密宗/': [{ text: '密宗', link: '/密宗/' }],
+      '/大手印/': [{ text: '大手印', link: '/大手印/' }],
+      '/大圆满/': [{ text: '大圆满', link: '/大圆满/' }],
+      '/随笔/': [{ text: '随笔', link: '/随笔/' }]
     },
 
     footer: {
@@ -68,7 +69,5 @@ export default defineConfig({
     }
   },
 
-  // 五个类目对应的静态路由，方便后续每个类目下新增文章时
-  // VitePress 自动纳入构建（无需手动改这里）
   srcExclude: ['**/README.md']
 })

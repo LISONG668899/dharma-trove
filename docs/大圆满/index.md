@@ -1,12 +1,12 @@
 ---
-title: 华严
+title: 大圆满
 ---
 
-# 华严
+# 大圆满
 
 <!--
   这里先手动列文章链接，后面文章多了可以升级成自动生成列表。
-  写法：<li><a href="/huayan/文件名">文章标题</a><span class="dt-article-date">2026-08-26</span></li>
+  写法：<li><a href="/大圆满/文件名">文章标题</a><span class="dt-article-date">2026-08-26</span></li>
 -->
 
 <ul class="dt-article-list">

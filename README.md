@@ -11,7 +11,7 @@ npm run docs:dev
 
 ## 新增文章
 
-1. 在对应类目文件夹下新建一个 `.md` 文件，例如 `docs/dashouyin/降雷大手印导论.md`
+1. 在对应类目文件夹下新建一个 `.md` 文件，例如 `docs/大手印/降雷大手印导论.md`
 2. 文件开头写 frontmatter：
 
 ```yaml
@@ -23,11 +23,24 @@ author: 译者姓名
 ```
 
 3. 正文用简体中文撰写，Markdown 格式
-4. 打开对应类目的 `index.md`（如 `docs/dashouyin/index.md`），在文章列表里加一行链接：
+4. 打开对应类目的 `index.md`（如 `docs/大手印/index.md`），在文章列表里加一行链接：
 
 ```html
-<li><a href="/dashouyin/降雷大手印导论">降雷大手印导论</a><span class="dt-article-date">2026-08-26</span></li>
+<li><a href="/大手印/降雷大手印导论">降雷大手印导论</a><span class="dt-article-date">2026-08-26</span></li>
 ```
+
+## 类目文件夹对照
+
+| 文件夹（中文） | 对应内容 |
+| --- | --- |
+| 唯识 | 唯识类文章 |
+| 中观 | 中观类文章 |
+| 华严 | 华严类文章 |
+| 禅宗 | 禅宗类文章 |
+| 密宗 | 密宗类文章 |
+| 大手印 | 大手印类文章 |
+| 大圆满 | 大圆满类文章 |
+| 随笔 | 闻思心得随笔 |
 
 ## 部署到 Cloudflare Pages
 
