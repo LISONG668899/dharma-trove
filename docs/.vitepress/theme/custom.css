@@ -42,8 +42,24 @@ html[data-script='traditional'] {
   margin-left: 8px;
 }
 
-/* 首页类目卡片（"豆腐块"）在手机端强制每行两个，
-   VitePress 默认在窄屏下是每行一个，这里覆盖它的宽度规则 */
+/* 首页类目卡片（"豆腐块"）：只保留单行标题，去掉描述文字后
+   默认内容靠左、卡片留有多余高度，这里改成单行文字左右居中 */
+.VPFeature .box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 64px;
+  padding: 20px 16px;
+}
+.VPFeature .title {
+  text-align: center;
+  font-size: 17px;
+}
+.VPFeature .icon,
+.VPFeature .details {
+  display: none;
+}
+
 @media (max-width: 639px) {
   .VPFeatures .container .items .item {
     width: 50% !important;
@@ -51,6 +67,27 @@ html[data-script='traditional'] {
   .VPFeatures .container .items .item .VPFeature {
     margin: 4px;
   }
+  .VPFeature .box {
+    min-height: 52px;
+    padding: 14px 10px;
+  }
+}
+
+/* 首页主标题「藏汉佛教精华」改金色，
+   用深浅两层描边/阴影保证在亮色和暗色背景下都能看清 */
+.VPHero .name {
+  color: #d4a017 !important;
+  -webkit-text-fill-color: #d4a017 !important;
+  text-shadow:
+    0 0 1px rgba(0, 0, 0, 0.35),
+    0 1px 3px rgba(0, 0, 0, 0.25);
+}
+html.dark .VPHero .name {
+  color: #f0c040 !important;
+  -webkit-text-fill-color: #f0c040 !important;
+  text-shadow:
+    0 0 1px rgba(0, 0, 0, 0.6),
+    0 1px 4px rgba(0, 0, 0, 0.5);
 }
 
 /* 导航栏左上角 Logo —— VitePress 默认限制得很小（24px），这里放大 */

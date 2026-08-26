@@ -3,30 +3,22 @@ layout: home
 hero:
   name: 藏汉佛教精华
   text: DharmaTrove
-  tagline: 唯识中观 · 禅宗宝箧 · 密续精华 · 大手印 · 大圆满
+  tagline: 承继利美精神，不拘宗派，致力于藏汉显密佛法精华文献的发掘、白话转译与长久保存。愿正法余晖，于末世愈加灿耀。
 features:
   - title: 唯识
-    details: 唯识典籍精要
     link: /weishi/
   - title: 中观
-    details: 中观典籍精要
     link: /zhongguan/
   - title: 华严
-    details: 华严宗典籍精要
     link: /huayan/
-  - title: 禅宗宝箧
-    details: 禅宗祖师语录与公案
+  - title: 禅宗
     link: /chanzong-baoqie/
-  - title: 密宗精华
-    details: 密宗要典精选
+  - title: 密宗
     link: /mixu-jinghua/
   - title: 大手印
-    details: 大手印传承法要
     link: /dashouyin/
   - title: 大圆满
-    details: 大圆满传承法要
     link: /dayuanman/
-  - title: 闻思心得
-    details: 闻思修学随笔心得
+  - title: 随笔
     link: /wensi-xinde/
 ---
