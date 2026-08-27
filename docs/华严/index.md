@@ -11,4 +11,5 @@ title: 华严
 
 <ul class="dt-article-list">
   <!-- 示例：新增文章后，在这里加一行 -->
+  <li><a href="/华严/华严发菩提心章">华严发菩提心章</a><span class="dt-article-date">2026-08-27</span></li>
 </ul>
