@@ -137,3 +137,19 @@ html.dark .VPHero .name {
   margin: 1.5em 0;
   line-height: 1.9;
 }
+
+/* 副标题／经题：用于标题下方的正式经题、卷题等，
+   比 dt-title 小一号，仍居中，与正文明显区分 */
+.dt-subtitle {
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+  color: var(--vp-c-text-2);
+  margin: 0 0 1.4em;
+  line-height: 1.7;
+}
+@media (max-width: 768px) {
+  .dt-subtitle {
+    font-size: 16px;
+  }
+}
