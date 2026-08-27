@@ -11,4 +11,5 @@ title: 大手印
 
 <ul class="dt-article-list">
   <!-- 示例：新增文章后，在这里加一行 -->
+  <li><a href="/大手印/大手印之止、动、觉三法修持窍诀">大手印之止、动、觉三法修持窍诀</a><span class="dt-article-date">2026-08-27</span></li>
 </ul>
