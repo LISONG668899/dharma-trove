@@ -11,4 +11,5 @@ title: 禅宗
 
 <ul class="dt-article-list">
   <!-- 示例：新增文章后，在这里加一行 -->
+  <li><a href="/禅宗/六祖坛经（敦煌本）">六祖坛经（敦煌本）</a><span class="dt-article-date">2026-08-27</span></li>
 </ul>
