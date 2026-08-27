@@ -115,3 +115,25 @@ html.dark .VPHero .name {
   background-repeat: no-repeat;
   background-position: center;
 }
+
+/* 文章正文标题：不用 markdown 的 # 标题符号（避免和代码块混用时的渲染问题），
+   改用这个 class 包一层 <p>，视觉上比正文字号明显大一圈、加粗，起到标题的效果 */
+.dt-title {
+  font-size: 26px;
+  font-weight: 700;
+  text-align: center;
+  margin: 0.6em 0 1em;
+  line-height: 1.4;
+}
+@media (max-width: 768px) {
+  .dt-title {
+    font-size: 22px;
+  }
+}
+
+/* 偈颂／韵文：一句一行、左右居中，与散文正文区分开 */
+.dt-verse {
+  text-align: center;
+  margin: 1.5em 0;
+  line-height: 1.9;
+}
