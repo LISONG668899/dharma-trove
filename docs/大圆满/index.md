@@ -14,4 +14,5 @@ title: 大圆满
   <li><a href="/大圆满/大圆满不共四种三昧耶">大圆满不共四种三昧耶</a><span class="dt-article-date">2026-08-27</span></li>
   <li><a href="/大圆满/觉空密意太阳">觉空密意太阳</a><span class="dt-article-date">2026-08-27</span></li>
   <li><a href="/大圆满/狮吼论">狮吼论</a><span class="dt-article-date">2026-08-27</span></li>
+  <li><a href="/大圆满/修时观心六法">修时观心六法</a><span class="dt-article-date">2026-08-27</span></li>
 </ul>
