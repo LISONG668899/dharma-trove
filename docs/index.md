@@ -13,10 +13,10 @@ features:
     link: /华严/
   - title: 禅宗
     link: /禅宗/
-  - title: 密宗
-    link: /密宗/
-  - title: 随笔
-    link: /随笔/
+  - title: 净土
+    link: /净土/
+  - title: 综合
+    link: /综合/
   - title: 大手印
     link: /大手印/
   - title: 大圆满

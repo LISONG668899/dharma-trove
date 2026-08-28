@@ -24,7 +24,7 @@ export default defineConfig({
     // 社交平台转发卡片（微信/微博/Twitter等分享时显示的横幅图）
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: '藏汉佛教精华 · DharmaTrove' }],
-    ['meta', { property: 'og:description', content: '唯识、中观、华严、禅宗、密宗、大手印、大圆满——藏汉佛教典籍精华白话转译' }],
+    ['meta', { property: 'og:description', content: '唯识、中观、华严、禅宗、净土、大手印、大圆满——藏汉佛教典籍精华白话转译' }],
     ['meta', { property: 'og:image', content: '/og-image.png' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:image', content: '/og-image.png' }]
@@ -34,7 +34,7 @@ export default defineConfig({
     // 导航栏左上角 Logo
     logo: '/logo.png',
 
-    // 导航栏顺序：关于我们排最前，随笔排最后，中间按内容体系排列
+    // 导航栏顺序：关于我们排最前，综合排最后，中间按内容体系排列
     nav: [
       { text: '首页', link: '/' },
       { text: '关于我们', link: '/about' },
@@ -42,10 +42,10 @@ export default defineConfig({
       { text: '中观', link: '/中观/' },
       { text: '华严', link: '/华严/' },
       { text: '禅宗', link: '/禅宗/' },
-      { text: '密宗', link: '/密宗/' },
+      { text: '净土', link: '/净土/' },
       { text: '大手印', link: '/大手印/' },
       { text: '大圆满', link: '/大圆满/' },
-      { text: '随笔', link: '/随笔/' }
+      { text: '综合', link: '/综合/' }
     ],
 
     sidebar: {
@@ -53,10 +53,10 @@ export default defineConfig({
       '/中观/': [{ text: '中观', link: '/中观/' }],
       '/华严/': [{ text: '华严', link: '/华严/' }],
       '/禅宗/': [{ text: '禅宗', link: '/禅宗/' }],
-      '/密宗/': [{ text: '密宗', link: '/密宗/' }],
+      '/净土/': [{ text: '净土', link: '/净土/' }],
       '/大手印/': [{ text: '大手印', link: '/大手印/' }],
       '/大圆满/': [{ text: '大圆满', link: '/大圆满/' }],
-      '/随笔/': [{ text: '随笔', link: '/随笔/' }]
+      '/综合/': [{ text: '综合', link: '/综合/' }]
     },
 
     footer: {
