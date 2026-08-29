@@ -12,4 +12,5 @@ title: 综合
 <ul class="dt-article-list">
   <!-- 示例：新增文章后，在这里加一行 -->
   <li><a href="/综合/摄真性颂末品导读">摄真性颂末品导读</a><span class="dt-article-date">2026-08-29</span></li>
+  <li><a href="/综合/利益初学者之生圆次第义理明示——简明易解之论">利益初学者之生圆次第义理明示——简明易解之论</a><span class="dt-article-date">2026-08-29</span></li>
 </ul>
