@@ -14,4 +14,6 @@ title: 中观
   <li><a href="/中观/二谛明灯">二谛明灯</a><span class="dt-article-date">2026-08-27</span></li>
   <li><a href="/中观/十八空论">十八空论</a><span class="dt-article-date">2026-08-27</span></li>
   <li><a href="/中观/十二门论">十二门论</a><span class="dt-article-date">2026-08-27</span></li>
+  <li><a href="/中观/大乘稻芉经随听疏">大乘稻芉经随听疏</a><span class="dt-article-date">2026-08-29</span></li>
+  <li><a href="/中观/大乘稻芉经随听疏决">大乘稻芉经随听疏决</a><span class="dt-article-date">2026-08-29</span></li>
 </ul>
