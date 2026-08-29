@@ -12,7 +12,7 @@ $repoRoot = $PSScriptRoot
 $desktop = [Environment]::GetFolderPath("Desktop")
 $inbox = Join-Path $repoRoot "待发布"
 $docsRoot = Join-Path $repoRoot "docs"
-$categories = @("唯识", "中观", "华严", "禅宗", "密宗", "大手印", "大圆满", "随笔")
+$categories = @("唯识", "中观", "华严", "禅宗", "净土", "大手印", "大圆满", "综合")
 
 Write-Host "======================================"
 Write-Host "  藏汉佛教精华 · 一键发布"
