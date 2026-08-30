@@ -21,4 +21,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记04-2烦恼杂染">瑜伽论记04-2烦恼杂染</a><span class="dt-article-date">2026-08-30</span></li>
   <li><a href="/唯识/瑜伽论记04-3业杂染十业道">瑜伽论记04-3业杂染十业道</a><span class="dt-article-date">2026-08-30</span></li>
   <li><a href="/唯识/瑜伽论记05-1业果五无间与业差别">瑜伽论记05-1业果五无间与业差别</a><span class="dt-article-date">2026-08-30</span></li>
+  <li><a href="/唯识/瑜伽论记05-2三福业与黑白四业">瑜伽论记05-2三福业与黑白四业</a><span class="dt-article-date">2026-08-30</span></li>
 </ul>
