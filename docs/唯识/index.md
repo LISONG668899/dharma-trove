@@ -17,4 +17,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记03-2受用因缘果与如理作意">瑜伽论记03-2受用因缘果与如理作意</a><span class="dt-article-date">2026-08-30</span></li>
   <li><a href="/唯识/瑜伽论记03-3十六异论上">瑜伽论记03-3十六异论上</a><span class="dt-article-date">2026-08-30</span></li>
   <li><a href="/唯识/瑜伽论记03-4十六异论中">瑜伽论记03-4十六异论中</a><span class="dt-article-date">2026-08-30</span></li>
+  <li><a href="/唯识/瑜伽论记04-1十六异论六至十六">瑜伽论记04-1十六异论六至十六</a><span class="dt-article-date">2026-08-30</span></li>
 </ul>
