@@ -13,4 +13,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记02-1种子与劫量">瑜伽论记02-1种子与劫量</a><span class="dt-article-date">2026-08-30</span></li>
   <li><a href="/唯识/瑜伽论记02-2三灾坏成与器世间安立">瑜伽论记02-2三灾坏成与器世间安立</a><span class="dt-article-date">2026-08-30</span></li>
   <li><a href="/唯识/瑜伽论记02-3意地十门">瑜伽论记02-3意地十门</a><span class="dt-article-date">2026-08-30</span></li>
+  <li><a href="/唯识/瑜伽论记03-1三地建立与界处所">瑜伽论记03-1三地建立与界处所</a><span class="dt-article-date">2026-08-30</span></li>
 </ul>
