@@ -19,4 +19,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记03-4十六异论中">瑜伽论记03-4十六异论中</a><span class="dt-article-date">2026-08-30</span></li>
   <li><a href="/唯识/瑜伽论记04-1十六异论六至十六">瑜伽论记04-1十六异论六至十六</a><span class="dt-article-date">2026-08-30</span></li>
   <li><a href="/唯识/瑜伽论记04-2烦恼杂染">瑜伽论记04-2烦恼杂染</a><span class="dt-article-date">2026-08-30</span></li>
+  <li><a href="/唯识/瑜伽论记04-3业杂染十业道">瑜伽论记04-3业杂染十业道</a><span class="dt-article-date">2026-08-30</span></li>
 </ul>
