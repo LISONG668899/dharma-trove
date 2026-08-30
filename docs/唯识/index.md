@@ -15,4 +15,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记02-3意地十门">瑜伽论记02-3意地十门</a><span class="dt-article-date">2026-08-30</span></li>
   <li><a href="/唯识/瑜伽论记03-1三地建立与界处所">瑜伽论记03-1三地建立与界处所</a><span class="dt-article-date">2026-08-30</span></li>
   <li><a href="/唯识/瑜伽论记03-2受用因缘果与如理作意">瑜伽论记03-2受用因缘果与如理作意</a><span class="dt-article-date">2026-08-30</span></li>
+  <li><a href="/唯识/瑜伽论记03-3十六异论上">瑜伽论记03-3十六异论上</a><span class="dt-article-date">2026-08-30</span></li>
 </ul>
