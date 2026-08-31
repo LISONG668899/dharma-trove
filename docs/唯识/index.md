@@ -32,4 +32,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记08-1定的通辨与八解脱">瑜伽论记08-1定的通辨与八解脱</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记08-2胜处遍处与三三摩地">瑜伽论记08-2胜处遍处与三三摩地</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记08-3四无量修定与五圣智">瑜伽论记08-3四无量修定与五圣智</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记08-4圣五支金刚喻定与灭尽定">瑜伽论记08-4圣五支金刚喻定与灭尽定</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
