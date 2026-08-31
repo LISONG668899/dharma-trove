@@ -25,4 +25,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记05-3缘起门与十二支">瑜伽论记05-3缘起门与十二支</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记06-1爱取有生老死与缘起次第">瑜伽论记06-1爱取有生老死与缘起次第</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记06-2分别缘门">瑜伽论记06-2分别缘门</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记06-3分别缘门后半与摄诸经">瑜伽论记06-3分别缘门后半与摄诸经</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
