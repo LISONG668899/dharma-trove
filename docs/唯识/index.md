@@ -35,4 +35,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记08-4圣五支金刚喻定与灭尽定">瑜伽论记08-4圣五支金刚喻定与灭尽定</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记09-1杂义经与非等引地">瑜伽论记09-1杂义经与非等引地</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记09-2有心无心地与闻所成地">瑜伽论记09-2有心无心地与闻所成地</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记09-3增三与增四诸门">瑜伽论记09-3增三与增四诸门</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
