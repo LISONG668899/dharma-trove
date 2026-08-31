@@ -23,4 +23,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记05-1业果五无间与业差别">瑜伽论记05-1业果五无间与业差别</a><span class="dt-article-date">2026-08-30</span></li>
   <li><a href="/唯识/瑜伽论记05-2三福业与黑白四业">瑜伽论记05-2三福业与黑白四业</a><span class="dt-article-date">2026-08-30</span></li>
   <li><a href="/唯识/瑜伽论记05-3缘起门与十二支">瑜伽论记05-3缘起门与十二支</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记06-1爱取有生老死与缘起次第">瑜伽论记06-1爱取有生老死与缘起次第</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
