@@ -27,4 +27,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记06-2分别缘门">瑜伽论记06-2分别缘门</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记06-3分别缘门后半与摄诸经">瑜伽论记06-3分别缘门后半与摄诸经</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记07-1等引地安立">瑜伽论记07-1等引地安立</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记07-2出诸受事四依与作意">瑜伽论记07-2出诸受事四依与作意</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
