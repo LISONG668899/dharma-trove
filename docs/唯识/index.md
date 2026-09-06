@@ -47,4 +47,6 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记10-6戒学清净相与五支戒义">瑜伽论记10-6戒学清净相与五支戒义</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记10-7精进五支头陀功德与五盖对治">瑜伽论记10-7精进五支头陀功德与五盖对治</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记10-8类流贪与佛陀苦行故事">瑜伽论记10-8类流贪与佛陀苦行故事</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记10-10善说三句与佛陀舍寿行">瑜伽论记10-10善说三句与佛陀舍寿行</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记10-9劬劳收尾得义与论议开篇">瑜伽论记10-9劬劳收尾得义与论议开篇</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
