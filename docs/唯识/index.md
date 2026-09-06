@@ -41,4 +41,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记09-6现量比量圣教量与声明工业明">瑜伽论记09-6现量比量圣教量与声明工业明</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记10-1思所成地自相与共相">瑜伽论记10-1思所成地自相与共相</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记10-2假相有法与流转还灭因">瑜伽论记10-2假相有法与流转还灭因</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记10-3思择诸法与三种伽陀">瑜伽论记10-3思择诸法与三种伽陀</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
