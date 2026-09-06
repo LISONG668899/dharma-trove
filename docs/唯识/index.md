@@ -57,4 +57,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记11-5种姓的本质与一相续之辨">瑜伽论记11-5种姓的本质与一相续之辨</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记11-6趣入地六个阶位与修行迟速">瑜伽论记11-6趣入地六个阶位与修行迟速</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记11-7出离地戒律仪与十种苦行邪计">瑜伽论记11-7出离地戒律仪与十种苦行邪计</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记11-8根律仪守护六根与饮食知量">瑜伽论记11-8根律仪守护六根与饮食知量</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
