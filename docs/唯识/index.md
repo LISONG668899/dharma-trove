@@ -52,4 +52,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记10-11阿罗汉四相弥勒授记与卷末总结">瑜伽论记10-11阿罗汉四相弥勒授记与卷末总结</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记11-1修所成地体性与生圆满">瑜伽论记11-1修所成地体性与生圆满</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记11-2修习对治十种观法">瑜伽论记11-2修习对治十种观法</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记11-3三摩地自在与出世间清净">瑜伽论记11-3三摩地自在与出世间清净</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
