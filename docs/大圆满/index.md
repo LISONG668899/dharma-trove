@@ -18,4 +18,5 @@ title: 大圆满
   <li><a href="/大圆满/彻却关要">彻却关要</a><span class="dt-article-date">2026-08-29</span></li>
   <li><a href="/大圆满/古萨里之心性引导">古萨里之心性引导</a><span class="dt-article-date">2026-08-29</span></li>
   <li><a href="/大圆满/赐拉旺扎西之教言">赐拉旺扎西之教言</a><span class="dt-article-date">2026-08-29</span></li>
+  <li><a href="/大圆满/普贤六界续·十六种辨别">普贤六界续·十六种辨别</a><span class="dt-article-date">2026-09-06</span></li>
 </ul>
