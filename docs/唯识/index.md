@@ -66,4 +66,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记12-5缘起观与界差别观">瑜伽论记12-5缘起观与界差别观</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记12-6阿那波那念观入出息体相">瑜伽论记12-6阿那波那念观入出息体相</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记12-7数息观悟蕴悟缘起悟圣谛与十六胜行">瑜伽论记12-7数息观悟蕴悟缘起悟圣谛与十六胜行</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记12-8三苦的建立与四种教授">瑜伽论记12-8三苦的建立与四种教授</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
