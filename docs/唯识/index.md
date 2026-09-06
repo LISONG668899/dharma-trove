@@ -43,4 +43,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记10-2假相有法与流转还灭因">瑜伽论记10-2假相有法与流转还灭因</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记10-3思择诸法与三种伽陀">瑜伽论记10-3思择诸法与三种伽陀</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记10-4三法无和合与二谛人法有无">瑜伽论记10-4三法无和合与二谛人法有无</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记10-5意趣伽陀开篇与三学总纲">瑜伽论记10-5意趣伽陀开篇与三学总纲</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
