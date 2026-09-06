@@ -63,4 +63,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记12-2闻正法十二分教与三藏所摄">瑜伽论记12-2闻正法十二分教与三藏所摄</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记12-3二十八种补特伽罗品类差别">瑜伽论记12-3二十八种补特伽罗品类差别</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记12-4遍满所缘与净行所缘慈心观">瑜伽论记12-4遍满所缘与净行所缘慈心观</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记12-5缘起观与界差别观">瑜伽论记12-5缘起观与界差别观</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
