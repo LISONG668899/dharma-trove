@@ -68,4 +68,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记12-7数息观悟蕴悟缘起悟圣谛与十六胜行">瑜伽论记12-7数息观悟蕴悟缘起悟圣谛与十六胜行</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记12-8三苦的建立与四种教授">瑜伽论记12-8三苦的建立与四种教授</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记12-9三学体性次第与三解脱门">瑜伽论记12-9三学体性次第与三解脱门</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记12-10随顺学法瑜伽坏与瑜伽">瑜伽论记12-10随顺学法瑜伽坏与瑜伽</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
