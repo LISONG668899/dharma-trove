@@ -45,4 +45,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记10-4三法无和合与二谛人法有无">瑜伽论记10-4三法无和合与二谛人法有无</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记10-5意趣伽陀开篇与三学总纲">瑜伽论记10-5意趣伽陀开篇与三学总纲</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记10-6戒学清净相与五支戒义">瑜伽论记10-6戒学清净相与五支戒义</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记10-7精进五支头陀功德与五盖对治">瑜伽论记10-7精进五支头陀功德与五盖对治</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
