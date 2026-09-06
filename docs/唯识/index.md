@@ -70,4 +70,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记12-9三学体性次第与三解脱门">瑜伽论记12-9三学体性次第与三解脱门</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记12-10随顺学法瑜伽坏与瑜伽">瑜伽论记12-10随顺学法瑜伽坏与瑜伽</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记12-11作意两种四作意与四相">瑜伽论记12-11作意两种四作意与四相</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记12-12瑜伽所作瑜伽师与想修">瑜伽论记12-12瑜伽所作瑜伽师与想修</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
