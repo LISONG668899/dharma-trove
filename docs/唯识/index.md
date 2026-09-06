@@ -60,4 +60,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记11-8根律仪守护六根与饮食知量">瑜伽论记11-8根律仪守护六根与饮食知量</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记11-9悟寤瑜伽经行宴坐与正知而住">瑜伽论记11-9悟寤瑜伽经行宴坐与正知而住</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记12-1善友性与十九种观想">瑜伽论记12-1善友性与十九种观想</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记12-2闻正法十二分教与三藏所摄">瑜伽论记12-2闻正法十二分教与三藏所摄</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
