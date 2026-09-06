@@ -38,4 +38,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记09-3增三与增四诸门">瑜伽论记09-3增三与增四诸门</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记09-4增五至增七诸门">瑜伽论记09-4增五至增七诸门</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记09-5增八至增十与因明论体">瑜伽论记09-5增八至增十与因明论体</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记09-6现量比量圣教量与声明工业明">瑜伽论记09-6现量比量圣教量与声明工业明</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
