@@ -73,4 +73,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记12-12瑜伽所作瑜伽师与想修">瑜伽论记12-12瑜伽所作瑜伽师与想修</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记12-13身念住三十五对身相">瑜伽论记12-13身念住三十五对身相</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记12-14受念住二十一种受的分类">瑜伽论记12-14受念住二十一种受的分类</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记12-15心念住六心与十四心">瑜伽论记12-15心念住六心与十四心</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
