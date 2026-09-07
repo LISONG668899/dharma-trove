@@ -77,4 +77,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记12-16念住内外之辨与四倒对治">瑜伽论记12-16念住内外之辨与四倒对治</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记12-17四正断的四种名义">瑜伽论记12-17四正断的四种名义</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记12-18四神足与八断行">瑜伽论记12-18四神足与八断行</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记12-19五根五力与四善根">瑜伽论记12-19五根五力与四善根</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
