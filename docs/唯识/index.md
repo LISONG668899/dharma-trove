@@ -83,4 +83,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记12-22补特伽罗异门与魔事">瑜伽论记12-22补特伽罗异门与魔事</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记12-23第三瑜伽处三门总说">瑜伽论记12-23第三瑜伽处三门总说</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记12-24九种住心与六力配属之辨">瑜伽论记12-24九种住心与六力配属之辨</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记12-25观品三门六事与不净观九胜解">瑜伽论记12-25观品三门六事与不净观九胜解</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
