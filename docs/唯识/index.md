@@ -86,4 +86,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记12-25观品三门六事与不净观九胜解">瑜伽论记12-25观品三门六事与不净观九胜解</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记12-26缘起观牵引因生起因">瑜伽论记12-26缘起观牵引因生起因</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记12-27九种加行的具体内容">瑜伽论记12-27九种加行的具体内容</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记12-28净障四句与五门总结">瑜伽论记12-28净障四句与五门总结</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
