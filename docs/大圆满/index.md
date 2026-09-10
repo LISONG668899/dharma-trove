@@ -20,4 +20,5 @@ title: 大圆满
   <li><a href="/大圆满/赐拉旺扎西之教言">赐拉旺扎西之教言</a><span class="dt-article-date">2026-08-29</span></li>
   <li><a href="/大圆满/普贤六界续·十六种辨别">普贤六界续·十六种辨别</a><span class="dt-article-date">2026-09-06</span></li>
   <li><a href="/大圆满/任运八门——大圆满基现之教理探原">任运八门——大圆满基现之教理探原</a><span class="dt-article-date">2026-09-06</span></li>
+  <li><a href="/大圆满/七句祈祷文释·白莲花">七句祈祷文释·白莲花</a><span class="dt-article-date">2026-09-10</span></li>
 </ul>
