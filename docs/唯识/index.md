@@ -91,4 +91,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记12-30初修业者取五种相修不净观">瑜伽论记12-30初修业者取五种相修不净观</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记12-31思惟观品加行与结不净观趣入念处">瑜伽论记12-31思惟观品加行与结不净观趣入念处</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记12-32类余四停观">瑜伽论记12-32类余四停观</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记12-33得色界定三种利益与行相渐增">瑜伽论记12-33得色界定三种利益与行相渐增</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
