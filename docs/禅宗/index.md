@@ -13,4 +13,5 @@ title: 禅宗
   <!-- 示例：新增文章后，在这里加一行 -->
   <li><a href="/禅宗/六祖坛经（敦煌本）">六祖坛经（敦煌本）</a><span class="dt-article-date">2026-08-27</span></li>
   <li><a href="/禅宗/《五位旨诀》议论">《五位旨诀》议论</a><span class="dt-article-date">2026-09-09</span></li>
+  <li><a href="/禅宗/普庵老人语录白话译解——兼论永嘉三关">普庵老人语录白话译解——兼论永嘉三关</a><span class="dt-article-date">2026-09-10</span></li>
 </ul>
