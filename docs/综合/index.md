@@ -17,4 +17,5 @@ title: 综合
   <li><a href="/综合/大乘修心七要根本颂">大乘修心七要根本颂</a><span class="dt-article-date">2026-08-29</span></li>
   <li><a href="/综合/论甚深净相与意伏藏之缘起">论甚深净相与意伏藏之缘起</a><span class="dt-article-date">2026-08-29</span></li>
   <li><a href="/综合/二资双运修持关要之镜">二资双运修持关要之镜</a><span class="dt-article-date">2026-09-05</span></li>
+  <li><a href="/综合/密咒道次第宝明灯">密咒道次第宝明灯</a><span class="dt-article-date">2026-09-10</span></li>
 </ul>
