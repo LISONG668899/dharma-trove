@@ -94,4 +94,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记12-33得色界定三种利益与行相渐增">瑜伽论记12-33得色界定三种利益与行相渐增</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记13-1第四瑜伽处二门总说与七作意伏惑">瑜伽论记13-1第四瑜伽处二门总说与七作意伏惑</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记13-2四作意相摄与离色界惑七作意">瑜伽论记13-2四作意相摄与离色界惑七作意</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记13-3广辨八定初禅至四禅">瑜伽论记13-3广辨八定初禅至四禅</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
