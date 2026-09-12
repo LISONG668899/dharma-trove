@@ -22,4 +22,5 @@ title: 大圆满
   <li><a href="/大圆满/任运八门——大圆满基现之教理探原">任运八门——大圆满基现之教理探原</a><span class="dt-article-date">2026-09-06</span></li>
   <li><a href="/大圆满/七句祈祷文释·白莲花">七句祈祷文释·白莲花</a><span class="dt-article-date">2026-09-10</span></li>
   <li><a href="/大圆满/迷乱之基根本推究录">迷乱之基根本推究录</a><span class="dt-article-date">2026-09-12</span></li>
+  <li><a href="/大圆满/见地果断录">见地果断录</a><span class="dt-article-date">2026-09-12</span></li>
 </ul>
