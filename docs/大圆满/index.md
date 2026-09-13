@@ -23,4 +23,5 @@ title: 大圆满
   <li><a href="/大圆满/七句祈祷文释·白莲花">七句祈祷文释·白莲花</a><span class="dt-article-date">2026-09-10</span></li>
   <li><a href="/大圆满/迷乱之基根本推究录">迷乱之基根本推究录</a><span class="dt-article-date">2026-09-12</span></li>
   <li><a href="/大圆满/见地果断录">见地果断录</a><span class="dt-article-date">2026-09-12</span></li>
+  <li><a href="/大圆满/基道果祈愿文">基道果祈愿文</a><span class="dt-article-date">2026-09-13</span></li>
 </ul>
