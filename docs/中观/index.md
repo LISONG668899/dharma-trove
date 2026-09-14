@@ -18,4 +18,5 @@ title: 中观
   <li><a href="/中观/大乘稻秆经随听疏决">大乘稻秆经随听疏决</a><span class="dt-article-date">2026-08-29</span></li>
   <li><a href="/中观/中观法界赞广释">中观法界赞广释</a><span class="dt-article-date">2026-09-10</span></li>
   <li><a href="/中观/二谛义">二谛义</a><span class="dt-article-date">2026-09-10</span></li>
+  <li><a href="/中观/甚深中观见引导">甚深中观见引导</a><span class="dt-article-date">2026-09-14</span></li>
 </ul>
