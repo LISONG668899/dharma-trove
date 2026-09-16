@@ -100,4 +100,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记13-6趣出世间七作意与了相作意观无常">瑜伽论记13-6趣出世间七作意与了相作意观无常</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记13-7比量观刹那生灭破自在天为因">瑜伽论记13-7比量观刹那生灭破自在天为因</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记13-8不安隐行与集灭道三谛十二行">瑜伽论记13-8不安隐行与集灭道三谛十二行</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记13-9胜解作意四善根暖顶忍世第一法">瑜伽论记13-9胜解作意四善根暖顶忍世第一法</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
