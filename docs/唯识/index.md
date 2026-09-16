@@ -118,4 +118,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记14-11发心退失因缘及不退胜利">瑜伽论记14-11发心退失因缘及不退胜利</a><span class="dt-article-date">2026-09-16</span></li>
   <li><a href="/唯识/瑜伽论记14-12威力品总说及神通体性">瑜伽论记14-12威力品总说及神通体性</a><span class="dt-article-date">2026-09-16</span></li>
   <li><a href="/唯识/瑜伽论记14-13神境智通能变门十八变">瑜伽论记14-13神境智通能变门十八变</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记14-14神境智通能化门及二事业">瑜伽论记14-14神境智通能化门及二事业</a><span class="dt-article-date">2026-09-16</span></li>
 </ul>
