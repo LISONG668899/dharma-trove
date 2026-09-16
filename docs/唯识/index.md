@@ -112,4 +112,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记14-5二障四重辨体与断惑位次">瑜伽论记14-5二障四重辨体与断惑位次</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记14-6种姓相施波罗蜜">瑜伽论记14-6种姓相施波罗蜜</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记14-7忍波罗蜜与精进波罗蜜">瑜伽论记14-7忍波罗蜜与精进波罗蜜</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记14-8慧波罗蜜与种姓相总结">瑜伽论记14-8慧波罗蜜与种姓相总结</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
