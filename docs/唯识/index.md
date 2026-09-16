@@ -114,4 +114,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记14-7忍波罗蜜与精进波罗蜜">瑜伽论记14-7忍波罗蜜与精进波罗蜜</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记14-8慧波罗蜜与种姓相总结">瑜伽论记14-8慧波罗蜜与种姓相总结</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记14-9随义分别四门种姓品收尾">瑜伽论记14-9随义分别四门种姓品收尾</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记14-10发心品愿体与发心五句四名">瑜伽论记14-10发心品愿体与发心五句四名</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
