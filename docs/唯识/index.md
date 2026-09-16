@@ -122,4 +122,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记14-15宿住天眼耳知心差别漏尽通">瑜伽论记14-15宿住天眼耳知心差别漏尽通</a><span class="dt-article-date">2026-09-16</span></li>
   <li><a href="/唯识/瑜伽论记14-16法威力俱生威力及三轮总摄">瑜伽论记14-16法威力俱生威力及三轮总摄</a><span class="dt-article-date">2026-09-16</span></li>
   <li><a href="/唯识/瑜伽论记14-17自他利品总说纯共自他利四句">瑜伽论记14-17自他利品总说纯共自他利四句</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记14-18自他利品利乐五相因果摄及毕竟不毕竟">瑜伽论记14-18自他利品利乐五相因果摄及毕竟不毕竟</a><span class="dt-article-date">2026-09-16</span></li>
 </ul>
