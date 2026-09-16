@@ -19,4 +19,5 @@ title: 综合
   <li><a href="/综合/二资双运修持关要之镜">二资双运修持关要之镜</a><span class="dt-article-date">2026-09-05</span></li>
   <li><a href="/综合/密咒道次第宝明灯">密咒道次第宝明灯</a><span class="dt-article-date">2026-09-10</span></li>
   <li><a href="/综合/饶益有情九观察笔记">饶益有情九观察笔记</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/综合/般若心经·密咒义释">般若心经·密咒义释</a><span class="dt-article-date">2026-09-16</span></li>
 </ul>
