@@ -104,4 +104,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记13-10远离作意真见道与十二相状">瑜伽论记13-10远离作意真见道与十二相状</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记13-11观察作意摄乐加行究竟">瑜伽论记13-11观察作意摄乐加行究竟</a><span class="dt-article-date">2026-08-31</span></li>
   <li><a href="/唯识/瑜伽论记13-12究竟果阿罗汉三十二种功德">瑜伽论记13-12究竟果阿罗汉三十二种功德</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记13-13独觉地麟角与部行的修行历程">瑜伽论记13-13独觉地麟角与部行的修行历程</a><span class="dt-article-date">2026-08-31</span></li>
 </ul>
