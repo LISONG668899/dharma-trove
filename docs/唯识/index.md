@@ -142,4 +142,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记14-35戒品九门余七门戒胜利戒所作戒品真正译毕">瑜伽论记14-35戒品九门余七门戒胜利戒所作戒品真正译毕</a><span class="dt-article-date">2026-09-17</span></li>
   <li><a href="/唯识/瑜伽论记14-36忍品九门详解">瑜伽论记14-36忍品九门详解</a><span class="dt-article-date">2026-09-17</span></li>
   <li><a href="/唯识/瑜伽论记14-37精进品九门详解">瑜伽论记14-37精进品九门详解</a><span class="dt-article-date">2026-09-17</span></li>
+  <li><a href="/唯识/瑜伽论记14-38静虑品九门详解">瑜伽论记14-38静虑品九门详解</a><span class="dt-article-date">2026-09-17</span></li>
 </ul>
