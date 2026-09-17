@@ -134,4 +134,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记14-27成就品六门辨析">瑜伽论记14-27成就品六门辨析</a><span class="dt-article-date">2026-09-16</span></li>
   <li><a href="/唯识/瑜伽论记14-28菩提品五门辨体十号七最胜诸佛出世">瑜伽论记14-28菩提品五门辨体十号七最胜诸佛出世</a><span class="dt-article-date">2026-09-16</span></li>
   <li><a href="/唯识/瑜伽论记14-29力种姓品胜解求法十因前五">瑜伽论记14-29力种姓品胜解求法十因前五</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记14-30力种姓品三性十因五果闻法说法教授教诫">瑜伽论记14-30力种姓品三性十因五果闻法说法教授教诫</a><span class="dt-article-date">2026-09-16</span></li>
 </ul>
