@@ -29,4 +29,5 @@ title: 大圆满
   <li><a href="/大圆满/观音上师开示《三句击要》">观音上师开示《三句击要》</a><span class="dt-article-date">2026-09-14</span></li>
   <li><a href="/大圆满/菩提心修习·金溶石">菩提心修习·金溶石</a><span class="dt-article-date">2026-09-16</span></li>
   <li><a href="/大圆满/七金刚钉">七金刚钉</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/大圆满/将大圆满自性义付诸修持的教言">将大圆满自性义付诸修持的教言</a><span class="dt-article-date">2026-09-17</span></li>
 </ul>
