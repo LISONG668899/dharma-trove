@@ -132,4 +132,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记14-25愚夫不了离言起八种分别详解">瑜伽论记14-25愚夫不了离言起八种分别详解</a><span class="dt-article-date">2026-09-16</span></li>
   <li><a href="/唯识/瑜伽论记14-26四寻思四如实智证大涅槃三品总结">瑜伽论记14-26四寻思四如实智证大涅槃三品总结</a><span class="dt-article-date">2026-09-16</span></li>
   <li><a href="/唯识/瑜伽论记14-27成就品六门辨析">瑜伽论记14-27成就品六门辨析</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记14-28菩提品五门辨体十号七最胜诸佛出世">瑜伽论记14-28菩提品五门辨体十号七最胜诸佛出世</a><span class="dt-article-date">2026-09-16</span></li>
 </ul>
