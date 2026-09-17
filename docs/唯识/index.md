@@ -144,4 +144,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记14-37精进品九门详解">瑜伽论记14-37精进品九门详解</a><span class="dt-article-date">2026-09-17</span></li>
   <li><a href="/唯识/瑜伽论记14-38静虑品九门详解">瑜伽论记14-38静虑品九门详解</a><span class="dt-article-date">2026-09-17</span></li>
   <li><a href="/唯识/瑜伽论记14-39慧品九门六度总结引证赞叹">瑜伽论记14-39慧品九门六度总结引证赞叹</a><span class="dt-article-date">2026-09-17</span></li>
+  <li><a href="/唯识/瑜伽论记14-40摄事品爱语利行同事及总结得果">瑜伽论记14-40摄事品爱语利行同事及总结得果</a><span class="dt-article-date">2026-09-17</span></li>
 </ul>
