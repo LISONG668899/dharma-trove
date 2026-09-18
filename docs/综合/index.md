@@ -26,4 +26,5 @@ title: 综合
   <li><a href="/综合/方便道与解脱道之差别">方便道与解脱道之差别</a><span class="dt-article-date">2026-09-18</span></li>
   <li><a href="/综合/致多珠活佛仓的诙谐书信">致多珠活佛仓的诙谐书信</a><span class="dt-article-date">2026-09-18</span></li>
   <li><a href="/综合/教诫无偏圆满修学殊胜道">教诫无偏圆满修学殊胜道</a><span class="dt-article-date">2026-09-18</span></li>
+  <li><a href="/综合/单传窍诀珍宝库">单传窍诀珍宝库</a><span class="dt-article-date">2026-09-18</span></li>
 </ul>
