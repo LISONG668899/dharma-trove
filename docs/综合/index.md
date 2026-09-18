@@ -23,4 +23,5 @@ title: 综合
   <li><a href="/综合/掌中论">掌中论</a><span class="dt-article-date">2026-09-16</span></li>
   <li><a href="/综合/内外宗义辨析摄要">内外宗义辨析摄要</a><span class="dt-article-date">2026-09-17</span></li>
   <li><a href="/综合/以石驱赶">以石驱赶</a><span class="dt-article-date">2026-09-18</span></li>
+  <li><a href="/综合/方便道与解脱道之差别">方便道与解脱道之差别</a><span class="dt-article-date">2026-09-18</span></li>
 </ul>
