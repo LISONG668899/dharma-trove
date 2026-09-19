@@ -30,4 +30,5 @@ title: 综合
   <li><a href="/综合/趋入菩萨行修法次第">趋入菩萨行修法次第</a><span class="dt-article-date">2026-09-18</span></li>
   <li><a href="/综合/皈依发心摄要引导">皈依发心摄要引导</a><span class="dt-article-date">2026-09-18</span></li>
   <li><a href="/综合/佛子菩萨十地五道摄义">佛子菩萨十地五道摄义</a><span class="dt-article-date">2026-09-19</span></li>
+  <li><a href="/综合/凡具菩提心之士夫">凡具菩提心之士夫</a><span class="dt-article-date">2026-09-19</span></li>
 </ul>
