@@ -32,4 +32,5 @@ title: 综合
   <li><a href="/综合/佛子菩萨十地五道摄义">佛子菩萨十地五道摄义</a><span class="dt-article-date">2026-09-19</span></li>
   <li><a href="/综合/凡具菩提心之士夫">凡具菩提心之士夫</a><span class="dt-article-date">2026-09-19</span></li>
   <li><a href="/综合/般若庄严论总义修行次第略讲教典善说">般若庄严论总义修行次第略讲教典善说</a><span class="dt-article-date">2026-09-19</span></li>
+  <li><a href="/综合/致阿拉多阿之教言">致阿拉多阿之教言</a><span class="dt-article-date">2026-09-19</span></li>
 </ul>
