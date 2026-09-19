@@ -12,4 +12,5 @@ title: 净土
 <ul class="dt-article-list">
   <!-- 示例：新增文章后，在这里加一行 -->
   <li><a href="/净土/阿弥陀经五重玄义">阿弥陀经五重玄义</a><span class="dt-article-date">2026-09-10</span></li>
+  <li><a href="/净土/中阴简明教授">中阴简明教授</a><span class="dt-article-date">2026-09-19</span></li>
 </ul>
