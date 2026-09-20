@@ -21,4 +21,5 @@ title: 中观
   <li><a href="/中观/甚深中观见引导">甚深中观见引导</a><span class="dt-article-date">2026-09-14</span></li>
   <li><a href="/中观/中边分别论">中边分别论</a><span class="dt-article-date">2026-09-16</span></li>
   <li><a href="/中观/辨明二谛——大乘见地之引导">辨明二谛——大乘见地之引导</a><span class="dt-article-date">2026-09-19</span></li>
+  <li><a href="/中观/理路种子">理路种子</a><span class="dt-article-date">2026-09-20</span></li>
 </ul>
