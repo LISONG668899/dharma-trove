@@ -32,4 +32,5 @@ title: 大圆满
   <li><a href="/大圆满/将大圆满自性义付诸修持的教言">将大圆满自性义付诸修持的教言</a><span class="dt-article-date">2026-09-17</span></li>
   <li><a href="/大圆满/智者吉祥王殊胜教言">智者吉祥王殊胜教言</a><span class="dt-article-date">2026-09-18</span></li>
   <li><a href="/大圆满/修行自解脱">修行自解脱</a><span class="dt-article-date">2026-09-19</span></li>
+  <li><a href="/大圆满/普贤如来愿文（白话译本）">普贤如来愿文（白话译本）</a><span class="dt-article-date">2026-09-20</span></li>
 </ul>
