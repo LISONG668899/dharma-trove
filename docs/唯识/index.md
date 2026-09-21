@@ -176,4 +176,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记14-69证成道理立过未无三世相">瑜伽论记14-69证成道理立过未无三世相</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/唯识/瑜伽论记14-70抉择因缘四缘正释卷十三之下起">瑜伽论记14-70抉择因缘四缘正释卷十三之下起</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/唯识/瑜伽论记14-71辨缘无生心义证成道理译毕">瑜伽论记14-71辨缘无生心义证成道理译毕</a><span class="dt-article-date">2026-09-21</span></li>
+  <li><a href="/唯识/瑜伽论记14-72不相应行义二十二法五门分别">瑜伽论记14-72不相应行义二十二法五门分别</a><span class="dt-article-date">2026-09-21</span></li>
 </ul>
