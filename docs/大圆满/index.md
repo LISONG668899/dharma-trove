@@ -40,4 +40,5 @@ title: 大圆满
   <li><a href="/大圆满/立断要害之窍诀">立断要害之窍诀</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/大圆满/护持觉性本面之方便·智慧心要">护持觉性本面之方便·智慧心要</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/大圆满/心之本体">心之本体</a><span class="dt-article-date">2026-09-21</span></li>
+  <li><a href="/大圆满/三句要害之窍诀">三句要害之窍诀</a><span class="dt-article-date">2026-09-21</span></li>
 </ul>
