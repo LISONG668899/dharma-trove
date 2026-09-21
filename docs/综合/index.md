@@ -36,4 +36,5 @@ title: 综合
   <li><a href="/综合/心要教言舍弃今生贪执而成办自他二利之窍诀">心要教言舍弃今生贪执而成办自他二利之窍诀</a><span class="dt-article-date">2026-09-19</span></li>
   <li><a href="/综合/修习止住之道">修习止住之道</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/综合/寂止甚深教言">寂止甚深教言</a><span class="dt-article-date">2026-09-21</span></li>
+  <li><a href="/综合/当依止正念正知之理">当依止正念正知之理</a><span class="dt-article-date">2026-09-21</span></li>
 </ul>
