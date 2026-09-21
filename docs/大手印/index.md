@@ -16,4 +16,5 @@ title: 大手印
   <li><a href="/大手印/大手印——前行、正行、结行">大手印——前行、正行、结行</a><span class="dt-article-date">2026-08-29</span></li>
   <li><a href="/大手印/萨惹哈道歌二首">萨惹哈道歌二首</a><span class="dt-article-date">2026-09-16</span></li>
   <li><a href="/大手印/圆满次第六法摄义">圆满次第六法摄义</a><span class="dt-article-date">2026-09-18</span></li>
+  <li><a href="/大手印/五颂瑜伽证悟道歌">五颂瑜伽证悟道歌</a><span class="dt-article-date">2026-09-21</span></li>
 </ul>
