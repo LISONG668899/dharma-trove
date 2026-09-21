@@ -36,4 +36,5 @@ title: 大圆满
   <li><a href="/大圆满/三种甚深窍诀">三种甚深窍诀</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/大圆满/自证释疑金刚宝镜">自证释疑金刚宝镜</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/大圆满/心之义">心之义</a><span class="dt-article-date">2026-09-21</span></li>
+  <li><a href="/大圆满/心之自性">心之自性</a><span class="dt-article-date">2026-09-21</span></li>
 </ul>
