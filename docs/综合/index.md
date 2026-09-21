@@ -40,4 +40,5 @@ title: 综合
   <li><a href="/综合/法界平等性之义">法界平等性之义</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/综合/遣除真诚寻道者之苦——成办止观瑜伽之上师教言">遣除真诚寻道者之苦——成办止观瑜伽之上师教言</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/综合/离四种执著证悟道歌·心之甘露">离四种执著证悟道歌·心之甘露</a><span class="dt-article-date">2026-09-21</span></li>
+  <li><a href="/综合/修心七要之祈祷文·意之甘露">修心七要之祈祷文·意之甘露</a><span class="dt-article-date">2026-09-21</span></li>
 </ul>
