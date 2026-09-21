@@ -43,4 +43,5 @@ title: 大圆满
   <li><a href="/大圆满/三句要害之窍诀">三句要害之窍诀</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/大圆满/安住心性之方便">安住心性之方便</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/大圆满/所遇即解脱——简明心性指授">所遇即解脱——简明心性指授</a><span class="dt-article-date">2026-09-21</span></li>
+  <li><a href="/大圆满/应精进修行者阿仓之请而授之窍诀·金屑">应精进修行者阿仓之请而授之窍诀·金屑</a><span class="dt-article-date">2026-09-21</span></li>
 </ul>
