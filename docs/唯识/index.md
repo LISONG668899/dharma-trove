@@ -181,4 +181,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记14-74解业义三性三业恶律仪善律仪">瑜伽论记14-74解业义三性三业恶律仪善律仪</a><span class="dt-article-date">2026-09-22</span></li>
   <li><a href="/唯识/瑜伽论记14-75解业义戒头数处中业问答重辨">瑜伽论记14-75解业义戒头数处中业问答重辨</a><span class="dt-article-date">2026-09-22</span></li>
   <li><a href="/唯识/瑜伽论记14-76明二无心定无想定灭尽定">瑜伽论记14-76明二无心定无想定灭尽定</a><span class="dt-article-date">2026-09-22</span></li>
+  <li><a href="/唯识/瑜伽论记14-77虚空非择灭总辨不相应名义十门译毕">瑜伽论记14-77虚空非择灭总辨不相应名义十门译毕</a><span class="dt-article-date">2026-09-22</span></li>
 </ul>
