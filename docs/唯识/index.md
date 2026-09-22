@@ -180,4 +180,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记14-73明其种子种子相头数安立本识">瑜伽论记14-73明其种子种子相头数安立本识</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/唯识/瑜伽论记14-74解业义三性三业恶律仪善律仪">瑜伽论记14-74解业义三性三业恶律仪善律仪</a><span class="dt-article-date">2026-09-22</span></li>
   <li><a href="/唯识/瑜伽论记14-75解业义戒头数处中业问答重辨">瑜伽论记14-75解业义戒头数处中业问答重辨</a><span class="dt-article-date">2026-09-22</span></li>
+  <li><a href="/唯识/瑜伽论记14-76明二无心定无想定灭尽定">瑜伽论记14-76明二无心定无想定灭尽定</a><span class="dt-article-date">2026-09-22</span></li>
 </ul>
