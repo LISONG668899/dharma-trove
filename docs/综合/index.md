@@ -45,4 +45,5 @@ title: 综合
   <li><a href="/综合/大丈夫论上">大丈夫论上</a><span class="dt-article-date">2026-09-22</span></li>
   <li><a href="/综合/大丈夫论中">大丈夫论中</a><span class="dt-article-date">2026-09-22</span></li>
   <li><a href="/综合/大丈夫论下">大丈夫论下</a><span class="dt-article-date">2026-09-22</span></li>
+  <li><a href="/综合/转识论">转识论</a><span class="dt-article-date">2026-09-22</span></li>
 </ul>
