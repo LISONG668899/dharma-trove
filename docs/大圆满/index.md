@@ -50,4 +50,5 @@ title: 大圆满
   <li><a href="/大圆满/法性本来面目">法性本来面目</a><span class="dt-article-date">2026-09-23</span></li>
   <li><a href="/大圆满/直视本性">直视本性</a><span class="dt-article-date">2026-09-23</span></li>
   <li><a href="/大圆满/本来实相金刚句">本来实相金刚句</a><span class="dt-article-date">2026-09-23</span></li>
+  <li><a href="/大圆满/修补衰损窍诀">修补衰损窍诀</a><span class="dt-article-date">2026-09-23</span></li>
 </ul>
