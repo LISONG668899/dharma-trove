@@ -47,4 +47,5 @@ title: 大圆满
   <li><a href="/大圆满/遣除障碍·护持心性本面之道歌">遣除障碍·护持心性本面之道歌</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/大圆满/上师瑜伽·加持总集">上师瑜伽·加持总集</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/大圆满/赠郭桑登之教言道歌">赠郭桑登之教言道歌</a><span class="dt-article-date">2026-09-21</span></li>
+  <li><a href="/大圆满/法性本来面目">法性本来面目</a><span class="dt-article-date">2026-09-23</span></li>
 </ul>
