@@ -26,4 +26,5 @@ title: 中观
   <li><a href="/中观/中观甚深观修引导">中观甚深观修引导</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/中观/大乘掌珍论上卷">大乘掌珍论上卷</a><span class="dt-article-date">2026-09-22</span></li>
   <li><a href="/中观/大乘掌珍论下卷">大乘掌珍论下卷</a><span class="dt-article-date">2026-09-22</span></li>
+  <li><a href="/中观/堪布阿琼说三种缘起">堪布阿琼说三种缘起</a><span class="dt-article-date">2026-09-24</span></li>
 </ul>
