@@ -55,4 +55,5 @@ title: 大圆满
   <li><a href="/大圆满/堪布阿琼一句教言">堪布阿琼一句教言</a><span class="dt-article-date">2026-09-24</span></li>
   <li><a href="/大圆满/堪布阿琼所说五智">堪布阿琼所说五智</a><span class="dt-article-date">2026-09-24</span></li>
   <li><a href="/大圆满/奇哉教言">奇哉教言</a><span class="dt-article-date">2026-09-24</span></li>
+  <li><a href="/大圆满/圆满二资粮前行">圆满二资粮前行</a><span class="dt-article-date">2026-09-24</span></li>
 </ul>
