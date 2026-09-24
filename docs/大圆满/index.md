@@ -58,4 +58,5 @@ title: 大圆满
   <li><a href="/大圆满/圆满二资粮前行">圆满二资粮前行</a><span class="dt-article-date">2026-09-24</span></li>
   <li><a href="/大圆满/如是法性等">如是法性等</a><span class="dt-article-date">2026-09-24</span></li>
   <li><a href="/大圆满/当善思之">当善思之</a><span class="dt-article-date">2026-09-24</span></li>
+  <li><a href="/大圆满/教言犹如回声妙音">教言犹如回声妙音</a><span class="dt-article-date">2026-09-24</span></li>
 </ul>
