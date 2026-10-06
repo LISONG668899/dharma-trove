@@ -23,4 +23,5 @@ title: 大手印
   <li><a href="/大手印/萨惹哈道歌宝藏行歌">萨惹哈道歌宝藏行歌</a><span class="dt-article-date">2026-10-06</span></li>
   <li><a href="/大手印/道歌宝藏行歌释义灯">道歌宝藏行歌释义灯</a><span class="dt-article-date">2026-10-06</span></li>
   <li><a href="/大手印/萨惹哈王后道歌">萨惹哈王后道歌</a><span class="dt-article-date">2026-10-06</span></li>
+  <li><a href="/大手印/无尽宝藏圆满之歌广释（上）">无尽宝藏圆满之歌广释（上）</a><span class="dt-article-date">2026-10-06</span></li>
 </ul>
