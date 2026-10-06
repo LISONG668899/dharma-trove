@@ -19,4 +19,5 @@ title: 大手印
   <li><a href="/大手印/五颂瑜伽证悟道歌">五颂瑜伽证悟道歌</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/大手印/大手印前行乃至基道果三者恒常调伏自相续之教言">大手印前行乃至基道果三者恒常调伏自相续之教言</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/大手印/萨绕哈《多哈道歌》串讲·上：依麦彭仁波切释">萨绕哈《多哈道歌》串讲·上：依麦彭仁波切释</a><span class="dt-article-date">2026-10-06</span></li>
+  <li><a href="/大手印/萨绕哈《多哈道歌》串讲·下：依无二金刚难释">萨绕哈《多哈道歌》串讲·下：依无二金刚难释</a><span class="dt-article-date">2026-10-06</span></li>
 </ul>
