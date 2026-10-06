@@ -22,4 +22,5 @@ title: 大手印
   <li><a href="/大手印/萨绕哈《多哈道歌》串讲·下：依无二金刚难释">萨绕哈《多哈道歌》串讲·下：依无二金刚难释</a><span class="dt-article-date">2026-10-06</span></li>
   <li><a href="/大手印/萨惹哈道歌宝藏行歌">萨惹哈道歌宝藏行歌</a><span class="dt-article-date">2026-10-06</span></li>
   <li><a href="/大手印/道歌宝藏行歌释义灯">道歌宝藏行歌释义灯</a><span class="dt-article-date">2026-10-06</span></li>
+  <li><a href="/大手印/萨惹哈王后道歌">萨惹哈王后道歌</a><span class="dt-article-date">2026-10-06</span></li>
 </ul>
