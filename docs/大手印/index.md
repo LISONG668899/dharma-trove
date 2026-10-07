@@ -61,4 +61,5 @@ title: 大手印
   <li><a href="/大手印/俱生六颂">俱生六颂</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/梦教示">梦教示</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/幻教示">幻教示</a><span class="dt-article-date">2026-10-08</span></li>
+  <li><a href="/大手印/无住义明示">无住义明示</a><span class="dt-article-date">2026-10-08</span></li>
 </ul>
