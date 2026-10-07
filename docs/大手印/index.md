@@ -40,4 +40,5 @@ title: 大手印
   <li><a href="/大手印/苦乐无二见">苦乐无二见</a><span class="dt-article-date">2026-10-07</span></li>
   <li><a href="/大手印/不相属之见">不相属之见</a><span class="dt-article-date">2026-10-07</span></li>
   <li><a href="/大手印/不取著之见">不取著之见</a><span class="dt-article-date">2026-10-07</span></li>
+  <li><a href="/大手印/空悲之见">空悲之见</a><span class="dt-article-date">2026-10-07</span></li>
 </ul>
