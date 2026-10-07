@@ -29,4 +29,5 @@ title: 大手印
   <li><a href="/大手印/八十四成就者证悟心要">八十四成就者证悟心要</a><span class="dt-article-date">2026-10-07</span></li>
   <li><a href="/大手印/除恶见及难释">除恶见及难释</a><span class="dt-article-date">2026-10-07</span></li>
   <li><a href="/大手印/自性不成立口诀">自性不成立口诀</a><span class="dt-article-date">2026-10-07</span></li>
+  <li><a href="/大手印/心之教诫安立">心之教诫安立</a><span class="dt-article-date">2026-10-07</span></li>
 </ul>
