@@ -35,4 +35,5 @@ title: 大手印
   <li><a href="/大手印/调伏心与识之法">调伏心与识之法</a><span class="dt-article-date">2026-10-07</span></li>
   <li><a href="/大手印/不可思议修习">不可思议修习</a><span class="dt-article-date">2026-10-07</span></li>
   <li><a href="/大手印/无二根本修习次第">无二根本修习次第</a><span class="dt-article-date">2026-10-07</span></li>
+  <li><a href="/大手印/行道歌之见">行道歌之见</a><span class="dt-article-date">2026-10-07</span></li>
 </ul>
