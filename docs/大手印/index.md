@@ -46,4 +46,5 @@ title: 大手印
   <li><a href="/大手印/降伏心分别之见">降伏心分别之见</a><span class="dt-article-date">2026-10-07</span></li>
   <li><a href="/大手印/离忧之见">离忧之见</a><span class="dt-article-date">2026-10-07</span></li>
   <li><a href="/大手印/唯心之见">唯心之见</a><span class="dt-article-date">2026-10-07</span></li>
+  <li><a href="/大手印/迦波离悲行之见">迦波离悲行之见</a><span class="dt-article-date">2026-10-07</span></li>
 </ul>
