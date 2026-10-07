@@ -49,4 +49,5 @@ title: 大手印
   <li><a href="/大手印/迦波离悲行之见">迦波离悲行之见</a><span class="dt-article-date">2026-10-07</span></li>
   <li><a href="/大手印/不相属之见（黑行者道歌）">不相属之见（黑行者道歌）</a><span class="dt-article-date">2026-10-07</span></li>
   <li><a href="/大手印/真如见">真如见</a><span class="dt-article-date">2026-10-07</span></li>
+  <li><a href="/大手印/大手印表示传承">大手印表示传承</a><span class="dt-article-date">2026-10-07</span></li>
 </ul>
