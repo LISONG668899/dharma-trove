@@ -52,4 +52,5 @@ title: 大手印
   <li><a href="/大手印/大手印表示传承">大手印表示传承</a><span class="dt-article-date">2026-10-07</span></li>
   <li><a href="/大手印/大手印口诀秘密金刚歌">大手印口诀秘密金刚歌</a><span class="dt-article-date">2026-10-07</span></li>
   <li><a href="/大手印/所缘修习">所缘修习</a><span class="dt-article-date">2026-10-07</span></li>
+  <li><a href="/大手印/悟未悟者">悟未悟者</a><span class="dt-article-date">2026-10-07</span></li>
 </ul>
