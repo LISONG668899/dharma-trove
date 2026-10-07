@@ -59,4 +59,5 @@ title: 大手印
   <li><a href="/大手印/道歌宝藏广释（黑行者）">道歌宝藏广释（黑行者）</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/中观六颂">中观六颂</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/俱生六颂">俱生六颂</a><span class="dt-article-date">2026-10-08</span></li>
+  <li><a href="/大手印/梦教示">梦教示</a><span class="dt-article-date">2026-10-08</span></li>
 </ul>
