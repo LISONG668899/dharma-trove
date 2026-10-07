@@ -26,4 +26,5 @@ title: 大手印
   <li><a href="/大手印/无尽宝藏圆满之歌广释（上）">无尽宝藏圆满之歌广释（上）</a><span class="dt-article-date">2026-10-06</span></li>
   <li><a href="/大手印/无尽宝藏圆满之歌广释（中）">无尽宝藏圆满之歌广释（中）</a><span class="dt-article-date">2026-10-06</span></li>
   <li><a href="/大手印/无尽宝藏圆满之歌广释（下）">无尽宝藏圆满之歌广释（下）</a><span class="dt-article-date">2026-10-06</span></li>
+  <li><a href="/大手印/八十四成就者证悟心要">八十四成就者证悟心要</a><span class="dt-article-date">2026-10-07</span></li>
 </ul>
