@@ -91,4 +91,5 @@ title: 大手印
   <li><a href="/大手印/甘露成就基础">甘露成就基础</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/道果经教">道果经教</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/空行耳传·断苦口诀">空行耳传·断苦口诀</a><span class="dt-article-date">2026-10-08</span></li>
+  <li><a href="/大手印/大手印金刚歌">大手印金刚歌</a><span class="dt-article-date">2026-10-08</span></li>
 </ul>
