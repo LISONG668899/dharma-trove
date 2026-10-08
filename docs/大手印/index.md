@@ -98,4 +98,5 @@ title: 大手印
   <li><a href="/大手印/金刚歌（那洛巴之二）">金刚歌（那洛巴之二）</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/行歌藏释">行歌藏释</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/境之实相修习">境之实相修习</a><span class="dt-article-date">2026-10-08</span></li>
+  <li><a href="/大手印/四印口诀">四印口诀</a><span class="dt-article-date">2026-10-08</span></li>
 </ul>
