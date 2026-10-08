@@ -88,4 +88,6 @@ title: 大手印
   <li><a href="/大手印/道歌宝藏（毗瓦巴）">道歌宝藏（毗瓦巴）</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/五颂（黑行者）">五颂（黑行者）</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/八十四句">八十四句</a><span class="dt-article-date">2026-10-08</span></li>
+  <li><a href="/大手印/甘露成就基础">甘露成就基础</a><span class="dt-article-date">2026-10-08</span></li>
+  <li><a href="/大手印/道果经教">道果经教</a><span class="dt-article-date">2026-10-08</span></li>
 </ul>
