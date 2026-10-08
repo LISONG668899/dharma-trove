@@ -75,4 +75,5 @@ title: 大手印
   <li><a href="/大手印/智慧·方便·慈五颂">智慧·方便·慈五颂</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/真如口诀·道歌宝藏">真如口诀·道歌宝藏</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/大乘二十颂">大乘二十颂</a><span class="dt-article-date">2026-10-08</span></li>
+  <li><a href="/大手印/不作意论证">不作意论证</a><span class="dt-article-date">2026-10-08</span></li>
 </ul>
