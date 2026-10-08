@@ -83,4 +83,5 @@ title: 大手印
   <li><a href="/大手印/真如十颂广释">真如十颂广释</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/金刚句">金刚句</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/四偈半">四偈半</a><span class="dt-article-date">2026-10-08</span></li>
+  <li><a href="/大手印/无分别开示">无分别开示</a><span class="dt-article-date">2026-10-08</span></li>
 </ul>
