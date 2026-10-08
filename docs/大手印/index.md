@@ -79,4 +79,6 @@ title: 大手印
   <li><a href="/大手印/大乘真如二十颂">大乘真如二十颂</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/最胜秘密口诀">最胜秘密口诀</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/灌顶教示">灌顶教示</a><span class="dt-article-date">2026-10-08</span></li>
+  <li><a href="/大手印/灌顶教示难释">灌顶教示难释</a><span class="dt-article-date">2026-10-08</span></li>
+  <li><a href="/大手印/真如十颂广释">真如十颂广释</a><span class="dt-article-date">2026-10-08</span></li>
 </ul>
