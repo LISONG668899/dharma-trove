@@ -72,4 +72,5 @@ title: 大手印
   <li><a href="/大手印/五如来印释">五如来印释</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/灌顶义摄">灌顶义摄</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/五部自性">五部自性</a><span class="dt-article-date">2026-10-08</span></li>
+  <li><a href="/大手印/智慧·方便·慈五颂">智慧·方便·慈五颂</a><span class="dt-article-date">2026-10-08</span></li>
 </ul>
