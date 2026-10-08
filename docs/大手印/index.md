@@ -66,4 +66,5 @@ title: 大手印
   <li><a href="/大手印/双运义明示">双运义明示</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/慈五颂">慈五颂</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/无别五颂">无别五颂</a><span class="dt-article-date">2026-10-08</span></li>
+  <li><a href="/大手印/大乐义明示">大乐义明示</a><span class="dt-article-date">2026-10-08</span></li>
 </ul>
