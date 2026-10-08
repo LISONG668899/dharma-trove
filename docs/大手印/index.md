@@ -96,4 +96,5 @@ title: 大手印
   <li><a href="/大手印/金刚歌（佚名）">金刚歌（佚名）</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/金刚歌（那洛巴之一）">金刚歌（那洛巴之一）</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/金刚歌（那洛巴之二）">金刚歌（那洛巴之二）</a><span class="dt-article-date">2026-10-08</span></li>
+  <li><a href="/大手印/行歌藏释">行歌藏释</a><span class="dt-article-date">2026-10-08</span></li>
 </ul>
