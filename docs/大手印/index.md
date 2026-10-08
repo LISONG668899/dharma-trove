@@ -93,4 +93,6 @@ title: 大手印
   <li><a href="/大手印/空行耳传·断苦口诀">空行耳传·断苦口诀</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/大手印金刚歌">大手印金刚歌</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/金刚歌（黑行者）">金刚歌（黑行者）</a><span class="dt-article-date">2026-10-08</span></li>
+  <li><a href="/大手印/金刚歌（佚名）">金刚歌（佚名）</a><span class="dt-article-date">2026-10-08</span></li>
+  <li><a href="/大手印/金刚歌（那洛巴之一）">金刚歌（那洛巴之一）</a><span class="dt-article-date">2026-10-08</span></li>
 </ul>
