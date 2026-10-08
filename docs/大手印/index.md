@@ -70,4 +70,5 @@ title: 大手印
   <li><a href="/大手印/真如宝鬘">真如宝鬘</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/真如明示">真如明示</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/五如来印释">五如来印释</a><span class="dt-article-date">2026-10-08</span></li>
+  <li><a href="/大手印/灌顶义摄">灌顶义摄</a><span class="dt-article-date">2026-10-08</span></li>
 </ul>
