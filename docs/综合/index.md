@@ -56,4 +56,5 @@ title: 综合
   <li><a href="/综合/佛地经论白话（卷六）">佛地经论白话（卷六）</a><span class="dt-article-date">2026-10-13</span></li>
   <li><a href="/综合/佛地经论白话（卷七）">佛地经论白话（卷七）</a><span class="dt-article-date">2026-10-13</span></li>
   <li><a href="/综合/显扬圣教论颂·白话销文">显扬圣教论颂·白话销文</a><span class="dt-article-date">2026-10-13</span></li>
+  <li><a href="/综合/大乘掌珍论（上卷）白话销文">大乘掌珍论（上卷）白话销文</a><span class="dt-article-date">2026-10-13</span></li>
 </ul>
