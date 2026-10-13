@@ -52,4 +52,5 @@ title: 综合
   <li><a href="/综合/佛地经论白话（卷二）">佛地经论白话（卷二）</a><span class="dt-article-date">2026-10-13</span></li>
   <li><a href="/综合/佛地经论白话（卷三）">佛地经论白话（卷三）</a><span class="dt-article-date">2026-10-13</span></li>
   <li><a href="/综合/佛地经论白话（卷四）">佛地经论白话（卷四）</a><span class="dt-article-date">2026-10-13</span></li>
+  <li><a href="/综合/佛地经论白话（卷五）">佛地经论白话（卷五）</a><span class="dt-article-date">2026-10-13</span></li>
 </ul>
