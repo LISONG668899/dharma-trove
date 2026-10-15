@@ -61,4 +61,5 @@ title: 大圆满
   <li><a href="/大圆满/教言犹如回声妙音">教言犹如回声妙音</a><span class="dt-article-date">2026-09-24</span></li>
   <li><a href="/大圆满/本初清净离戏">本初清净离戏</a><span class="dt-article-date">2026-09-24</span></li>
   <li><a href="/大圆满/除暗明灯之窍诀细说">除暗明灯之窍诀细说</a><span class="dt-article-date">2026-10-03</span></li>
+  <li><a href="/大圆满/隐秘小谷粒">隐秘小谷粒</a><span class="dt-article-date">2026-10-15</span></li>
 </ul>
