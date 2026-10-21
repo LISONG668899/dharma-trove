@@ -103,4 +103,5 @@ title: 大手印
   <li><a href="/大手印/修习六次第">修习六次第</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/南无佛陀耶释">南无佛陀耶释</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/摄要开示">摄要开示</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/大手印/大手印口诀（恒河大手印）">大手印口诀（恒河大手印）</a><span class="dt-article-date">2026-10-21</span></li>
 </ul>
