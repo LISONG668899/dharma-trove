@@ -191,4 +191,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记14-84安立门流门业门四大五业">瑜伽论记14-84安立门流门业门四大五业</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/唯识/瑜伽论记14-85刹那门色法刹那灭四句破外计">瑜伽论记14-85刹那门色法刹那灭四句破外计</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/唯识/瑜伽论记14-86色门后三门译毕四蕴名十门">瑜伽论记14-86色门后三门译毕四蕴名十门</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/唯识/瑜伽论记14-87三性九门善蕴九门本惑九门">瑜伽论记14-87三性九门善蕴九门本惑九门</a><span class="dt-article-date">2026-10-21</span></li>
 </ul>
