@@ -126,4 +126,5 @@ title: 大手印
   <li><a href="/大手印/梅纪巴上师之歌">梅纪巴上师之歌</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/萨惹哈之歌（心之甚深）">萨惹哈之歌（心之甚深）</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/萨惹哈之歌（挤虚空之乳）">萨惹哈之歌（挤虚空之乳）</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/大手印/金刚持毗瓦巴之歌">金刚持毗瓦巴之歌</a><span class="dt-article-date">2026-10-21</span></li>
 </ul>
