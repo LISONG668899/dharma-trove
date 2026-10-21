@@ -25,4 +25,5 @@ title: 华严
   <li><a href="/华严/法藏大师华严论释精华（七）">法藏大师华严论释精华（七）</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/华严/法藏大师华严论释精华（八）">法藏大师华严论释精华（八）</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/华严/法藏大师华严论释精华（九）">法藏大师华严论释精华（九）</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/华严/法藏大师华严论释精华（十）">法藏大师华严论释精华（十）</a><span class="dt-article-date">2026-10-21</span></li>
 </ul>
