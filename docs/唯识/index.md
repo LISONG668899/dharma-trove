@@ -189,4 +189,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记14-82微细门三种微细五种极微五眼取微">瑜伽论记14-82微细门三种微细五种极微五眼取微</a><span class="dt-article-date">2026-09-23</span></li>
   <li><a href="/唯识/瑜伽论记14-83生起门五义生起大种变异五缘中有">瑜伽论记14-83生起门五义生起大种变异五缘中有</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/唯识/瑜伽论记14-84安立门流门业门四大五业">瑜伽论记14-84安立门流门业门四大五业</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/唯识/瑜伽论记14-85刹那门色法刹那灭四句破外计">瑜伽论记14-85刹那门色法刹那灭四句破外计</a><span class="dt-article-date">2026-10-21</span></li>
 </ul>
