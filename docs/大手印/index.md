@@ -147,4 +147,5 @@ title: 大手印
   <li><a href="/大手印/龙树之歌">龙树之歌</a><span class="dt-article-date">2026-10-22</span></li>
   <li><a href="/大手印/阿底瑜伽修习方便">阿底瑜伽修习方便</a><span class="dt-article-date">2026-10-22</span></li>
   <li><a href="/大手印/阿底峡尊者法界见歌（一）">阿底峡尊者法界见歌（一）</a><span class="dt-article-date">2026-10-22</span></li>
+  <li><a href="/大手印/阿底峡尊者法界见歌（二）">阿底峡尊者法界见歌（二）</a><span class="dt-article-date">2026-10-22</span></li>
 </ul>
