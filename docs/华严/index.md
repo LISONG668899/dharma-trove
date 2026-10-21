@@ -16,4 +16,5 @@ title: 华严
   <li><a href="/华严/华严经义海百门">华严经义海百门</a><span class="dt-article-date">2026-08-29</span></li>
   <li><a href="/华严/十不二门指要钞白话">十不二门指要钞白话</a><span class="dt-article-date">2026-10-18</span></li>
   <li><a href="/华严/金刚錍白话">金刚錍白话</a><span class="dt-article-date">2026-10-18</span></li>
+  <li><a href="/华严/法藏大师华严论释精华（一）">法藏大师华严论释精华（一）</a><span class="dt-article-date">2026-10-21</span></li>
 </ul>
