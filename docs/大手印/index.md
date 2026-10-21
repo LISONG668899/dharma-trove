@@ -100,4 +100,7 @@ title: 大手印
   <li><a href="/大手印/境之实相修习">境之实相修习</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/四印口诀">四印口诀</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/一切法无住真如颂释">一切法无住真如颂释</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/大手印/修习六次第">修习六次第</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/大手印/南无佛陀耶释">南无佛陀耶释</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/大手印/摄要开示">摄要开示</a><span class="dt-article-date">2026-10-21</span></li>
 </ul>
