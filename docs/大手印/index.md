@@ -121,4 +121,5 @@ title: 大手印
   <li><a href="/大手印/俱生喜见·道歌宝藏">俱生喜见·道歌宝藏</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/善逝之见歌">善逝之见歌</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/风之真如道歌">风之真如道歌</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/大手印/春滴·道歌宝藏">春滴·道歌宝藏</a><span class="dt-article-date">2026-10-21</span></li>
 </ul>
