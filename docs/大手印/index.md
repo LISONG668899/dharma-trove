@@ -113,4 +113,5 @@ title: 大手印
   <li><a href="/大手印/事物不思议（帝洛巴不思议之七）">事物不思议（帝洛巴不思议之七）</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/不思议大乐（帝洛巴不思议之八）">不思议大乐（帝洛巴不思议之八）</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/俱生之歌">俱生之歌</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/大手印/断分别之歌">断分别之歌</a><span class="dt-article-date">2026-10-21</span></li>
 </ul>
