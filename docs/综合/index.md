@@ -58,4 +58,5 @@ title: 综合
   <li><a href="/综合/显扬圣教论颂·白话销文">显扬圣教论颂·白话销文</a><span class="dt-article-date">2026-10-13</span></li>
   <li><a href="/综合/大乘掌珍论（上卷）白话销文">大乘掌珍论（上卷）白话销文</a><span class="dt-article-date">2026-10-13</span></li>
   <li><a href="/综合/大乘掌珍论（下卷）白话销文">大乘掌珍论（下卷）白话销文</a><span class="dt-article-date">2026-10-13</span></li>
+  <li><a href="/综合/唯识与中观千年的文献错位">唯识与中观千年的文献错位</a><span class="dt-article-date">2026-10-21</span></li>
 </ul>
