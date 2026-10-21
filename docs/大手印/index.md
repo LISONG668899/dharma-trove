@@ -128,4 +128,7 @@ title: 大手印
   <li><a href="/大手印/萨惹哈之歌（挤虚空之乳）">萨惹哈之歌（挤虚空之乳）</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/金刚持毗瓦巴之歌">金刚持毗瓦巴之歌</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/黑行者之歌">黑行者之歌</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/大手印/歌（可叹与稀有）">歌（可叹与稀有）</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/大手印/歌（迪什迪嘉那·嘿噜巴说）">歌（迪什迪嘉那·嘿噜巴说）</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/大手印/金刚歌（迪什迪嘉那）">金刚歌（迪什迪嘉那）</a><span class="dt-article-date">2026-10-21</span></li>
 </ul>
