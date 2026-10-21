@@ -109,4 +109,5 @@ title: 大手印
   <li><a href="/大手印/音乐不思议（帝洛巴不思议之三）">音乐不思议（帝洛巴不思议之三）</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/法性不思议（帝洛巴不思议之四）">法性不思议（帝洛巴不思议之四）</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/杀之结合不思议（帝洛巴不思议之五）">杀之结合不思议（帝洛巴不思议之五）</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/大手印/种种不思议（帝洛巴不思议之六）">种种不思议（帝洛巴不思议之六）</a><span class="dt-article-date">2026-10-21</span></li>
 </ul>
