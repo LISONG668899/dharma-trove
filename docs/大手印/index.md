@@ -135,4 +135,14 @@ title: 大手印
   <li><a href="/大手印/摩咥里制吒之歌">摩咥里制吒之歌</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/歌（嘎纳之剑）">歌（嘎纳之剑）</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/歌（智慧狮子）">歌（智慧狮子）</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/大手印/冬比之歌">冬比之歌</a><span class="dt-article-date">2026-10-22</span></li>
+  <li><a href="/大手印/勇士毗卢遮那之歌">勇士毗卢遮那之歌</a><span class="dt-article-date">2026-10-22</span></li>
+  <li><a href="/大手印/卢伊巴之歌">卢伊巴之歌</a><span class="dt-article-date">2026-10-22</span></li>
+  <li><a href="/大手印/大乐金刚之歌">大乐金刚之歌</a><span class="dt-article-date">2026-10-22</span></li>
+  <li><a href="/大手印/拉瓦巴之歌">拉瓦巴之歌</a><span class="dt-article-date">2026-10-22</span></li>
+  <li><a href="/大手印/毗瓦巴之歌（水中优钵罗）">毗瓦巴之歌（水中优钵罗）</a><span class="dt-article-date">2026-10-22</span></li>
+  <li><a href="/大手印/瑜伽士扎萨惹之歌">瑜伽士扎萨惹之歌</a><span class="dt-article-date">2026-10-22</span></li>
+  <li><a href="/大手印/那洛巴之歌">那洛巴之歌</a><span class="dt-article-date">2026-10-22</span></li>
+  <li><a href="/大手印/阿底峡法歌（守护心）">阿底峡法歌（守护心）</a><span class="dt-article-date">2026-10-22</span></li>
+  <li><a href="/大手印/龙树之歌">龙树之歌</a><span class="dt-article-date">2026-10-22</span></li>
 </ul>
