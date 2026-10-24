@@ -200,4 +200,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记14-93界善巧八门略辨十四门广辨">瑜伽论记14-93界善巧八门略辨十四门广辨</a><span class="dt-article-date">2026-10-24</span></li>
   <li><a href="/唯识/瑜伽论记14-94处善巧缘起善巧九门">瑜伽论记14-94处善巧缘起善巧九门</a><span class="dt-article-date">2026-10-24</span></li>
   <li><a href="/唯识/瑜伽论记14-95处非处善巧根善巧义意建立">瑜伽论记14-95处非处善巧根善巧义意建立</a><span class="dt-article-date">2026-10-24</span></li>
+  <li><a href="/唯识/瑜伽论记14-96根善巧色心三性异熟三界诸地成就">瑜伽论记14-96根善巧色心三性异熟三界诸地成就</a><span class="dt-article-date">2026-10-24</span></li>
 </ul>
