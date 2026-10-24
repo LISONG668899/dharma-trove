@@ -202,4 +202,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记14-95处非处善巧根善巧义意建立">瑜伽论记14-95处非处善巧根善巧义意建立</a><span class="dt-article-date">2026-10-24</span></li>
   <li><a href="/唯识/瑜伽论记14-96根善巧色心三性异熟三界诸地成就">瑜伽论记14-96根善巧色心三性异熟三界诸地成就</a><span class="dt-article-date">2026-10-24</span></li>
   <li><a href="/唯识/瑜伽论记14-97根善巧死生得舍六门之义十七门">瑜伽论记14-97根善巧死生得舍六门之义十七门</a><span class="dt-article-date">2026-10-24</span></li>
+  <li><a href="/唯识/瑜伽论记14-98根善巧依处门证得门十三段">瑜伽论记14-98根善巧依处门证得门十三段</a><span class="dt-article-date">2026-10-24</span></li>
 </ul>
