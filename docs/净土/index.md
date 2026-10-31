@@ -14,9 +14,9 @@ title: 净土
   <li><a href="/净土/阿弥陀经五重玄义">阿弥陀经五重玄义</a><span class="dt-article-date">2026-09-10</span></li>
   <li><a href="/净土/中阴简明教授">中阴简明教授</a><span class="dt-article-date">2026-09-19</span></li>
   <li><a href="/净土/中阴愿文">中阴愿文</a><span class="dt-article-date">2026-09-23</span></li>
-  <li><a href="/净土/净土_净宗法要">净宗法要</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/净土/净土_般若净土中道实相菩提论一">般若净土中道实相菩提论（一）</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/净土/净土_般若净土中道实相菩提论二">般若净土中道实相菩提论（二）</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/净土/净土_般若净土中道实相菩提论三">般若净土中道实相菩提论（三）</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/净土/净土_般若净土中道实相菩提论四">般若净土中道实相菩提论（四）</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/净土/净宗法要">净宗法要</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/净土/般若净土中道实相菩提论（一）">般若净土中道实相菩提论（一）</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/净土/般若净土中道实相菩提论（二）">般若净土中道实相菩提论（二）</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/净土/般若净土中道实相菩提论（三）">般若净土中道实相菩提论（三）</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/净土/般若净土中道实相菩提论（四）">般若净土中道实相菩提论（四）</a><span class="dt-article-date">2026-10-31</span></li>
 </ul>
