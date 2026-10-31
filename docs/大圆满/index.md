@@ -65,4 +65,5 @@ title: 大圆满
   <li><a href="/大圆满/黑蛇总义">黑蛇总义</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/大圆满/莲师对二十五弟子之歌">莲师对二十五弟子之歌</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/大圆满/指杖教授">指杖教授</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/大圆满/立断精要教授">立断精要教授</a><span class="dt-article-date">2026-10-31</span></li>
 </ul>
