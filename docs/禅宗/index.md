@@ -117,4 +117,5 @@ title: 禅宗
   <li><a href="/禅宗/唯心诀（上）">唯心诀（上）</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/禅宗/唯心诀（中）">唯心诀（中）</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/禅宗/唯心诀（下）">唯心诀（下）</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/禅宗/禅门师资承袭图">禅门师资承袭图</a><span class="dt-article-date">2026-10-31</span></li>
 </ul>
