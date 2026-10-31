@@ -1,4 +1,4 @@
-﻿---
+---
 title: 大圆满
 ---
 
@@ -61,4 +61,5 @@ title: 大圆满
   <li><a href="/大圆满/遣除障碍·护持心性本面之道歌">堪布岗夏《遣除障碍·护持心性本面之道歌》</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/大圆满/上师瑜伽·加持总集">堪布岗夏《上师瑜伽·加持总集》</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/大圆满/赠郭桑登之教言道歌">堪布岗夏《赠郭桑登之教言道歌》</a><span class="dt-article-date">2026-09-21</span></li>
+  <li><a href="/大圆满/证成显现即天尊论">证成显现即天尊论</a><span class="dt-article-date">2026-10-31</span></li>
 </ul>
