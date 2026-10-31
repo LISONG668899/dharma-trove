@@ -1,4 +1,4 @@
-﻿---
+---
 title: 净土
 ---
 
@@ -19,4 +19,5 @@ title: 净土
   <li><a href="/净土/般若净土中道实相菩提论（二）">般若净土中道实相菩提论（二）</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/净土/般若净土中道实相菩提论（三）">般若净土中道实相菩提论（三）</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/净土/般若净土中道实相菩提论（四）">般若净土中道实相菩提论（四）</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/净土/中阴愿文注释·明灯">中阴愿文注释·明灯</a><span class="dt-article-date">2026-10-31</span></li>
 </ul>
