@@ -249,4 +249,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记卷21上-01观自在问诸地">卷21上-01　观自在问诸地</a><span class="dt-article-date">2026-10-30</span></li>
   <li><a href="/唯识/瑜伽论记卷21上-02曼殊室利问三身">卷21上-02　曼殊室利问三身</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/唯识/卷21上-03　住品抉择与十八不共">卷21上-03　住品抉择与十八不共</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/唯识/卷21上-04　宝积经邪行与正行">卷21上-04　宝积经邪行与正行</a><span class="dt-article-date">2026-10-31</span></li>
 </ul>
