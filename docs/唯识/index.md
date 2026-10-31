@@ -247,5 +247,5 @@ title: 唯识
   <li><a href="/唯识/瑜伽论记卷20下-02慈氏问止观上">卷20下-02　慈氏问止观（上）</a><span class="dt-article-date">2026-10-30</span></li>
   <li><a href="/唯识/瑜伽论记卷20下-03慈氏问止观下">卷20下-03　慈氏问止观（下）</a><span class="dt-article-date">2026-10-30</span></li>
   <li><a href="/唯识/瑜伽论记卷21上-01观自在问诸地">卷21上-01　观自在问诸地</a><span class="dt-article-date">2026-10-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷21上-02曼殊室利问三身">瑜伽论记卷21上-02曼殊室利问三身</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷21上-02曼殊室利问三身">卷21上-02　曼殊室利问三身</a><span class="dt-article-date">2026-10-31</span></li>
 </ul>
