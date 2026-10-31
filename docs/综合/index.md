@@ -76,4 +76,5 @@ title: 综合
   <li><a href="/综合/圆觉经（下）">圆觉经（下）</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/综合/金刚般若波罗蜜经破空论（上）">金刚般若波罗蜜经破空论（上）</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/综合/金刚般若波罗蜜经破空论（下）">金刚般若波罗蜜经破空论（下）</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/综合/大乘止观法门卷第一">大乘止观法门卷第一</a><span class="dt-article-date">2026-10-31</span></li>
 </ul>
