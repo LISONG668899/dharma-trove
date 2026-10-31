@@ -1,4 +1,4 @@
-﻿---
+---
 title: 禅宗
 ---
 
@@ -113,4 +113,5 @@ title: 禅宗
   <li><a href="/禅宗/宗镜录卷第九十八">永明延寿《宗镜录》卷第九十八</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/禅宗/宗镜录卷第九十九">永明延寿《宗镜录》卷第九十九</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/禅宗/宗镜录卷第一百">永明延寿《宗镜录》卷第一百</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/禅宗/千年迷雾一朝散——《宗镜录》校订者法涌禅师考">千年迷雾一朝散——《宗镜录》校订者法涌禅师考</a><span class="dt-article-date">2026-10-31</span></li>
 </ul>
