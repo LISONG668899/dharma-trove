@@ -15,4 +15,6 @@ title: 净土
   <li><a href="/净土/中阴简明教授">中阴简明教授</a><span class="dt-article-date">2026-09-19</span></li>
   <li><a href="/净土/中阴愿文">中阴愿文</a><span class="dt-article-date">2026-09-23</span></li>
   <li><a href="/净土/净宗法要">净宗法要</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/净土/般若净土中道实相菩提论">般若净土中道实相菩提论</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/净土/般若净土中道实相菩提论（一）">般若净土中道实相菩提论（一）</a><span class="dt-article-date">2026-10-31</span></li>
 </ul>
