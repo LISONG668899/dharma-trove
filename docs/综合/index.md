@@ -84,4 +84,5 @@ title: 综合
   <li><a href="/综合/入菩萨行论禅修次第">入菩萨行论禅修次第</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/综合/大乘入楞伽经卷第一">大乘入楞伽经卷第一</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/综合/大乘入楞伽经卷第二">大乘入楞伽经卷第二</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/综合/大乘入楞伽经卷第三">大乘入楞伽经卷第三</a><span class="dt-article-date">2026-10-31</span></li>
 </ul>
