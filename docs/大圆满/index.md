@@ -63,4 +63,5 @@ title: 大圆满
   <li><a href="/大圆满/赠郭桑登之教言道歌">堪布岗夏《赠郭桑登之教言道歌》</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/大圆满/证成显现即天尊论">证成显现即天尊论</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/大圆满/黑蛇总义">黑蛇总义</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/大圆满/莲师对二十五弟子之歌">莲师对二十五弟子之歌</a><span class="dt-article-date">2026-10-31</span></li>
 </ul>
