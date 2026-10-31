@@ -121,4 +121,5 @@ title: 禅宗
   <li><a href="/禅宗/禅源诸诠集都序（一）">禅源诸诠集都序（一）</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/禅宗/禅源诸诠集都序（二）">禅源诸诠集都序（二）</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/禅宗/禅源诸诠集都序（三）">禅源诸诠集都序（三）</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/禅宗/禅源诸诠集都序（四）">禅源诸诠集都序（四）</a><span class="dt-article-date">2026-10-31</span></li>
 </ul>
