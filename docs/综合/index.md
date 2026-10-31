@@ -62,4 +62,5 @@ title: 综合
   <li><a href="/综合/四生受生与净治">四生受生与净治</a><span class="dt-article-date">2026-10-24</span></li>
   <li><a href="/综合/无边功德赞">无边功德赞</a><span class="dt-article-date">2026-10-25</span></li>
   <li><a href="/综合/略明般若末后一颂赞述·译注">略明般若末后一颂赞述·译注</a><span class="dt-article-date">2026-10-26</span></li>
+  <li><a href="/综合/释摩诃衍论卷第一">释摩诃衍论卷第一</a><span class="dt-article-date">2026-10-31</span></li>
 </ul>
