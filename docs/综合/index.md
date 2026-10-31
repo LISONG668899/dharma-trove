@@ -71,4 +71,5 @@ title: 综合
   <li><a href="/综合/释摩诃衍论卷第七">释摩诃衍论卷第七</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/综合/释摩诃衍论卷第八">释摩诃衍论卷第八</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/综合/释摩诃衍论卷第九">释摩诃衍论卷第九</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/综合/释摩诃衍论卷第十">释摩诃衍论卷第十</a><span class="dt-article-date">2026-10-31</span></li>
 </ul>
