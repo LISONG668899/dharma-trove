@@ -91,4 +91,7 @@ title: 综合
   <li><a href="/综合/大乘入楞伽经卷第七">大乘入楞伽经卷第七</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/综合/宝性论修习次第">宝性论修习次第</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/综合/修证圆通">修证圆通</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/综合/开启正法之门">开启正法之门</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/综合/致持明琼果匝教言">致持明琼果匝教言</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/综合/解脱勇士心髓宝">解脱勇士心髓宝</a><span class="dt-article-date">2026-10-31</span></li>
 </ul>
