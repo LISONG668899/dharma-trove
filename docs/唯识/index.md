@@ -251,4 +251,5 @@ title: 唯识
   <li><a href="/唯识/卷21上-03　住品抉择与十八不共">卷21上-03　住品抉择与十八不共</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/唯识/卷21上-04　宝积经邪行与正行">卷21上-04　宝积经邪行与正行</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/唯识/卷21下-01　十三中道行与二无我">卷21下-01　十三中道行与二无我</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/唯识/卷21下-02　宝积经终与有余无余地">卷21下-02　宝积经终与有余无余地</a><span class="dt-article-date">2026-10-31</span></li>
 </ul>
