@@ -88,4 +88,5 @@ title: 综合
   <li><a href="/综合/大乘入楞伽经卷第四">大乘入楞伽经卷第四</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/综合/大乘入楞伽经卷第五">大乘入楞伽经卷第五</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/综合/大乘入楞伽经卷第六">大乘入楞伽经卷第六</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/综合/大乘入楞伽经卷第七">大乘入楞伽经卷第七</a><span class="dt-article-date">2026-10-31</span></li>
 </ul>
