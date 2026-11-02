@@ -256,4 +256,5 @@ title: 唯识
   <li><a href="/唯识/卷21下-04　十义与十二分教">卷21下-04　十义与十二分教</a><span class="dt-article-date">2026-11-02</span></li>
   <li><a href="/唯识/卷22上-01　安他令听与学胜利">卷22上-01　安他令听与学胜利</a><span class="dt-article-date">2026-11-02</span></li>
   <li><a href="/唯识/卷22上-02　摄异门分白品诸门">卷22上-02　摄异门分白品诸门</a><span class="dt-article-date">2026-11-02</span></li>
+  <li><a href="/唯识/卷22上-03　欲法僧与黑品异门">卷22上-03　欲法僧与黑品异门</a><span class="dt-article-date">2026-11-02</span></li>
 </ul>
