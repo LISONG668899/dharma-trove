@@ -160,4 +160,5 @@ title: 大手印
   <li><a href="/大手印/月灯三昧经卷第八">月灯三昧经卷第八</a><span class="dt-article-date">2026-11-03</span></li>
   <li><a href="/大手印/月灯三昧经卷第九">月灯三昧经卷第九</a><span class="dt-article-date">2026-11-03</span></li>
   <li><a href="/大手印/月灯三昧经卷第十">月灯三昧经卷第十</a><span class="dt-article-date">2026-11-03</span></li>
+  <li><a href="/大手印/佛说月灯三昧经">佛说月灯三昧经</a><span class="dt-article-date">2026-11-03</span></li>
 </ul>
