@@ -261,4 +261,5 @@ title: 唯识
   <li><a href="/唯识/卷22下-02　因等六门与六十二见">卷22下-02　因等六门与六十二见</a><span class="dt-article-date">2026-11-03</span></li>
   <li><a href="/唯识/卷22下-03　断支二品十八门">卷22下-03　断支二品十八门</a><span class="dt-article-date">2026-11-03</span></li>
   <li><a href="/唯识/卷23上-01　知事诤芽无厌诸门">卷23上-01　知事诤芽无厌诸门</a><span class="dt-article-date">2026-11-03</span></li>
+  <li><a href="/唯识/卷23上-02　少欲住等十八门">卷23上-02　少欲住等十八门</a><span class="dt-article-date">2026-11-03</span></li>
 </ul>
