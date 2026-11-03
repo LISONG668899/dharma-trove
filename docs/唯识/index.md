@@ -263,4 +263,5 @@ title: 唯识
   <li><a href="/唯识/卷23上-01　知事诤芽无厌诸门">卷23上-01　知事诤芽无厌诸门</a><span class="dt-article-date">2026-11-03</span></li>
   <li><a href="/唯识/卷23上-02　少欲住等十八门">卷23上-02　少欲住等十八门</a><span class="dt-article-date">2026-11-03</span></li>
   <li><a href="/唯识/卷23上-03　处择安立与烦恼业门">卷23上-03　处择安立与烦恼业门</a><span class="dt-article-date">2026-11-03</span></li>
+  <li><a href="/唯识/卷23上-04　十六种业与三种空">卷23上-04　十六种业与三种空</a><span class="dt-article-date">2026-11-03</span></li>
 </ul>
