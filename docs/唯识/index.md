@@ -259,4 +259,5 @@ title: 唯识
   <li><a href="/唯识/卷22上-03　欲法僧与黑品异门">卷22上-03　欲法僧与黑品异门</a><span class="dt-article-date">2026-11-02</span></li>
   <li><a href="/唯识/卷22下-01　想行速通二十门">卷22下-01　想行速通二十门</a><span class="dt-article-date">2026-11-03</span></li>
   <li><a href="/唯识/卷22下-02　因等六门与六十二见">卷22下-02　因等六门与六十二见</a><span class="dt-article-date">2026-11-03</span></li>
+  <li><a href="/唯识/卷22下-03　断支二品十八门">卷22下-03　断支二品十八门</a><span class="dt-article-date">2026-11-03</span></li>
 </ul>
