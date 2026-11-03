@@ -151,4 +151,5 @@ title: 大手印
   <li><a href="/大手印/梦与心之证悟">梦与心之证悟</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/大手印/破邪见论">破邪见论</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/大手印/月灯三昧经卷第一">月灯三昧经卷第一</a><span class="dt-article-date">2026-11-03</span></li>
+  <li><a href="/大手印/月灯三昧经卷第二">月灯三昧经卷第二</a><span class="dt-article-date">2026-11-03</span></li>
 </ul>
