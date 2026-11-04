@@ -1,0 +1,14 @@
+# Pagefind 站内搜索索引配置（npm run docs:build 时在 vitepress 构建之后运行）
+site: docs/.vitepress/dist
+# 只索引正文，排除导航栏、侧边栏、页脚、目录、上下篇等界面文字
+exclude_selectors:
+  - ".VPNav"
+  - ".VPLocalNav"
+  - ".VPSidebar"
+  - ".VPFooter"
+  - ".VPDocFooter"
+  - ".VPDocAside"
+  - ".aside"
+  - ".VPSkipLink"
+  - ".header-anchor"
+  - ".script-toggle"

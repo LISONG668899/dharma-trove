@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { fileURLToPath, URL } from 'node:url'
 
 export default defineConfig({
   title: '藏汉佛教精华',
@@ -66,6 +67,34 @@ export default defineConfig({
 
     outline: {
       label: '本页目录'
+    },
+
+    // ===== 站内搜索 =====
+    // 借用 VitePress 自带的顶部搜索图标（含 Ctrl+K 快捷键），
+    // 点开后显示的是我们自己的 Pagefind 搜索框（见下方 vite.resolve.alias）。
+    // 全站文字量很大，不用 VitePress 自带的整站索引；_render 返回空，
+    // 让它的索引保持为空，真正的索引由构建后的 pagefind 命令生成。
+    search: {
+      provider: 'local',
+      options: {
+        _render: () => '',
+        translations: {
+          button: { buttonText: '搜索', buttonAriaLabel: '搜索' }
+        }
+      }
+    }
+  },
+
+  vite: {
+    resolve: {
+      alias: [
+        {
+          find: /^.*\/VPLocalSearchBox\.vue$/,
+          replacement: fileURLToPath(
+            new URL('./theme/components/PagefindSearchBox.vue', import.meta.url)
+          )
+        }
+      ]
     }
   },
 
