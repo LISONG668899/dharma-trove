@@ -267,4 +267,5 @@ title: 唯识
   <li><a href="/唯识/卷23下-01　离欲诸门与菩萨胜相">卷23下-01　离欲诸门与菩萨胜相</a><span class="dt-article-date">2026-11-04</span></li>
   <li><a href="/唯识/卷23下-02　上贪多住二十六门">卷23下-02　上贪多住二十六门</a><span class="dt-article-date">2026-11-04</span></li>
   <li><a href="/唯识/卷23下-03　缘起立门与苦聚谛观">卷23下-03　缘起立门与苦聚谛观</a><span class="dt-article-date">2026-11-05</span></li>
+  <li><a href="/唯识/卷23下-04　微智甚深与二谛七门">卷23下-04　微智甚深与二谛七门</a><span class="dt-article-date">2026-11-05</span></li>
 </ul>
