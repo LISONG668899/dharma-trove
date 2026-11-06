@@ -76,4 +76,5 @@ title: 大圆满
   <li><a href="/大圆满/拉琼阿波《备忘杂录》">拉琼阿波《备忘杂录》</a><span class="dt-article-date">2026-11-06</span></li>
   <li><a href="/大圆满/蒋贡康楚《知识总汇·宣说形成轮回的因缘》">蒋贡康楚《知识总汇·宣说形成轮回的因缘》</a><span class="dt-article-date">2026-11-06</span></li>
   <li><a href="/大圆满/蒋贡康楚《知识总汇·抉择主要见地之章》">蒋贡康楚《知识总汇·抉择主要见地之章》</a><span class="dt-article-date">2026-11-06</span></li>
+  <li><a href="/大圆满/蒋贡康楚《知识总汇·详说以窍诀为主的金刚乘修习次第（一）前译宁玛》">蒋贡康楚《知识总汇·详说以窍诀为主的金刚乘修习次第（一）前译宁玛》</a><span class="dt-article-date">2026-11-06</span></li>
 </ul>
