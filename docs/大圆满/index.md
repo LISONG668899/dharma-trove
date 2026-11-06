@@ -68,4 +68,5 @@ title: 大圆满
   <li><a href="/大圆满/立断精要教授">立断精要教授</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/大圆满/拉琼阿波《上师修法·智慧网》">拉琼阿波《上师修法·智慧网》</a><span class="dt-article-date">2026-11-06</span></li>
   <li><a href="/大圆满/拉琼阿波《阿霍耶·觉受流露之歌》">拉琼阿波《阿霍耶·觉受流露之歌》</a><span class="dt-article-date">2026-11-06</span></li>
+  <li><a href="/大圆满/拉琼阿波《喀多殊胜化身仁波切于罗布林卡受看管期间所呈书信》">拉琼阿波《喀多殊胜化身仁波切于罗布林卡受看管期间所呈书信》</a><span class="dt-article-date">2026-11-06</span></li>
 </ul>
