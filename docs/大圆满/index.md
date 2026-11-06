@@ -74,4 +74,5 @@ title: 大圆满
   <li><a href="/大圆满/拉琼阿波《善说宝璎珞·具慧者普喜之言》">拉琼阿波《善说宝璎珞·具慧者普喜之言》</a><span class="dt-article-date">2026-11-06</span></li>
   <li><a href="/大圆满/拉琼阿波《诸乘总摄释·白莲花束》">拉琼阿波《诸乘总摄释·白莲花束》</a><span class="dt-article-date">2026-11-06</span></li>
   <li><a href="/大圆满/拉琼阿波《备忘杂录》">拉琼阿波《备忘杂录》</a><span class="dt-article-date">2026-11-06</span></li>
+  <li><a href="/大圆满/蒋贡康楚《知识总汇·宣说形成轮回的因缘》">蒋贡康楚《知识总汇·宣说形成轮回的因缘》</a><span class="dt-article-date">2026-11-06</span></li>
 </ul>
