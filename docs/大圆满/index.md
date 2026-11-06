@@ -71,4 +71,5 @@ title: 大圆满
   <li><a href="/大圆满/拉琼阿波《喀多殊胜化身仁波切于罗布林卡受看管期间所呈书信》">拉琼阿波《喀多殊胜化身仁波切于罗布林卡受看管期间所呈书信》</a><span class="dt-article-date">2026-11-06</span></li>
   <li><a href="/大圆满/拉琼阿波《圣仙口传·梵音之歌》">拉琼阿波《圣仙口传·梵音之歌》</a><span class="dt-article-date">2026-11-06</span></li>
   <li><a href="/大圆满/拉琼阿波《自我策励·清净良友的肺腑之言》">拉琼阿波《自我策励·清净良友的肺腑之言》</a><span class="dt-article-date">2026-11-06</span></li>
+  <li><a href="/大圆满/拉琼阿波《善说宝璎珞·具慧者普喜之言》">拉琼阿波《善说宝璎珞·具慧者普喜之言》</a><span class="dt-article-date">2026-11-06</span></li>
 </ul>
