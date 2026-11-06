@@ -273,4 +273,5 @@ title: 唯识
   <li><a href="/唯识/卷24上-03　七界与诸受十六门">卷24上-03　七界与诸受十六门</a><span class="dt-article-date">2026-11-06</span></li>
   <li><a href="/唯识/卷24下-01　沙门四处与念住诸门">卷24下-01　沙门四处与念住诸门</a><span class="dt-article-date">2026-11-06</span></li>
   <li><a href="/唯识/卷24下-02　道品诸门与息念证净">卷24下-02　道品诸门与息念证净</a><span class="dt-article-date">2026-11-06</span></li>
+  <li><a href="/唯识/卷24下-03　制戒十利与七灭诤">卷24下-03　制戒十利与七灭诤</a><span class="dt-article-date">2026-11-06</span></li>
 </ul>
