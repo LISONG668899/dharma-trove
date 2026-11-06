@@ -271,4 +271,5 @@ title: 唯识
   <li><a href="/唯识/卷24上-01　触缘有灭与四食">卷24上-01　触缘有灭与四食</a><span class="dt-article-date">2026-11-05</span></li>
   <li><a href="/唯识/卷24上-02　四谛十二门与百八爱行">卷24上-02　四谛十二门与百八爱行</a><span class="dt-article-date">2026-11-05</span></li>
   <li><a href="/唯识/卷24上-03　七界与诸受十六门">卷24上-03　七界与诸受十六门</a><span class="dt-article-date">2026-11-06</span></li>
+  <li><a href="/唯识/卷24下-01　沙门四处与念住诸门">卷24下-01　沙门四处与念住诸门</a><span class="dt-article-date">2026-11-06</span></li>
 </ul>
