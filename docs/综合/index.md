@@ -95,4 +95,5 @@ title: 综合
   <li><a href="/综合/致持明琼果匝教言">致持明琼果匝教言</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/综合/解脱勇士心髓宝">解脱勇士心髓宝</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/综合/窥基大乘法苑义林章六合释">窥基大乘法苑义林章六合释</a><span class="dt-article-date">2026-11-05</span></li>
+  <li><a href="/综合/央掘魔罗经卷第一">央掘魔罗经卷第一</a><span class="dt-article-date">2026-11-09</span></li>
 </ul>
