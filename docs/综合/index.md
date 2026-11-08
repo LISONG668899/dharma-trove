@@ -98,4 +98,5 @@ title: 综合
   <li><a href="/综合/央掘魔罗经卷第一">央掘魔罗经卷第一</a><span class="dt-article-date">2026-11-09</span></li>
   <li><a href="/综合/央掘魔罗经卷第二">央掘魔罗经卷第二</a><span class="dt-article-date">2026-11-09</span></li>
   <li><a href="/综合/央掘魔罗经卷第三">央掘魔罗经卷第三</a><span class="dt-article-date">2026-11-09</span></li>
+  <li><a href="/综合/央掘魔罗经卷第四">央掘魔罗经卷第四</a><span class="dt-article-date">2026-11-09</span></li>
 </ul>
