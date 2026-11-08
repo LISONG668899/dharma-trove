@@ -87,4 +87,5 @@ title: 大圆满
   <li><a href="/大圆满/观音上师开示《三句击要》">嘉瓦仁波切《三句击要》开示</a><span class="dt-article-date">2026-09-14</span></li>
   <li><a href="/大圆满/任运八门——大圆满基现之教理探原">任运八门——大圆满基现之教理探原</a><span class="dt-article-date">2026-09-06</span></li>
   <li><a href="/大圆满/扎西次仁《贡觉拉琼阿波尊者略传》">扎西次仁《贡觉拉琼阿波尊者略传》</a><span class="dt-article-date">2026-11-08</span></li>
+  <li><a href="/大圆满/多芒扬唐仁波切《见修行三略摄》">多芒扬唐仁波切《见修行三略摄》</a><span class="dt-article-date">2026-11-09</span></li>
 </ul>
