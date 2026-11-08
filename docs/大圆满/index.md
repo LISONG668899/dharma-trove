@@ -86,4 +86,5 @@ title: 大圆满
   <li><a href="/大圆满/赠郭桑登之教言道歌">堪布岗夏《赠郭桑登之教言道歌》</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/大圆满/观音上师开示《三句击要》">嘉瓦仁波切《三句击要》开示</a><span class="dt-article-date">2026-09-14</span></li>
   <li><a href="/大圆满/任运八门——大圆满基现之教理探原">任运八门——大圆满基现之教理探原</a><span class="dt-article-date">2026-09-06</span></li>
+  <li><a href="/大圆满/扎西次仁《贡觉拉琼阿波尊者略传》">扎西次仁《贡觉拉琼阿波尊者略传》</a><span class="dt-article-date">2026-11-08</span></li>
 </ul>
