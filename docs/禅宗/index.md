@@ -128,4 +128,5 @@ title: 禅宗
   <li><a href="/禅宗/《大慧普觉禅师语要》">《大慧普觉禅师语要》</a><span class="dt-article-date">2026-11-09</span></li>
   <li><a href="/禅宗/憨山德清《初心修悟法要》">憨山德清《初心修悟法要》</a><span class="dt-article-date">2026-11-09</span></li>
   <li><a href="/禅宗/五祖弘忍《最上乘论》">五祖弘忍《最上乘论》</a><span class="dt-article-date">2026-11-09</span></li>
+  <li><a href="/禅宗/《南阳和上顿教解脱禅门直了性坛语》">《南阳和上顿教解脱禅门直了性坛语》</a><span class="dt-article-date">2026-11-10</span></li>
 </ul>
