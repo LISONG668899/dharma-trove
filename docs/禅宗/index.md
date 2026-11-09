@@ -130,4 +130,5 @@ title: 禅宗
   <li><a href="/禅宗/五祖弘忍《最上乘论》">五祖弘忍《最上乘论》</a><span class="dt-article-date">2026-11-09</span></li>
   <li><a href="/禅宗/《南阳和上顿教解脱禅门直了性坛语》">《南阳和上顿教解脱禅门直了性坛语》</a><span class="dt-article-date">2026-11-10</span></li>
   <li><a href="/禅宗/《南阳和尚问答杂征义》">《南阳和尚问答杂征义》</a><span class="dt-article-date">2026-11-10</span></li>
+  <li><a href="/禅宗/荷泽神会《顿悟无生般若颂》">荷泽神会《顿悟无生般若颂》</a><span class="dt-article-date">2026-11-10</span></li>
 </ul>
