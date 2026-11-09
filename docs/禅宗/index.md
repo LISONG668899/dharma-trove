@@ -126,4 +126,5 @@ title: 禅宗
   <li><a href="/禅宗/修心诀">修心诀</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/禅宗/真心直说">真心直说</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/禅宗/《大慧普觉禅师语要》">《大慧普觉禅师语要》</a><span class="dt-article-date">2026-11-09</span></li>
+  <li><a href="/禅宗/憨山德清《初心修悟法要》">憨山德清《初心修悟法要》</a><span class="dt-article-date">2026-11-09</span></li>
 </ul>
