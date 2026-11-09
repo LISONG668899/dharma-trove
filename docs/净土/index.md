@@ -22,4 +22,5 @@ title: 净土
   <li><a href="/净土/中阴愿文注释·明灯">中阴愿文注释·明灯</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/净土/临终一念">临终一念</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/净土/飞锡《念佛三昧宝王论》卷上">飞锡《念佛三昧宝王论》卷上</a><span class="dt-article-date">2026-11-09</span></li>
+  <li><a href="/净土/飞锡《念佛三昧宝王论》卷中">飞锡《念佛三昧宝王论》卷中</a><span class="dt-article-date">2026-11-09</span></li>
 </ul>
