@@ -113,23 +113,23 @@ title: 禅宗
   <li><a href="/禅宗/宗镜录卷第九十八">永明延寿《宗镜录》卷第九十八</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/禅宗/宗镜录卷第九十九">永明延寿《宗镜录》卷第九十九</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/禅宗/宗镜录卷第一百">永明延寿《宗镜录》卷第一百</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/禅宗/千年迷雾一朝散——《宗镜录》校订者法涌禅师考">千年迷雾一朝散——《宗镜录》校订者法涌禅师考</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/禅宗/唯心诀（上）">唯心诀（上）</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/禅宗/唯心诀（中）">唯心诀（中）</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/禅宗/唯心诀（下）">唯心诀（下）</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/禅宗/禅门师资承袭图">禅门师资承袭图</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/禅宗/禅源诸诠集都序（一）">禅源诸诠集都序（一）</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/禅宗/禅源诸诠集都序（二）">禅源诸诠集都序（二）</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/禅宗/禅源诸诠集都序（三）">禅源诸诠集都序（三）</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/禅宗/禅源诸诠集都序（四）">禅源诸诠集都序（四）</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/禅宗/诫初心学人文">诫初心学人文</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/禅宗/修心诀">修心诀</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/禅宗/真心直说">真心直说</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/禅宗/《大慧普觉禅师语要》">《大慧普觉禅师语要》</a><span class="dt-article-date">2026-11-09</span></li>
+  <li><a href="/禅宗/千年迷雾一朝散——《宗镜录》校订者法涌禅师考">《宗镜录》校订者法涌禅师考</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/禅宗/唯心诀（上）">永明延寿《唯心诀》（上）</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/禅宗/唯心诀（中）">永明延寿《唯心诀》（中）</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/禅宗/唯心诀（下）">永明延寿《唯心诀》（下）</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/禅宗/禅门师资承袭图">圭峰宗密《禅门师资承袭图》</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/禅宗/禅源诸诠集都序（一）">圭峰宗密《禅源诸诠集都序》（一）</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/禅宗/禅源诸诠集都序（二）">圭峰宗密《禅源诸诠集都序》（二）</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/禅宗/禅源诸诠集都序（三）">圭峰宗密《禅源诸诠集都序》（三）</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/禅宗/禅源诸诠集都序（四）">圭峰宗密《禅源诸诠集都序》（四）</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/禅宗/诫初心学人文">普照知讷《诫初心学人文》</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/禅宗/修心诀">普照知讷《修心诀》</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/禅宗/真心直说">普照知讷《真心直说》</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/禅宗/《大慧普觉禅师语要》">大慧宗杲《大慧普觉禅师语要》</a><span class="dt-article-date">2026-11-09</span></li>
   <li><a href="/禅宗/憨山德清《初心修悟法要》">憨山德清《初心修悟法要》</a><span class="dt-article-date">2026-11-09</span></li>
   <li><a href="/禅宗/五祖弘忍《最上乘论》">五祖弘忍《最上乘论》</a><span class="dt-article-date">2026-11-09</span></li>
-  <li><a href="/禅宗/《南阳和上顿教解脱禅门直了性坛语》">《南阳和上顿教解脱禅门直了性坛语》</a><span class="dt-article-date">2026-11-10</span></li>
-  <li><a href="/禅宗/《南阳和尚问答杂征义》">《南阳和尚问答杂征义》</a><span class="dt-article-date">2026-11-10</span></li>
+  <li><a href="/禅宗/《南阳和上顿教解脱禅门直了性坛语》">荷泽神会《南阳和上顿教解脱禅门直了性坛语》</a><span class="dt-article-date">2026-11-10</span></li>
+  <li><a href="/禅宗/《南阳和尚问答杂征义》">荷泽神会《南阳和尚问答杂征义》</a><span class="dt-article-date">2026-11-10</span></li>
   <li><a href="/禅宗/荷泽神会《顿悟无生般若颂》">荷泽神会《顿悟无生般若颂》</a><span class="dt-article-date">2026-11-10</span></li>
   <li><a href="/禅宗/荷泽神会《菩提达摩南宗定是非论》上篇">荷泽神会《菩提达摩南宗定是非论》上篇</a><span class="dt-article-date">2026-11-10</span></li>
   <li><a href="/禅宗/荷泽神会《菩提达摩南宗定是非论》下篇">荷泽神会《菩提达摩南宗定是非论》下篇</a><span class="dt-article-date">2026-11-10</span></li>
