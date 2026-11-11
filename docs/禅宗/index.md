@@ -137,4 +137,5 @@ title: 禅宗
   <li><a href="/禅宗/大颠宝通《上堂语与机缘问答》">大颠宝通《上堂语与机缘问答》</a><span class="dt-article-date">2026-11-11</span></li>
   <li><a href="/禅宗/临济义玄《临济录》一">临济义玄《临济录》一</a><span class="dt-article-date">2026-11-11</span></li>
   <li><a href="/禅宗/临济义玄《临济录》二">临济义玄《临济录》二</a><span class="dt-article-date">2026-11-11</span></li>
+  <li><a href="/禅宗/临济义玄《临济录》三">临济义玄《临济录》三</a><span class="dt-article-date">2026-11-11</span></li>
 </ul>
