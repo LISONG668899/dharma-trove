@@ -134,4 +134,5 @@ title: 禅宗
   <li><a href="/禅宗/荷泽神会《菩提达摩南宗定是非论》上篇">荷泽神会《菩提达摩南宗定是非论》上篇</a><span class="dt-article-date">2026-11-10</span></li>
   <li><a href="/禅宗/荷泽神会《菩提达摩南宗定是非论》下篇">荷泽神会《菩提达摩南宗定是非论》下篇</a><span class="dt-article-date">2026-11-10</span></li>
   <li><a href="/禅宗/黄檗希运《宛陵录》">黄檗希运《宛陵录》</a><span class="dt-article-date">2026-11-11</span></li>
+  <li><a href="/禅宗/大颠宝通《上堂语与机缘问答》">大颠宝通《上堂语与机缘问答》</a><span class="dt-article-date">2026-11-11</span></li>
 </ul>
