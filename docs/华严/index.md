@@ -31,4 +31,5 @@ title: 华严
   <li><a href="/华严/华严五教止观">华严五教止观</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/华严/法藏《修华严奥旨妄尽还源观》">法藏《修华严奥旨妄尽还源观》</a><span class="dt-article-date">2026-11-10</span></li>
   <li><a href="/华严/湛然《止观大意》">湛然《止观大意》</a><span class="dt-article-date">2026-11-11</span></li>
+  <li><a href="/华严/马鸣《大乘起信论》">马鸣《大乘起信论》</a><span class="dt-article-date">2026-11-11</span></li>
 </ul>
