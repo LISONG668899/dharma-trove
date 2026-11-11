@@ -30,4 +30,5 @@ title: 华严
   <li><a href="/华严/法藏大师华严论释精华（十二）">法藏大师华严论释精华（十二）</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/华严/华严五教止观">华严五教止观</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/华严/法藏《修华严奥旨妄尽还源观》">法藏《修华严奥旨妄尽还源观》</a><span class="dt-article-date">2026-11-10</span></li>
+  <li><a href="/华严/湛然《止观大意》">湛然《止观大意》</a><span class="dt-article-date">2026-11-11</span></li>
 </ul>
