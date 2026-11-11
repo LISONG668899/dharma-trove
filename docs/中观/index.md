@@ -30,4 +30,5 @@ title: 中观
   <li><a href="/中观/因缘心论">因缘心论</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/中观/僧肇《肇论》一">僧肇《肇论》一</a><span class="dt-article-date">2026-11-11</span></li>
   <li><a href="/中观/僧肇《肇论》二">僧肇《肇论》二</a><span class="dt-article-date">2026-11-11</span></li>
+  <li><a href="/中观/僧肇《肇论》三">僧肇《肇论》三</a><span class="dt-article-date">2026-11-11</span></li>
 </ul>
