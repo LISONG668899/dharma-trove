@@ -36,4 +36,5 @@ title: 华严
   <li><a href="/华严/龙树《释摩诃衍论》卷第二">龙树《释摩诃衍论》卷第二</a><span class="dt-article-date">2026-11-11</span></li>
   <li><a href="/华严/龙树《释摩诃衍论》卷第三">龙树《释摩诃衍论》卷第三</a><span class="dt-article-date">2026-11-12</span></li>
   <li><a href="/华严/龙树《释摩诃衍论》卷第四">龙树《释摩诃衍论》卷第四</a><span class="dt-article-date">2026-11-12</span></li>
+  <li><a href="/华严/龙树《释摩诃衍论》卷第五">龙树《释摩诃衍论》卷第五</a><span class="dt-article-date">2026-11-12</span></li>
 </ul>
