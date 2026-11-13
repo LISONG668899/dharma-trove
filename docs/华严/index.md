@@ -42,4 +42,5 @@ title: 华严
   <li><a href="/华严/龙树《释摩诃衍论》卷第八">龙树《释摩诃衍论》卷第八</a><span class="dt-article-date">2026-11-12</span></li>
   <li><a href="/华严/龙树《释摩诃衍论》卷第九">龙树《释摩诃衍论》卷第九</a><span class="dt-article-date">2026-11-12</span></li>
   <li><a href="/华严/龙树《释摩诃衍论》卷第十">龙树《释摩诃衍论》卷第十</a><span class="dt-article-date">2026-11-12</span></li>
+  <li><a href="/华严/元晓《大乘六情忏悔》">元晓《大乘六情忏悔》</a><span class="dt-article-date">2026-11-13</span></li>
 </ul>
