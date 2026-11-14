@@ -24,4 +24,5 @@ title: 净土
   <li><a href="/净土/飞锡《念佛三昧宝王论》卷上">飞锡《念佛三昧宝王论》卷上</a><span class="dt-article-date">2026-11-09</span></li>
   <li><a href="/净土/飞锡《念佛三昧宝王论》卷中">飞锡《念佛三昧宝王论》卷中</a><span class="dt-article-date">2026-11-09</span></li>
   <li><a href="/净土/飞锡《念佛三昧宝王论》卷下">飞锡《念佛三昧宝王论》卷下</a><span class="dt-article-date">2026-11-09</span></li>
+  <li><a href="/净土/元晓《游心安乐道》">元晓《游心安乐道》</a><span class="dt-article-date">2026-11-14</span></li>
 </ul>
