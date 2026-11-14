@@ -47,4 +47,5 @@ title: 华严
   <li><a href="/华严/元晓《金刚三昧经论》卷上">元晓《金刚三昧经论》卷上</a><span class="dt-article-date">2026-11-14</span></li>
   <li><a href="/华严/元晓《金刚三昧经论》卷中">元晓《金刚三昧经论》卷中</a><span class="dt-article-date">2026-11-14</span></li>
   <li><a href="/华严/元晓《金刚三昧经论》卷下">元晓《金刚三昧经论》卷下</a><span class="dt-article-date">2026-11-14</span></li>
+  <li><a href="/华严/知讷《圆顿成佛论》">知讷《圆顿成佛论》</a><span class="dt-article-date">2026-11-14</span></li>
 </ul>
