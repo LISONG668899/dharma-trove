@@ -50,4 +50,5 @@ title: 华严
   <li><a href="/华严/知讷《圆顿成佛论》">知讷《圆顿成佛论》</a><span class="dt-article-date">2026-11-14</span></li>
   <li><a href="/华严/知讷《华严论节要》卷一">知讷《华严论节要》卷一</a><span class="dt-article-date">2026-11-14</span></li>
   <li><a href="/华严/知讷《华严论节要》卷二">知讷《华严论节要》卷二</a><span class="dt-article-date">2026-11-14</span></li>
+  <li><a href="/华严/知讷《华严论节要》卷三">知讷《华严论节要》卷三</a><span class="dt-article-date">2026-11-14</span></li>
 </ul>
