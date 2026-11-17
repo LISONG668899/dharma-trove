@@ -91,4 +91,5 @@ title: 大圆满
   <li><a href="/大圆满/蒋扬钦哲旺波《辨析宗义之言·了义耳饰》">蒋扬钦哲旺波《辨析宗义之言·了义耳饰》</a><span class="dt-article-date">2026-11-12</span></li>
   <li><a href="/大圆满/如实直指无改之基次第">如实直指无改之基次第</a><span class="dt-article-date">2026-11-16</span></li>
   <li><a href="/大圆满/大圆满教言">大圆满教言</a><span class="dt-article-date">2026-11-16</span></li>
+  <li><a href="/大圆满/谈锡永《净治明相.导论》综述">谈锡永《净治明相.导论》综述</a><span class="dt-article-date">2026-11-17</span></li>
 </ul>
