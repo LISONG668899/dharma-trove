@@ -276,4 +276,5 @@ title: 唯识
   <li><a href="/唯识/卷24下-03　制戒十利与七灭诤">卷24下-03　制戒十利与七灭诤</a><span class="dt-article-date">2026-11-06</span></li>
   <li><a href="/唯识/卷24下-04　遍知诸门与本母事">卷24下-04　遍知诸门与本母事</a><span class="dt-article-date">2026-11-08</span></li>
   <li><a href="/唯识/元晓《二障义》">元晓《二障义》</a><span class="dt-article-date">2026-11-14</span></li>
+  <li><a href="/唯识/八识规矩颂逐句疏解">八识规矩颂逐句疏解</a><span class="dt-article-date">2026-11-18</span></li>
 </ul>
