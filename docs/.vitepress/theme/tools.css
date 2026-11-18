@@ -35,18 +35,24 @@ html.dark {
 .ico-export   { --ico: url('/icons/export.svg'); }
 .ico-lock     { --ico: url('/icons/lock.svg'); }
 
-/* ---------- 导航栏右侧“收藏”按钮（简繁按钮左边） ---------- */
+/* ---------- 导航栏：背景条加高；“收藏”按钮与右边“繁體”按钮同高 ---------- */
+:root { --vp-nav-height: 72px; }
+.VPNavBar .script-toggle,
 .dt-navsave {
-  position: relative;
+  box-sizing: border-box;
+  height: 32px;
   display: inline-flex;
   align-items: center;
+  line-height: 1;
+}
+.dt-navsave {
+  position: relative;
   gap: 4px;
   margin-left: 8px;
-  padding: 4px 10px;
+  padding: 0 10px;
   border: 1px solid var(--dt-gold-line);
   border-radius: 6px;
   font-size: 13px;
-  line-height: 1.4;
   color: var(--dt-gold);
   text-decoration: none;
   white-space: nowrap;
@@ -56,25 +62,25 @@ html.dark {
   background: var(--dt-gold-soft);
   border-color: var(--dt-gold);
 }
-.dt-navsave .dt-ico { width: 16px; height: 16px; }
+.dt-navsave .dt-ico { width: 15px; height: 15px; --ico: url('/icons/bookmark-thin.svg'); }
 .dt-badge {
   position: absolute;
-  top: -7px;
-  right: -7px;
-  min-width: 17px;
-  height: 17px;
-  padding: 0 4px;
-  border-radius: 9px;
+  top: -5px;
+  right: -5px;
+  min-width: 13px;
+  height: 13px;
+  padding: 0 3px;
+  border-radius: 7px;
   background: var(--dt-gold-strong);
   color: #fff;
-  font-size: 10px;
-  font-weight: 600;
-  line-height: 17px;
+  font-size: 9px;
+  font-weight: 500;
+  line-height: 13px;
   text-align: center;
 }
 @media (max-width: 420px) {
   .dt-navsave-txt { display: none; }   /* 很窄的手机上只留图标和数字 */
-  .dt-navsave { padding: 4px 7px; }
+  .dt-navsave { padding: 0 8px; }
 }
 
 /* ---------- 选中文字后出现的“划线收藏”按钮 ---------- */
