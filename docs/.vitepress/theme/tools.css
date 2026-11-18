@@ -1,0 +1,256 @@
+/* ============================================================
+   划线收藏 · 我的收藏 · 导出
+   配色沿用网站的金色（手机浏览器顶栏 #c9982f、首页金色标题），
+   亮色模式用稍深的金色保证文字对比度，暗色模式用稍亮的金色。
+   图标统一放在 /icons/*.svg，用 CSS 遮罩上色——换图标只要替换同名文件。
+   ============================================================ */
+:root {
+  --dt-gold: #b8862b;          /* 按钮文字、描边 */
+  --dt-gold-strong: #c9982f;   /* 实心按钮底色 */
+  --dt-gold-soft: #faf3e0;     /* 悬停、浅底 */
+  --dt-gold-line: #e6cf98;     /* 细边框 */
+  --dt-hl: rgba(212, 160, 23, 0.16);
+}
+html.dark {
+  --dt-gold: #e0b84a;
+  --dt-gold-strong: #c9982f;
+  --dt-gold-soft: rgba(224, 184, 74, 0.12);
+  --dt-gold-line: rgba(224, 184, 74, 0.35);
+  --dt-hl: rgba(240, 192, 64, 0.18);
+}
+
+/* ---------- 图标：遮罩上色，自动跟随文字颜色 ---------- */
+.dt-ico {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  flex: none;
+  background-color: currentColor;
+  -webkit-mask: var(--ico) center / contain no-repeat;
+  mask: var(--ico) center / contain no-repeat;
+}
+.ico-bookmark { --ico: url('/icons/bookmark.svg'); }
+.ico-mark     { --ico: url('/icons/mark.svg'); }
+.ico-unmark   { --ico: url('/icons/unmark.svg'); }
+.ico-export   { --ico: url('/icons/export.svg'); }
+.ico-lock     { --ico: url('/icons/lock.svg'); }
+
+/* ---------- 导航栏右侧“收藏”按钮（简繁按钮左边） ---------- */
+.dt-navsave {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-left: 8px;
+  padding: 4px 10px;
+  border: 1px solid var(--dt-gold-line);
+  border-radius: 6px;
+  font-size: 13px;
+  line-height: 1.4;
+  color: var(--dt-gold);
+  text-decoration: none;
+  white-space: nowrap;
+}
+.dt-navsave:hover,
+.dt-navsave.on {
+  background: var(--dt-gold-soft);
+  border-color: var(--dt-gold);
+}
+.dt-navsave .dt-ico { width: 16px; height: 16px; }
+.dt-badge {
+  position: absolute;
+  top: -7px;
+  right: -7px;
+  min-width: 17px;
+  height: 17px;
+  padding: 0 4px;
+  border-radius: 9px;
+  background: var(--dt-gold-strong);
+  color: #fff;
+  font-size: 10px;
+  font-weight: 600;
+  line-height: 17px;
+  text-align: center;
+}
+@media (max-width: 420px) {
+  .dt-navsave-txt { display: none; }   /* 很窄的手机上只留图标和数字 */
+  .dt-navsave { padding: 4px 7px; }
+}
+
+/* ---------- 选中文字后出现的“划线收藏”按钮 ---------- */
+.dt-selbtn {
+  position: absolute;
+  z-index: 60;
+  transform: translateX(-50%);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 14px;
+  border: none;
+  border-radius: 20px;
+  background: var(--dt-gold-strong);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.18);
+  cursor: pointer;
+  white-space: nowrap;
+}
+.dt-selbtn:hover { filter: brightness(1.06); }
+.dt-selbtn.on {
+  background: var(--vp-c-bg);
+  color: var(--dt-gold);
+  box-shadow: 0 0 0 1px var(--dt-gold), 0 4px 14px rgba(0, 0, 0, 0.14);
+}
+
+/* 已收藏段落：浅金底色 + 金色下划线（浏览器支持时显示；老浏览器不显示，但收藏照常保存） */
+::highlight(dt-saved) {
+  background-color: var(--dt-hl);
+  text-decoration: underline;
+  text-decoration-color: var(--dt-gold-strong);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}
+
+/* 底部提示条 */
+.dt-toast {
+  position: fixed;
+  left: 50%;
+  bottom: calc(24px + env(safe-area-inset-bottom));
+  z-index: 70;
+  transform: translateX(-50%);
+  max-width: calc(100vw - 32px);
+  padding: 9px 16px;
+  border-radius: 20px;
+  background: rgba(40, 34, 26, 0.92);
+  color: #fff;
+  font-size: 14px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+}
+.dt-toast a { margin-left: 10px; color: #f0c040; font-weight: 600; }
+.dt-fade-enter-active, .dt-fade-leave-active { transition: opacity 0.25s; }
+.dt-fade-enter-from, .dt-fade-leave-to { opacity: 0; }
+
+/* ---------- 通用小按钮 ---------- */
+.dt-tool {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  border: 1px solid var(--dt-gold-line);
+  border-radius: 8px;
+  background: var(--vp-c-bg);
+  color: var(--dt-gold);
+  font-size: 14px;
+  cursor: pointer;
+  text-decoration: none !important;
+}
+.dt-tool:hover, .dt-tool.open { background: var(--dt-gold-soft); border-color: var(--dt-gold); }
+.dt-tool.primary { background: var(--dt-gold-strong); border-color: var(--dt-gold-strong); color: #fff; }
+.dt-tool.primary:hover, .dt-tool.primary.open { filter: brightness(1.06); }
+.dt-link, .vp-doc a.dt-link {
+  border: none;
+  background: none;
+  padding: 0;
+  color: var(--dt-gold);
+  font-size: 13px;
+  cursor: pointer;
+  text-decoration: none !important;
+}
+.dt-link:hover { text-decoration: underline !important; }
+
+/* 导出下拉菜单 */
+.dt-export { position: relative; }
+.dt-menu {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 6px);
+  z-index: 30;
+  min-width: 210px;
+  padding: 6px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  background: var(--vp-c-bg-elv);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+.dt-menu button {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  width: 100%;
+  padding: 8px 10px;
+  border-radius: 6px;
+  text-align: left;
+  font-size: 14px;
+  color: var(--vp-c-text-1);
+}
+.dt-menu button:hover { background: var(--dt-gold-soft); }
+.dt-menu b { min-width: 42px; color: var(--dt-gold); }
+.dt-menu span { color: var(--vp-c-text-2); font-size: 13px; }
+
+/* ---------- 我的收藏页 ---------- */
+.dt-privacy {
+  display: flex;
+  gap: 8px;
+  align-items: flex-start;
+  padding: 10px 14px;
+  border-radius: 8px;
+  background: var(--dt-gold-soft);
+  color: var(--vp-c-text-2);
+  font-size: 14px;
+  line-height: 1.7;
+}
+.dt-privacy .dt-ico { margin-top: 4px; color: var(--dt-gold); width: 16px; height: 16px; }
+.dt-saved-empty { color: var(--vp-c-text-2); }
+.dt-saved-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  margin: 20px 0 8px;
+  color: var(--vp-c-text-2);
+  font-size: 14px;
+}
+.vp-doc .dt-group-title {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin-top: 28px;
+  padding-top: 18px;
+  border-top: 1px solid var(--dt-gold-line);
+  font-size: 19px;
+}
+.vp-doc .dt-group-title a { color: var(--vp-c-text-1); text-decoration: none; }
+.vp-doc .dt-group-title a:hover { color: var(--dt-gold); }
+.dt-saved-cat {
+  padding: 1px 8px;
+  border-radius: 10px;
+  background: var(--dt-gold-soft);
+  color: var(--dt-gold);
+  font-size: 12px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.dt-passage {
+  margin: 14px 0;
+  padding: 2px 0 2px 14px;
+  border-left: 3px solid var(--dt-gold-strong);
+}
+.vp-doc .dt-passage-text { margin: 0 0 6px; white-space: pre-wrap; }
+.dt-passage-ops {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  font-size: 13px;
+  color: var(--vp-c-text-3);
+}
+
+/* ---------- 打印 / 存为 PDF：去掉导航、侧栏、页脚和按钮，只留正文 ---------- */
+@media print {
+  .VPNav, .VPLocalNav, .VPSidebar, .VPFooter, .aside, .VPDocFooter,
+  .dt-selbtn, .dt-toast, .dt-saved-bar, .dt-passage-ops, .dt-privacy { display: none !important; }
+  .VPContent, .VPDoc, .VPDoc .container, .VPDoc .content, .VPDoc .content-container { padding: 0 !important; margin: 0 !important; max-width: none !important; }
+  .vp-doc { font-size: 12pt; }
+  .dt-group { break-inside: auto; }
+  .dt-passage { break-inside: avoid; }
+}
