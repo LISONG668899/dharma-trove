@@ -162,4 +162,5 @@ title: 大手印
   <li><a href="/大手印/月灯三昧经卷第十">月灯三昧经卷第十</a><span class="dt-article-date">2026-11-03</span></li>
   <li><a href="/大手印/佛说月灯三昧经">佛说月灯三昧经</a><span class="dt-article-date">2026-11-03</span></li>
   <li><a href="/大手印/香巴道歌集（一）金刚持">香巴道歌集（一）金刚持</a><span class="dt-article-date">2026-11-18</span></li>
+  <li><a href="/大手印/香巴道歌集（二）尼古玛">香巴道歌集（二）尼古玛</a><span class="dt-article-date">2026-11-18</span></li>
 </ul>
