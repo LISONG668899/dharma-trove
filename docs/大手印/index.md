@@ -178,4 +178,5 @@ title: 大手印
   <li><a href="/大手印/香巴道歌集（十五）多罗那他">香巴道歌集（十五）多罗那他</a><span class="dt-article-date">2026-11-18</span></li>
   <li><a href="/大手印/香巴道歌集（十六）久美德千">香巴道歌集（十六）久美德千</a><span class="dt-article-date">2026-11-18</span></li>
   <li><a href="/大手印/香巴道歌集（十七）夏鲁·洛色丹炯">香巴道歌集（十七）夏鲁·洛色丹炯</a><span class="dt-article-date">2026-11-18</span></li>
+  <li><a href="/大手印/香巴道歌集（十八）蒋扬钦哲旺波">香巴道歌集（十八）蒋扬钦哲旺波</a><span class="dt-article-date">2026-11-18</span></li>
 </ul>
