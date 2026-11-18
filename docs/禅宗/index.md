@@ -142,4 +142,5 @@ title: 禅宗
   <li><a href="/禅宗/知讷《劝修定慧结社文》">知讷《劝修定慧结社文》</a><span class="dt-article-date">2026-11-14</span></li>
   <li><a href="/禅宗/知讷《修心诀》">知讷《修心诀》</a><span class="dt-article-date">2026-11-14</span></li>
   <li><a href="/禅宗/陈实《大藏一览集》卷十">陈实《大藏一览集》卷十</a><span class="dt-article-date">2026-11-14</span></li>
+  <li><a href="/禅宗/云栖袾宏《禅关策进》">云栖袾宏《禅关策进》</a><span class="dt-article-date">2026-11-18</span></li>
 </ul>
