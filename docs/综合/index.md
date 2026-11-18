@@ -103,4 +103,5 @@ title: 综合
   <li><a href="/综合/首楞严三昧经卷下">首楞严三昧经卷下</a><span class="dt-article-date">2026-11-09</span></li>
   <li><a href="/综合/元晓《涅槃宗要》上">元晓《涅槃宗要》上</a><span class="dt-article-date">2026-11-14</span></li>
   <li><a href="/综合/元晓《涅槃宗要》下">元晓《涅槃宗要》下</a><span class="dt-article-date">2026-11-14</span></li>
+  <li><a href="/综合/弥勒菩萨《宝性论》">弥勒菩萨《宝性论》</a><span class="dt-article-date">2026-11-19</span></li>
 </ul>
