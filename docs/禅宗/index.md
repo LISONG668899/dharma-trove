@@ -196,4 +196,5 @@ title: 禅宗
   <li><a href="/禅宗/憨山《观老庄影响论》（四）佛离心意识与译后记">憨山《观老庄影响论》（四）佛离心意识与译后记</a><span class="dt-article-date">2026-11-19</span></li>
   <li><a href="/禅宗/晦山戒显《禅门锻炼说》（一）自序与坚誓忍苦">晦山戒显《禅门锻炼说》（一）自序与坚誓忍苦</a><span class="dt-article-date">2026-11-20</span></li>
   <li><a href="/禅宗/晦山戒显《禅门锻炼说》（二）辨器授话与入室搜刮">晦山戒显《禅门锻炼说》（二）辨器授话与入室搜刮</a><span class="dt-article-date">2026-11-20</span></li>
+  <li><a href="/禅宗/晦山戒显《禅门锻炼说》（三）落堂开导与垂手锻炼">晦山戒显《禅门锻炼说》（三）落堂开导与垂手锻炼</a><span class="dt-article-date">2026-11-20</span></li>
 </ul>
