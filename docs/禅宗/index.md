@@ -177,4 +177,5 @@ title: 禅宗
   <li><a href="/禅宗/憨山《观楞伽经记》（二十三）妄想无性与一乘">憨山《观楞伽经记》（二十三）妄想无性与一乘</a><span class="dt-article-date">2026-11-19</span></li>
   <li><a href="/禅宗/憨山《观楞伽经记》（二十四）三种意生身与五无间">憨山《观楞伽经记》（二十四）三种意生身与五无间</a><span class="dt-article-date">2026-11-19</span></li>
   <li><a href="/禅宗/憨山《观楞伽经记》（二十五）佛之知觉与离有无见">憨山《观楞伽经记》（二十五）佛之知觉与离有无见</a><span class="dt-article-date">2026-11-19</span></li>
+  <li><a href="/禅宗/憨山《观楞伽经记》（二十六）宗说二通与自心现量">憨山《观楞伽经记》（二十六）宗说二通与自心现量</a><span class="dt-article-date">2026-11-19</span></li>
 </ul>
