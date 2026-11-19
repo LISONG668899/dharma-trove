@@ -206,4 +206,5 @@ title: 禅宗
   <li><a href="/禅宗/为霖道霈《禅海十珍》（二）达磨入道四行">为霖道霈《禅海十珍》（二）达磨入道四行</a><span class="dt-article-date">2026-11-20</span></li>
   <li><a href="/禅宗/为霖道霈《禅海十珍》（三）僧璨信心铭">为霖道霈《禅海十珍》（三）僧璨信心铭</a><span class="dt-article-date">2026-11-20</span></li>
   <li><a href="/禅宗/为霖道霈《禅海十珍》（四）六祖二种三昧">为霖道霈《禅海十珍》（四）六祖二种三昧</a><span class="dt-article-date">2026-11-20</span></li>
+  <li><a href="/禅宗/为霖道霈《禅海十珍》（五）永嘉证道歌">为霖道霈《禅海十珍》（五）永嘉证道歌</a><span class="dt-article-date">2026-11-20</span></li>
 </ul>
