@@ -191,4 +191,5 @@ title: 禅宗
   <li><a href="/禅宗/憨山《观楞伽经记》（三十七）三种六度与广决众疑">憨山《观楞伽经记》（三十七）三种六度与广决众疑</a><span class="dt-article-date">2026-11-19</span></li>
   <li><a href="/禅宗/憨山《观楞伽经记》（三十八）断肉性戒与译后记">憨山《观楞伽经记》（三十八）断肉性戒与译后记</a><span class="dt-article-date">2026-11-19</span></li>
   <li><a href="/禅宗/憨山《观老庄影响论》（一）叙意至论学问">憨山《观老庄影响论》（一）叙意至论学问</a><span class="dt-article-date">2026-11-19</span></li>
+  <li><a href="/禅宗/憨山《观老庄影响论》（二）论教乘与论工夫">憨山《观老庄影响论》（二）论教乘与论工夫</a><span class="dt-article-date">2026-11-19</span></li>
 </ul>
