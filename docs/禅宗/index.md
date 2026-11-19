@@ -210,4 +210,5 @@ title: 禅宗
   <li><a href="/禅宗/为霖道霈《禅海十珍》（六）石头参同契">为霖道霈《禅海十珍》（六）石头参同契</a><span class="dt-article-date">2026-11-20</span></li>
   <li><a href="/禅宗/为霖道霈《禅海十珍》（七）临济法语">为霖道霈《禅海十珍》（七）临济法语</a><span class="dt-article-date">2026-11-20</span></li>
   <li><a href="/禅宗/为霖道霈《禅海十珍》（八）洞山宝镜三昧">为霖道霈《禅海十珍》（八）洞山宝镜三昧</a><span class="dt-article-date">2026-11-20</span></li>
+  <li><a href="/禅宗/为霖道霈《禅海十珍》（九）同安十玄谈">为霖道霈《禅海十珍》（九）同安十玄谈</a><span class="dt-article-date">2026-11-20</span></li>
 </ul>
