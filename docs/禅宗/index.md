@@ -159,4 +159,5 @@ title: 禅宗
   <li><a href="/禅宗/憨山《观楞伽经记》（五）八识因缘与破外道异因">憨山《观楞伽经记》（五）八识因缘与破外道异因</a><span class="dt-article-date">2026-11-19</span></li>
   <li><a href="/禅宗/憨山《观楞伽经记》（六）拣邪因与唯心观门">憨山《观楞伽经记》（六）拣邪因与唯心观门</a><span class="dt-article-date">2026-11-19</span></li>
   <li><a href="/禅宗/憨山《观楞伽经记》（七）四因缘与藏识海浪">憨山《观楞伽经记》（七）四因缘与藏识海浪</a><span class="dt-article-date">2026-11-19</span></li>
+  <li><a href="/禅宗/憨山《观楞伽经记》（八）圣智三相与兔角牛角">憨山《观楞伽经记》（八）圣智三相与兔角牛角</a><span class="dt-article-date">2026-11-19</span></li>
 </ul>
