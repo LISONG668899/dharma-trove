@@ -1,4 +1,5 @@
-import { h } from 'vue'
+import { h, onMounted, watch } from 'vue'
+import { useData } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import ConvertToggle from './components/ConvertToggle.vue'
 import SelectSave from './components/SelectSave.vue'
@@ -17,6 +18,15 @@ export default {
     return h(DefaultTheme.Layout, null, {
       'nav-bar-content-after': () => [h(SavedNavButton), h(ConvertToggle)],
       'layout-bottom': () => h(SelectSave)
+    })
+  },
+  setup() {
+    // 手机浏览器顶栏颜色跟着色调走：浅色金色，深色深蓝（与导航栏一致）
+    const { isDark } = useData()
+    onMounted(() => {
+      watch(isDark, (d) => {
+        document.querySelectorAll('meta[name="theme-color"]').forEach((m) => m.setAttribute('content', d ? '#142c43' : '#c9982f'))
+      }, { immediate: true })
     })
   },
   enhanceApp({ app }) {

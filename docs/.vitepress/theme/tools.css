@@ -12,11 +12,12 @@
   --dt-hl: rgba(212, 160, 23, 0.16);
 }
 html.dark {
-  --dt-gold: #e0b84a;
-  --dt-gold-strong: #c9982f;
-  --dt-gold-soft: rgba(224, 184, 74, 0.12);
-  --dt-gold-line: rgba(224, 184, 74, 0.35);
-  --dt-hl: rgba(240, 192, 64, 0.18);
+  /* 深色模式：收藏、导出等按钮改用新配色里的浅蓝（与白莲花网站一致） */
+  --dt-gold: #a8d3ed;
+  --dt-gold-strong: #a8d3ed;
+  --dt-gold-soft: rgba(44, 82, 111, 0.55);
+  --dt-gold-line: rgba(168, 211, 237, 0.35);
+  --dt-hl: rgba(168, 211, 237, 0.18);
 }
 
 /* ---------- 图标：遮罩上色，自动跟随文字颜色 ---------- */

@@ -153,3 +153,62 @@ html.dark .VPHero .name {
     font-size: 16px;
   }
 }
+
+/* ============================================================
+   深色模式（2026-11-19 新配色，与白莲花网站 lotustrove.org 统一）
+   页面背景 蓝黑 #0D1928 · 顶部底部导航 深蓝 #142C43 · 内容卡片 灰蓝 #203D57
+   悬停选中 #2C526F · 按钮选中图标 浅蓝 #A8D3ED · 正文 柔白 #E8EFF5 · 次要文字 浅灰蓝 #B2C5D5
+   ============================================================ */
+html.dark {
+  --vp-c-bg: #0d1928;
+  --vp-c-bg-alt: #142c43;        /* 侧边栏 */
+  --vp-c-bg-elv: #203d57;        /* 下拉菜单、弹出框 */
+  --vp-c-bg-soft: #203d57;       /* 首页类目卡片、代码块 */
+  --vp-nav-bg-color: #142c43;
+  --vp-local-nav-bg-color: #142c43;
+  --vp-sidebar-bg-color: #142c43;
+  --vp-c-gutter: #0d1928;
+
+  --vp-c-text-1: #e8eff5;
+  --vp-c-text-2: #b2c5d5;
+  --vp-c-text-3: #8fa6ba;        /* 日期等最次要的小字：比次要文字再淡一档 */
+
+  --vp-c-divider: rgba(168, 211, 237, 0.14);
+  --vp-c-border: #2c526f;
+
+  --vp-c-default-1: #b2c5d5;
+  --vp-c-default-2: #2c526f;
+  --vp-c-default-3: #2c526f;
+  --vp-c-default-soft: #2c526f;  /* 悬停、选中背景 */
+
+  --vp-c-brand-1: #a8d3ed;       /* 链接、选中项 */
+  --vp-c-brand-2: #c0e0f3;
+  --vp-c-brand-3: #8cc3e3;
+  --vp-c-brand-soft: rgba(168, 211, 237, 0.16);
+
+  --vp-button-brand-bg: #a8d3ed;
+  --vp-button-brand-text: #0d1928;
+  --vp-button-brand-hover-bg: #c0e0f3;
+  --vp-button-brand-hover-text: #0d1928;
+  --vp-button-brand-active-bg: #8cc3e3;
+  --vp-button-brand-active-text: #0d1928;
+
+  --vp-code-block-bg: #142c43;
+  --vp-custom-block-tip-bg: rgba(168, 211, 237, 0.10);
+}
+/* 顶部导航、页脚：深蓝 */
+html.dark .VPNavBar,
+html.dark .VPNavBar:not(.home),
+html.dark .VPNavBar.has-sidebar .content,
+html.dark .VPNavBar .divider-line,
+html.dark .VPLocalNav,
+html.dark .VPFooter { background-color: #142c43 !important; }
+html.dark .VPNavBar .divider-line { background-color: rgba(168, 211, 237, 0.14) !important; }
+html.dark .VPFooter { border-top-color: rgba(168, 211, 237, 0.14); }
+/* 首页类目卡片：灰蓝底，极淡浅蓝边，悬停换成 #2C526F */
+html.dark .VPFeature { background-color: #203d57; border-color: rgba(168, 211, 237, 0.16); }
+html.dark .VPFeature.link:hover,
+html.dark a.VPFeature:hover { background-color: #2c526f; border-color: #a8d3ed; }
+/* 侧边栏当前文章、悬停 */
+html.dark .VPSidebarItem.is-active > .item .text,
+html.dark .VPSidebarItem .item:hover .text { color: #a8d3ed; }
