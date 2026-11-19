@@ -153,4 +153,5 @@ title: 禅宗
   <li><a href="/禅宗/知讷《法集别行录节要并入私记》（八）一念真断与默传知字">知讷《法集别行录节要并入私记》（八）一念真断与默传知字</a><span class="dt-article-date">2026-11-19</span></li>
   <li><a href="/禅宗/知讷《法集别行录节要并入私记》（九）径截门与附录">知讷《法集别行录节要并入私记》（九）径截门与附录</a><span class="dt-article-date">2026-11-19</span></li>
   <li><a href="/禅宗/憨山《观楞伽经记》（一）前言与经题">憨山《观楞伽经记》（一）前言与经题</a><span class="dt-article-date">2026-11-19</span></li>
+  <li><a href="/禅宗/憨山《观楞伽经记》（二）序分与百八问上">憨山《观楞伽经记》（二）序分与百八问上</a><span class="dt-article-date">2026-11-19</span></li>
 </ul>
