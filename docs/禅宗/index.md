@@ -174,4 +174,5 @@ title: 禅宗
   <li><a href="/禅宗/憨山《观楞伽经记》（二十）声闻四果差别通相">憨山《观楞伽经记》（二十）声闻四果差别通相</a><span class="dt-article-date">2026-11-19</span></li>
   <li><a href="/禅宗/憨山《观楞伽经记》（二十一）观察义禅与攀缘如禅">憨山《观楞伽经记》（二十一）观察义禅与攀缘如禅</a><span class="dt-article-date">2026-11-19</span></li>
   <li><a href="/禅宗/憨山《观楞伽经记》（二十二）外道涅槃与十二妄想">憨山《观楞伽经记》（二十二）外道涅槃与十二妄想</a><span class="dt-article-date">2026-11-19</span></li>
+  <li><a href="/禅宗/憨山《观楞伽经记》（二十三）妄想无性与一乘">憨山《观楞伽经记》（二十三）妄想无性与一乘</a><span class="dt-article-date">2026-11-19</span></li>
 </ul>
