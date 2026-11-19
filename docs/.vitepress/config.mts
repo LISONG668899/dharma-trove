@@ -20,7 +20,12 @@ export default defineConfig({
 
     // Android / PWA 图标清单
     ['link', { rel: 'manifest', href: '/site.webmanifest' }],
-    ['meta', { name: 'theme-color', content: '#c9982f' }],
+    // viewport-fit=cover：页面画到屏幕最边上（含 iPhone 底部横条那一窄条），由页面自己按深浅色调填色；
+    // 不加的话手机会用固定的金黄色去填，深色模式下底部就露出一条黄边
+    ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,viewport-fit=cover' }],
+    // 浏览器顶栏颜色：按系统色调给初始值，切换色调时 theme/index.ts 再同步
+    ['meta', { name: 'theme-color', content: '#c9982f', media: '(prefers-color-scheme: light)' }],
+    ['meta', { name: 'theme-color', content: '#142c43', media: '(prefers-color-scheme: dark)' }],
 
     // 社交平台转发卡片（微信/微博/Twitter等分享时显示的横幅图）
     ['meta', { property: 'og:type', content: 'website' }],

@@ -212,3 +212,15 @@ html.dark a.VPFeature:hover { background-color: #2c526f; border-color: #a8d3ed; 
 /* 侧边栏当前文章、悬停 */
 html.dark .VPSidebarItem.is-active > .item .text,
 html.dark .VPSidebarItem .item:hover .text { color: #a8d3ed; }
+
+/* ============================================================
+   页面铺满到屏幕边缘（配合 config.mts 里的 viewport-fit=cover）
+   最外层底色跟着色调走；横屏时内容避开刘海，底部避开 iPhone 横条
+   ============================================================ */
+html { background-color: var(--vp-c-bg); }
+/* 只在有刘海的横屏手机上才有数值，其他设备都是 0，不影响原有排版 */
+.VPNavBar .wrapper, .VPLocalNav .container, .VPContent, .VPFooter .container {
+  margin-left: env(safe-area-inset-left, 0px);
+  margin-right: env(safe-area-inset-right, 0px);
+}
+.VPFooter { padding-bottom: calc(32px + env(safe-area-inset-bottom, 0px)) !important; }
