@@ -26,6 +26,9 @@ export default defineConfig({
     // 浏览器顶栏颜色：按系统色调给初始值，切换色调时 theme/index.ts 再同步
     ['meta', { name: 'theme-color', content: '#c9982f', media: '(prefers-color-scheme: light)' }],
     ['meta', { name: 'theme-color', content: '#142c43', media: '(prefers-color-scheme: dark)' }],
+    // 安卓手机的部分浏览器（三星、小米、华为等）用 theme-color 给底部工具条或导航条上色，且只在页面打开时读一次。
+    // 这里在页面一开始就按读者选的色调把它定好：深色是深蓝，浅色是原来的颜色，不再露出一条金黄/明黄
+    ['script', {}, '(function(){try{var s=localStorage.getItem(\'vitepress-theme-appearance\');var d=s===\'dark\'||((!s||s===\'auto\')&&window.matchMedia(\'(prefers-color-scheme: dark)\').matches);var c=d?\'#142c43\':\'#c9982f\';var m=document.querySelectorAll(\'meta[name=\"theme-color\"]\');for(var i=0;i<m.length;i++){m[i].setAttribute(\'content\',c);m[i].removeAttribute(\'media\');}}catch(e){}})()'],
 
     // 社交平台转发卡片（微信/微博/Twitter等分享时显示的横幅图）
     ['meta', { property: 'og:type', content: 'website' }],

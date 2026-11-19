@@ -22,5 +22,11 @@
   "theme_color": "#c9982f",
   "background_color": "#faf6ec",
   "display": "standalone",
-  "start_url": "/"
+  "start_url": "/",
+  "user_preferences": {
+    "color_scheme_dark": {
+      "theme_color": "#142c43",
+      "background_color": "#0d1928"
+    }
+  }
 }
