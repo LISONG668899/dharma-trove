@@ -224,3 +224,28 @@ html { background-color: var(--vp-c-bg); }
   margin-right: env(safe-area-inset-right, 0px);
 }
 .VPFooter { padding-bottom: calc(32px + env(safe-area-inset-bottom, 0px)) !important; }
+
+/* ============================================================
+   浅色模式：白色背景换成米色纸纹（public/paper.webp，四边已处理成无缝拼接）
+   深色模式不变。导航栏、手机“Menu”条、页脚也铺同一张纸纹，整页连成一片
+   ============================================================ */
+html:not(.dark) {
+  --dt-paper: url('/paper.webp');
+  --vp-c-bg: #ede4d9;            /* 纸纹的平均色：图片未载入前先显示这个颜色 */
+  --vp-nav-bg-color: #ede4d9;
+  --vp-c-bg-alt: #e6dccf;        /* 侧边栏：比纸色略深一点 */
+  --vp-c-bg-soft: #e4d9ca;       /* 首页类目卡片、代码块 */
+  --vp-c-bg-elv: #f6f0e7;        /* 下拉菜单、弹出框：略亮，浮在纸面上 */
+}
+html:not(.dark) body,
+html:not(.dark) .VPNavBar:not(.home) .content-body,
+html:not(.dark) .VPNavBar.has-sidebar .content,
+html:not(.dark) .VPNavBar.home.top .content-body,
+html:not(.dark) .VPLocalNav,
+html:not(.dark) .VPNavScreen,
+html:not(.dark) .VPFooter {
+  background-color: var(--vp-c-bg);
+  background-image: var(--dt-paper);
+  background-size: 627px 627px;  /* 原图 1254px，按一半显示，高清屏上纹理细腻 */
+  background-repeat: repeat;
+}
