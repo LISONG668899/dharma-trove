@@ -169,4 +169,5 @@ title: 禅宗
   <li><a href="/禅宗/憨山《观楞伽经记》（十五）离四句与十二喻">憨山《观楞伽经记》（十五）离四句与十二喻</a><span class="dt-article-date">2026-11-19</span></li>
   <li><a href="/禅宗/憨山《观楞伽经记》（十六）四种禅与涅槃神力">憨山《观楞伽经记》（十六）四种禅与涅槃神力</a><span class="dt-article-date">2026-11-19</span></li>
   <li><a href="/禅宗/憨山《观楞伽经记》（十七）缘起非同外道与言说无性">憨山《观楞伽经记》（十七）缘起非同外道与言说无性</a><span class="dt-article-date">2026-11-19</span></li>
+  <li><a href="/禅宗/憨山《观楞伽经记》（十八）妄法真常与如幻无生">憨山《观楞伽经记》（十八）妄法真常与如幻无生</a><span class="dt-article-date">2026-11-19</span></li>
 </ul>
