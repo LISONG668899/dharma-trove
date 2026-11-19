@@ -161,4 +161,5 @@ title: 禅宗
   <li><a href="/禅宗/憨山《观楞伽经记》（七）四因缘与藏识海浪">憨山《观楞伽经记》（七）四因缘与藏识海浪</a><span class="dt-article-date">2026-11-19</span></li>
   <li><a href="/禅宗/憨山《观楞伽经记》（八）圣智三相与兔角牛角">憨山《观楞伽经记》（八）圣智三相与兔角牛角</a><span class="dt-article-date">2026-11-19</span></li>
   <li><a href="/禅宗/憨山《观楞伽经记》（九）顿渐净除与常不思议">憨山《观楞伽经记》（九）顿渐净除与常不思议</a><span class="dt-article-date">2026-11-19</span></li>
+  <li><a href="/禅宗/憨山《观楞伽经记》（十）五种性与一阐提">憨山《观楞伽经记》（十）五种性与一阐提</a><span class="dt-article-date">2026-11-19</span></li>
 </ul>
