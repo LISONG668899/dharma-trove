@@ -156,4 +156,5 @@ title: 禅宗
   <li><a href="/禅宗/憨山《观楞伽经记》（二）序分与百八问上">憨山《观楞伽经记》（二）序分与百八问上</a><span class="dt-article-date">2026-11-19</span></li>
   <li><a href="/禅宗/憨山《观楞伽经记》（三）百八问下与世尊牒问">憨山《观楞伽经记》（三）百八问下与世尊牒问</a><span class="dt-article-date">2026-11-19</span></li>
   <li><a href="/禅宗/憨山《观楞伽经记》（四）百八句皆非与诸识生灭">憨山《观楞伽经记》（四）百八句皆非与诸识生灭</a><span class="dt-article-date">2026-11-19</span></li>
+  <li><a href="/禅宗/憨山《观楞伽经记》（五）八识因缘与破外道异因">憨山《观楞伽经记》（五）八识因缘与破外道异因</a><span class="dt-article-date">2026-11-19</span></li>
 </ul>
