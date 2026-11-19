@@ -202,4 +202,5 @@ title: 禅宗
   <li><a href="/禅宗/晦山戒显《禅门锻炼说》（六）精严操履与磨治学业">晦山戒显《禅门锻炼说》（六）精严操履与磨治学业</a><span class="dt-article-date">2026-11-20</span></li>
   <li><a href="/禅宗/晦山戒显《禅门锻炼说》（七）简练才能">晦山戒显《禅门锻炼说》（七）简练才能</a><span class="dt-article-date">2026-11-20</span></li>
   <li><a href="/禅宗/晦山戒显《禅门锻炼说》（八）谨严付授与译后记">晦山戒显《禅门锻炼说》（八）谨严付授与译后记</a><span class="dt-article-date">2026-11-20</span></li>
+  <li><a href="/禅宗/为霖道霈《禅海十珍》（一）作者考略与七佛偈">为霖道霈《禅海十珍》（一）作者考略与七佛偈</a><span class="dt-article-date">2026-11-20</span></li>
 </ul>
