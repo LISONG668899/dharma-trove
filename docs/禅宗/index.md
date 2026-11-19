@@ -166,4 +166,5 @@ title: 禅宗
   <li><a href="/禅宗/憨山《观楞伽经记》（十二）七种空与依义莫著言说">憨山《观楞伽经记》（十二）七种空与依义莫著言说</a><span class="dt-article-date">2026-11-19</span></li>
   <li><a href="/禅宗/憨山《观楞伽经记》（十三）如来藏非我与修行四法">憨山《观楞伽经记》（十三）如来藏非我与修行四法</a><span class="dt-article-date">2026-11-19</span></li>
   <li><a href="/禅宗/憨山《观楞伽经记》（十四）因缘之相与言说妄想">憨山《观楞伽经记》（十四）因缘之相与言说妄想</a><span class="dt-article-date">2026-11-19</span></li>
+  <li><a href="/禅宗/憨山《观楞伽经记》（十五）离四句与十二喻">憨山《观楞伽经记》（十五）离四句与十二喻</a><span class="dt-article-date">2026-11-19</span></li>
 </ul>
