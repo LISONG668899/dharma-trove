@@ -144,4 +144,5 @@ title: 禅宗
   <li><a href="/禅宗/陈实《大藏一览集》卷十">陈实《大藏一览集》卷十</a><span class="dt-article-date">2026-11-14</span></li>
   <li><a href="/禅宗/云栖袾宏《禅关策进》">云栖袾宏《禅关策进》</a><span class="dt-article-date">2026-11-18</span></li>
   <li><a href="/禅宗/知讷《法集别行录节要并入私记》（一）缘起与四宗宗旨">知讷《法集别行录节要并入私记》（一）缘起与四宗宗旨</a><span class="dt-article-date">2026-11-19</span></li>
+  <li><a href="/禅宗/知讷《法集别行录节要并入私记》（二）不变随缘与灵知">知讷《法集别行录节要并入私记》（二）不变随缘与灵知</a><span class="dt-article-date">2026-11-19</span></li>
 </ul>
