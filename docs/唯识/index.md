@@ -284,4 +284,5 @@ title: 唯识
   <li><a href="/唯识/窥基《大乘法苑义林章》（五）总料简章·体性不同（下）与得名悬隔">窥基《大乘法苑义林章》（五）总料简章·体性不同（下）与得名悬隔</a><span class="dt-article-date">2026-11-20</span></li>
   <li><a href="/唯识/窥基《大乘法苑义林章》（六）五心章">窥基《大乘法苑义林章》（六）五心章</a><span class="dt-article-date">2026-11-20</span></li>
   <li><a href="/唯识/窥基《大乘法苑义林章》（七）唯识义林（上）">窥基《大乘法苑义林章》（七）唯识义林（上）</a><span class="dt-article-date">2026-11-20</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（八）唯识义林（下）">窥基《大乘法苑义林章》（八）唯识义林（下）</a><span class="dt-article-date">2026-11-20</span></li>
 </ul>
