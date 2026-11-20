@@ -279,4 +279,5 @@ title: 唯识
   <li><a href="/唯识/八识规矩颂逐句疏解">八识规矩颂逐句疏解</a><span class="dt-article-date">2026-11-18</span></li>
   <li><a href="/唯识/窥基《大乘法苑义林章》（一）总料简章·教益有殊">窥基《大乘法苑义林章》（一）总料简章·教益有殊</a><span class="dt-article-date">2026-11-20</span></li>
   <li><a href="/唯识/窥基《大乘法苑义林章》（二）总料简章·时利差别">窥基《大乘法苑义林章》（二）总料简章·时利差别</a><span class="dt-article-date">2026-11-20</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（三）总料简章·诠宗各异">窥基《大乘法苑义林章》（三）总料简章·诠宗各异</a><span class="dt-article-date">2026-11-20</span></li>
 </ul>
