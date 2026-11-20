@@ -287,4 +287,5 @@ title: 唯识
   <li><a href="/唯识/窥基《大乘法苑义林章》（八）唯识义林（下）">窥基《大乘法苑义林章》（八）唯识义林（下）</a><span class="dt-article-date">2026-11-20</span></li>
   <li><a href="/唯识/窥基《大乘法苑义林章》（九）诸乘义林（上）">窥基《大乘法苑义林章》（九）诸乘义林（上）</a><span class="dt-article-date">2026-11-20</span></li>
   <li><a href="/唯识/窥基《大乘法苑义林章》（十）诸乘义林（下）">窥基《大乘法苑义林章》（十）诸乘义林（下）</a><span class="dt-article-date">2026-11-20</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（十一）诸藏章·结集缘起">窥基《大乘法苑义林章》（十一）诸藏章·结集缘起</a><span class="dt-article-date">2026-11-20</span></li>
 </ul>
