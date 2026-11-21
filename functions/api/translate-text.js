@@ -19,9 +19,11 @@ const MITRA_URL = 'https://dharmamitra.org/api-search/cat-translate/v1/translate
 const MITRA_TIMEOUT_MS = 95000   // 长句可能要 60 秒；对方网关 100 秒截断
 const MAX_LEN = 1500
 
+// 目标语言要用接口认得的写法（依 Dharmamitra 官方客户端 dharmamitra-emacs，2026-09）
+const TARGET = { zh: 'modern-chinese-simplified', zht: 'modern-chinese-traditional' }
 const STYLE = {
-  zh: 'Translate faithfully and readably into modern Simplified Chinese prose, using established Chinese Buddhist terminology. Keep the meaning of every clause. Output only the translation.',
-  zht: 'Translate faithfully and readably into modern Chinese prose written entirely in Traditional Chinese characters (not Simplified), using established Chinese Buddhist terminology. Keep the meaning of every clause. Output only the translation.'
+  zh: 'balanced. Use established Chinese Buddhist terminology. Output only the translation.',
+  zht: 'balanced. Use established Chinese Buddhist terminology. Output only the translation.'
 }
 
 const json = (obj, status = 200) =>
@@ -51,7 +53,7 @@ async function logFail(env, rec) {
   const at = Date.now()
   const meta = {
     at,
-    why: String(rec.why || '').slice(0, 40),
+    why: String(rec.why || '').slice(0, 100),
     path: String(rec.path || '').slice(0, 160),
     src: String(rec.src || '').slice(0, 80),
     len: rec.len || 0,
@@ -77,20 +79,22 @@ async function viaMitra(text, lang) {
       headers: { 'content-type': 'application/json', accept: 'application/json' },
       body: JSON.stringify({
         input_tibetan: text,
-        input_chinese: '',
-        input_pali: '',
-        input_sanskrit: '',
-        focus: 'tibetan',
-        target_language: 'modern chinese',
-        context: 'Classical Tibetan Buddhist canonical literature (Derge Kangyur and Tengyur).',
-        style_instruction: STYLE[lang]
+        target_language: TARGET[lang],
+        style_instruction: STYLE[lang],
+        focus: 'equal'
       }),
       signal: ctrl.signal
     })
-    if (!r.ok) throw new Error('upstream-http-' + r.status)
+    if (!r.ok) {
+      const detail = (await r.text().catch(() => '')).replace(/\s+/g, ' ').slice(0, 60)
+      throw new Error('upstream-http-' + r.status + (detail ? ' ' + detail : ''))
+    }
     const data = await r.json().catch(() => null)
     if (!data) throw new Error('upstream-bad-json')
-    const out = typeof data?.translation === 'string' ? data.translation.trim() : ''
+    // 官方客户端的清理方式：🔽 是分句符号，换成换行
+    const out = typeof data?.translation === 'string'
+      ? data.translation.replace(/\r/g, '').replace(/🔽/g, '\n').replace(/[ \t]+/g, ' ').replace(/\n{3,}/g, '\n\n').trim()
+      : ''
     if (!out) throw new Error('upstream-empty')
     return out
   } catch (e) {

@@ -18,7 +18,7 @@ const WHY = {
   'network': '读者那边网络中断（浏览器补报）'
 }
 const explain = (w) =>
-  WHY[w] || (w.startsWith('upstream-http-') ? `MITRA 返回错误码 ${w.slice(14)}` :
+  WHY[w] || (w.startsWith('upstream-http-') ? `MITRA 返回错误：${w.slice(14)}` :
              w.startsWith('not-found-') ? `找不到这一页的原文（${w.slice(10)}）` : w)
 
 async function logFail(env, rec) {
@@ -26,7 +26,7 @@ async function logFail(env, rec) {
   const at = Date.now()
   const meta = {
     at,
-    why: String(rec.why || '').slice(0, 40),
+    why: String(rec.why || '').slice(0, 100),
     path: String(rec.path || '').slice(0, 160),
     src: String(rec.src || '').slice(0, 80),
     len: Number(rec.len) || 0,
