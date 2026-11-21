@@ -43,6 +43,26 @@ function decode(html) {
     .replace(/&amp;/g, '&')
 }
 
+// ---------- 失败记录 ----------
+// 只记：时间、原因、页面、所选藏文的长度和开头几个字、耗时。不记读者 IP、设备等任何个人信息。
+// 存在同一个 KV（TRANSLATIONS）里，键以 fail: 开头，90 天后自动删除。查看：/api/translate-log?key=…
+async function logFail(env, rec) {
+  if (!env.TRANSLATIONS) return
+  const at = Date.now()
+  const meta = {
+    at,
+    why: String(rec.why || '').slice(0, 40),
+    path: String(rec.path || '').slice(0, 160),
+    src: String(rec.src || '').slice(0, 80),
+    len: rec.len || 0,
+    head: String(rec.head || '').slice(0, 40),
+    ms: rec.ms || 0,
+    from: rec.from || 'server'
+  }
+  const key = `fail:${String(9999999999999 - at).padStart(13, '0')}:${Math.random().toString(36).slice(2, 8)}`
+  await env.TRANSLATIONS.put(key, '1', { metadata: meta, expirationTtl: 90 * 24 * 3600 }).catch(() => {})
+}
+
 async function sha(text) {
   const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(text))
   return [...new Uint8Array(buf)].slice(0, 12).map((b) => b.toString(16).padStart(2, '0')).join('')
@@ -67,11 +87,16 @@ async function viaMitra(text, lang) {
       }),
       signal: ctrl.signal
     })
-    if (!r.ok) throw new Error('mitra ' + r.status)
-    const data = await r.json()
+    if (!r.ok) throw new Error('upstream-http-' + r.status)
+    const data = await r.json().catch(() => null)
+    if (!data) throw new Error('upstream-bad-json')
     const out = typeof data?.translation === 'string' ? data.translation.trim() : ''
-    if (!out) throw new Error('mitra empty')
+    if (!out) throw new Error('upstream-empty')
     return out
+  } catch (e) {
+    const m = String(e?.message || '')
+    if (m.startsWith('upstream-')) throw e
+    throw new Error(e?.name === 'AbortError' ? 'upstream-timeout' : 'upstream-network')
   } finally {
     clearTimeout(timer)
   }
@@ -83,7 +108,9 @@ export async function onRequestPost({ request, env }) {
   let p = String(body?.path || '')
   const lang = String(body?.lang || '')
   const text = String(body?.text || '').replace(/\s+/g, ' ').trim()
-  if (text.length > MAX_LEN) return json({ ok: false, error: 'too-long' }, 400)
+  const started = Date.now()
+  const rec = (why) => logFail(env, { why, path: p, src: body?.src, len: text.length, head: text.slice(0, 30), ms: Date.now() - started })
+  if (text.length > MAX_LEN) { await rec('too-long'); return json({ ok: false, error: 'too-long' }, 400) }
   if (!STYLE[lang] || !p.startsWith('/') || p.includes('..') || p.length > 600 ||
       text.length < 2 || !/[ༀ-࿿]/.test(text)) {
     return json({ ok: false, error: 'bad-request' }, 400)
@@ -94,7 +121,7 @@ export async function onRequestPost({ request, env }) {
   const src = String(body?.src || '')
   const useSrc = /^\/canon\/(kangyur|tengyur)\/[\w-]+\/\d+\.json$/.test(src)
   const pageRes = await env.ASSETS.fetch(new Request(new URL(useSrc ? src : p, request.url).toString()))
-  if (!pageRes.ok) return json({ ok: false, error: 'not-found' }, 404)
+  if (!pageRes.ok) { await rec('not-found-' + pageRes.status); return json({ ok: false, error: 'not-found' }, 404) }
   const raw = await pageRes.text()
   let pageText = ''
   if (useSrc) {
@@ -102,7 +129,7 @@ export async function onRequestPost({ request, env }) {
   } else {
     pageText = decode(raw)
   }
-  if (!squash(pageText).includes(squash(text))) return json({ ok: false, error: 'not-on-page' }, 403)
+  if (!squash(pageText).includes(squash(text))) { await rec('not-on-page'); return json({ ok: false, error: 'not-on-page' }, 403) }
 
   // 译过的直接返回
   const key = `sel:${lang}:${await sha(text)}`
@@ -112,8 +139,9 @@ export async function onRequestPost({ request, env }) {
   }
 
   let out = ''
-  try { out = await viaMitra(text, lang) } catch {}
-  if (!out) return json({ ok: false, error: 'upstream' }, 502)
+  let why = ''
+  try { out = await viaMitra(text, lang) } catch (e) { why = String(e?.message || 'upstream') }
+  if (!out) { await rec(why || 'upstream'); return json({ ok: false, error: 'upstream' }, 502) }
 
   if (env.TRANSLATIONS) {
     await env.TRANSLATIONS.put(key, JSON.stringify({ text: out, at: Date.now() })).catch(() => {})

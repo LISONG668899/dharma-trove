@@ -181,6 +181,13 @@ async function runTranslate(text: string) {
     await new Promise((res) => setTimeout(res, 2000))
     d = await askOnce(text)
   }
+  if (!d.ok && d.error === 'network') {
+    // 网络中断的失败服务器收不到，等网络恢复时由浏览器补报一条（不含任何读者信息）
+    const report = JSON.stringify({ why: 'network', path: route.path, src: reader.value?.src || '', len: text.length, head: text.slice(0, 30) })
+    const send = () => fetch('/api/translate-log', { method: 'POST', headers: { 'content-type': 'application/json' }, body: report, keepalive: true }).catch(() => {})
+    if (navigator.onLine) send()
+    else window.addEventListener('online', send, { once: true })
+  }
   if (!card.value || card.value.source !== text) return
   if (d.ok && d.text) card.value.text = d.text
   else card.value.error = T(...(ERR[d.error || 'default'] || ERR.default))
