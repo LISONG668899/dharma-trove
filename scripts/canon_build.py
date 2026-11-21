@@ -158,7 +158,8 @@ def build(src, key):
     os.makedirs(data_dir, exist_ok=True)
     os.makedirs(page_dir, exist_ok=True)
 
-    files = sorted(glob.glob(os.path.join(src, '*.txt')))
+    # 空文件（如丹珠尔资料里的 213_དཀར་ཆག.txt 是 0 字节）不列入目录
+    files = sorted(f for f in glob.glob(os.path.join(src, '*.txt')) if os.path.getsize(f) > 0)
     texts = {}          # 经号 → {id, sec, paras:[(函字, 叶面, 文字, 是否分品起点)]}
     order = []
     vols = []           # [(序号, 部, 函字)]

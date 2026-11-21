@@ -26,5 +26,4 @@ sidebar: false
 <a class="dt-secbtn" href="/丹珠尔/སྒྲ་མདོ"><span class="dt-bo">སྒྲ་མདོ།</span><span class="dt-sec-zh">声明部</span><span class="dt-sec-n">5 函 · 39 部</span></a>
 <a class="dt-secbtn" href="/丹珠尔/གསོ་རིག"><span class="dt-bo">གསོ་རིག</span><span class="dt-sec-zh">医方明部</span><span class="dt-sec-n">5 函 · 7 部</span></a>
 <a class="dt-secbtn" href="/丹珠尔/སྣ་ཚོགས"><span class="dt-bo">སྣ་ཚོགས།</span><span class="dt-sec-zh">杂部</span><span class="dt-sec-n">9 函 · 152 部</span></a>
-<a class="dt-secbtn" href="/丹珠尔/དཀར་ཆག"><span class="dt-bo">དཀར་ཆག</span><span class="dt-sec-zh">目录</span><span class="dt-sec-n">1 函 · 0 部</span></a>
 </div>
