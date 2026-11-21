@@ -259,9 +259,9 @@ def build(src, key):
     slug = lambda sec: re.sub(r'[།༎\s]', '', sec)
 
     lines = ['---', f"title: {c['zh']}", 'aside: false', 'sidebar: false', '---', '', f"# {c['zh']}", '',
-             f"<p class=\"dt-bo-title\">{c['bo']}</p>", '',
+             f"<p class=\"dt-bo-title notranslate\" translate=\"no\">{c['bo']}</p>", '',
              f"德格版《{c['zh']}》，即{c['about']}。下列各部，点进去可以看到每一函所收的经论，点经论名即可阅读藏文原文。阅读时选中一段藏文，可以请机器译成白话；目录上的藏文名称也一样可以选中翻译。", '',
-             '<div class="dt-secgrid">']
+             '<div class="dt-secgrid notranslate" translate="no">']
     for sec in sec_order:
         nvol = sum(1 for v in vols if v[1] == sec)
         nt = sum(1 for e in catalog if e['sec'] == sec)
@@ -275,12 +275,12 @@ def build(src, key):
     for sec in sec_order:
         zh = secname(sec)
         L = ['---', f"title: {zh or sec}", 'aside: false', 'sidebar: false', '---', '',
-             f'<p class="dt-crumb"><a href="/{c["zh"]}/">{c["zh"]}</a></p>', '', f"# {zh or sec}", '', f'<p class="dt-bo-title">{sec}</p>', '']
+             f'<p class="dt-crumb"><a href="/{c["zh"]}/">{c["zh"]}</a></p>', '', f"# {zh or sec}", '', f'<p class="dt-bo-title notranslate" translate="no">{sec}</p>', '']
         for no, s2, letter in vols:
             if s2 != sec:
                 continue
-            L.append(f'<h2 class="dt-vol"><span class="dt-bo">{letter or sec}</span><span class="dt-vol-no">第 {int(no)} 函</span></h2>')
-            L.append('<ol class="dt-texts">')
+            L.append(f'<h2 class="dt-vol notranslate" translate="no"><span class="dt-bo">{letter or sec}</span><span class="dt-vol-no">第 {int(no)} 函</span></h2>')
+            L.append('<ol class="dt-texts notranslate" translate="no">')
             for e in catalog:
                 for pi, (vno, start) in enumerate(e['parts'], 1):
                     if vno != no:

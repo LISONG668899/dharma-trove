@@ -109,7 +109,8 @@ onBeforeUnmount(() => window.removeEventListener('popstate', onPop))
 </script>
 
 <template>
-  <div class="dt-reader">
+  <!-- translate="no"：告诉浏览器和谷歌翻译这里的藏文不必翻译，少弹出谷歌翻译按钮 -->
+  <div class="dt-reader notranslate" translate="no">
     <p class="dt-crumb">
       <a :href="withBase(`/${name.zh}/`)">{{ name.zh }}</a>
       <template v-if="entry">

@@ -360,7 +360,7 @@ watch(passages, repaintSoon, { deep: true })
     <transition name="dt-fade">
       <section v-if="card" class="dt-trcard" role="dialog" :aria-label="T('机器翻译', '機器翻譯')">
         <button class="dt-trclose" type="button" :aria-label="T('关闭', '關閉')" @click="closeCard">×</button>
-        <p class="dt-trsrc dt-bo">{{ card.source }}</p>
+        <p class="dt-trsrc dt-bo notranslate" translate="no">{{ card.source }}</p>
         <p v-if="card.loading" class="dt-trwait">{{ T('正在翻译……（长句可能要几十秒，请稍候）', '正在翻譯……（長句可能要幾十秒，請稍候）') }}</p>
         <p v-else-if="card.error" class="dt-trerr">{{ card.error }}
           <button class="dt-tool dt-retry" type="button" @click="retryCard">{{ T('再试一次', '再試一次') }}</button>

@@ -6,11 +6,11 @@ sidebar: false
 
 # 甘珠尔
 
-<p class="dt-bo-title">སྡེ་དགེ་བཀའ་འགྱུར།</p>
+<p class="dt-bo-title notranslate" translate="no">སྡེ་དགེ་བཀའ་འགྱུར།</p>
 
 德格版《甘珠尔》，即佛陀所说经、律、密续的藏文译本汇编。下列各部，点进去可以看到每一函所收的经论，点经论名即可阅读藏文原文。阅读时选中一段藏文，可以请机器译成白话；目录上的藏文名称也一样可以选中翻译。
 
-<div class="dt-secgrid">
+<div class="dt-secgrid notranslate" translate="no">
 <a class="dt-secbtn" href="/甘珠尔/འདུལ་བ"><span class="dt-bo">འདུལ་བ།</span><span class="dt-sec-zh">律部</span><span class="dt-sec-n">13 函 · 8 部</span></a>
 <a class="dt-secbtn" href="/甘珠尔/འབུམ"><span class="dt-bo">འབུམ།</span><span class="dt-sec-zh">十万颂般若</span><span class="dt-sec-n">12 函 · 1 部</span></a>
 <a class="dt-secbtn" href="/甘珠尔/ཉི་ཁྲི"><span class="dt-bo">ཉི་ཁྲི།</span><span class="dt-sec-zh">二万五千颂般若</span><span class="dt-sec-n">3 函 · 1 部</span></a>

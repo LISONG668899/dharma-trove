@@ -6,11 +6,11 @@ sidebar: false
 
 # 丹珠尔
 
-<p class="dt-bo-title">སྡེ་དགེ་བསྟན་འགྱུར།</p>
+<p class="dt-bo-title notranslate" translate="no">སྡེ་དགེ་བསྟན་འགྱུར།</p>
 
 德格版《丹珠尔》，即印度历代论师所造论典与注疏的藏文译本汇编。下列各部，点进去可以看到每一函所收的经论，点经论名即可阅读藏文原文。阅读时选中一段藏文，可以请机器译成白话；目录上的藏文名称也一样可以选中翻译。
 
-<div class="dt-secgrid">
+<div class="dt-secgrid notranslate" translate="no">
 <a class="dt-secbtn" href="/丹珠尔/བསྟོད་ཚོགས"><span class="dt-bo">བསྟོད་ཚོགས།</span><span class="dt-sec-zh">赞颂部</span><span class="dt-sec-n">1 函 · 71 部</span></a>
 <a class="dt-secbtn" href="/丹珠尔/རྒྱུད་འགྲེལ"><span class="dt-bo">རྒྱུད་འགྲེལ།</span><span class="dt-sec-zh">续释部</span><span class="dt-sec-n">78 函 · 2626 部</span></a>
 <a class="dt-secbtn" href="/丹珠尔/ཤེར་ཕྱིན"><span class="dt-bo">ཤེར་ཕྱིན།</span><span class="dt-sec-zh">般若部</span><span class="dt-sec-n">16 函 · 38 部</span></a>

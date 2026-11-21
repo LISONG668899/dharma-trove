@@ -347,8 +347,8 @@ const buttonLabel = computed(() => T('搜索', '搜尋'))
                   @click.prevent="go(it.url)"
                   @mouseenter="selected = i"
                 >
-                  <div class="pf-title" :class="{ 'cs-bo': canonMode }">{{ it.title }}</div>
-                  <div class="pf-excerpt" :class="{ 'cs-bo': canonMode }" v-html="it.excerpt" />
+                  <div class="pf-title" :class="{ 'cs-bo notranslate': canonMode }" :translate="canonMode ? 'no' : undefined">{{ it.title }}</div>
+                  <div class="pf-excerpt" :class="{ 'cs-bo notranslate': canonMode }" :translate="canonMode ? 'no' : undefined" v-html="it.excerpt" />
                 </a>
               </li>
             </ul>
