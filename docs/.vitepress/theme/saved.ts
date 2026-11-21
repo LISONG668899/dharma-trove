@@ -36,7 +36,7 @@ function persist() {
 
 export function normPath(p: string) {
   try { p = decodeURIComponent(p) } catch {}
-  return p.replace(/\.html$/, '').replace(/[#?].*$/, '')
+  return p.replace(/#.*$/, '').replace(/\.html(?=$|\?)/, '')
 }
 
 /** 把文字压成一行、去掉多余空白，用来比对与查找 */

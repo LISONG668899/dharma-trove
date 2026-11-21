@@ -395,3 +395,102 @@ html.dark .dt-trcard { background: #142c43; border-color: rgba(168, 211, 237, 0.
 .vp-doc { font-family: "Noto Serif Tibetan Web", var(--vp-font-family-base); }
 /* 翻译卡片打开时，提示条移到屏幕上方，免得挡住卡片 */
 .dt-trcard ~ .dt-toast { bottom: auto; top: calc(80px + env(safe-area-inset-top)); }
+
+/* ============================================================
+   藏文原典：二级目录（各部）、三级目录（各函所收经论）、阅读页
+   全部由 scripts/canon_build.py 自动生成，这里只管排版
+   ============================================================ */
+.dt-crumb { margin: 0 0 4px; font-size: 14px; color: var(--vp-c-text-3); }
+.vp-doc .dt-crumb a { color: var(--dt-gold); text-decoration: none; }
+
+/* 二级目录：各部按钮，藏文在上、中文在下、函数与部数小字 */
+.dt-secgrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+  margin-top: 24px;
+}
+.vp-doc a.dt-secbtn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 108px;
+  padding: 10px 12px 12px;
+  border: 1px solid var(--dt-gold-line);
+  border-radius: 12px;
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-1);
+  text-decoration: none;
+  transition: border-color 0.25s, background-color 0.25s;
+}
+.vp-doc a.dt-secbtn:hover { border-color: var(--dt-gold); background: var(--dt-gold-soft); }
+.dt-secbtn .dt-bo { font-size: 22px; line-height: 1.9; color: var(--dt-gold); }
+.dt-sec-zh { font-size: 15px; font-weight: 600; }
+.dt-sec-n { margin-top: 2px; font-size: 12px; color: var(--vp-c-text-3); }
+html.dark .vp-doc a.dt-secbtn { background: #203d57; border-color: rgba(168, 211, 237, 0.16); }
+html.dark .vp-doc a.dt-secbtn:hover { background: #2c526f; border-color: #a8d3ed; }
+html.dark .dt-secbtn .dt-bo { color: #a8d3ed; }
+@media (max-width: 639px) {
+  .dt-secgrid { grid-template-columns: 1fr 1fr; gap: 8px; }
+  .vp-doc a.dt-secbtn { min-height: 96px; }
+  .dt-secbtn .dt-bo { font-size: 19px; }
+}
+
+/* 三级目录：每函一个小标题，下面列经论 */
+.vp-doc h2.dt-vol {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin: 32px 0 8px;
+  padding-top: 16px;
+  border-top: 1px solid var(--dt-gold-line);
+}
+.dt-vol .dt-bo { font-size: 26px; line-height: 1.6; color: var(--dt-gold); }
+.dt-vol-no { font-size: 14px; font-weight: 400; color: var(--vp-c-text-3); }
+.vp-doc ol.dt-texts { margin: 0; padding-left: 1.6em; }
+.vp-doc ol.dt-texts li { margin: 6px 0; line-height: 1.9; }
+.vp-doc ol.dt-texts a { color: var(--vp-c-text-1); text-decoration: none; }
+.vp-doc ol.dt-texts a:hover { color: var(--dt-gold); }
+.dt-texts .dt-bo { font-size: 18px; }
+.dt-toh, .dt-folio-ref { margin-left: 10px; font-size: 12px; color: var(--vp-c-text-3); white-space: nowrap; }
+
+/* 阅读页 */
+.dt-reader-title { margin: 8px 0 4px !important; padding: 0 !important; border: 0 !important; font-size: 28px !important; line-height: 1.8 !important; font-weight: 500 !important; }
+.dt-reader-meta { display: flex; flex-wrap: wrap; gap: 16px; align-items: center; margin-bottom: 20px; font-size: 14px; color: var(--vp-c-text-3); }
+.dt-reader-pick select {
+  margin: 0 4px;
+  padding: 2px 6px;
+  border: 1px solid var(--dt-gold-line);
+  border-radius: 6px;
+  background: var(--vp-c-bg);
+  color: var(--vp-c-text-1);
+  font-size: 14px;
+}
+.dt-reader-body.dim { opacity: 0.4; }
+.vp-doc p.dt-bo-p {
+  margin: 0 0 14px;
+  font-size: 20px;
+  line-height: 2.25;
+  text-align: justify;
+  overflow-wrap: anywhere;
+}
+.dt-bo-p::before {
+  content: attr(data-f);
+  display: inline-block;
+  margin-right: 10px;
+  padding: 0 6px;
+  border-radius: 4px;
+  background: var(--dt-gold-soft);
+  font-size: 12px;
+  line-height: 1.6;
+  vertical-align: 3px;
+  color: var(--dt-gold);
+  font-family: "Noto Serif Tibetan Web", var(--vp-font-family-base);
+}
+.dt-reader-nav { display: flex; justify-content: space-between; align-items: center; margin: 28px 0 8px; font-size: 14px; color: var(--vp-c-text-3); }
+.dt-reader-err, .dt-reader-wait { margin-top: 32px; color: var(--vp-c-text-2); }
+@media (max-width: 639px) {
+  .vp-doc p.dt-bo-p { font-size: 18px; line-height: 2.15; }
+  .dt-reader-title { font-size: 23px !important; }
+}

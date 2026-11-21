@@ -17,9 +17,20 @@ const { page, frontmatter } = useData()
 const CATS = ['唯识', '中观', '华严', '禅宗', '净土', '大手印', '大圆满', '综合', '甘珠尔', '丹珠尔']
 const rel = computed(() => page.value.relativePath || '')
 const cat = computed(() => rel.value.split('/')[0])
-const isArticle = computed(() => CATS.includes(cat.value) && !rel.value.endsWith('index.md'))
-const path = computed(() => normPath(route.path))
-const title = computed(() => frontmatter.value.title || page.value.title || '')
+const CANON = ['甘珠尔', '丹珠尔']
+// 藏文原典连目录页也可以划线、翻译
+const isArticle = computed(() => (CATS.includes(cat.value) && !rel.value.endsWith('index.md')) || CANON.includes(cat.value))
+// 阅读页（/甘珠尔/read?t=..&p=..）由 CanonReader 告诉我们当前是哪部经、哪一段
+const reader = ref<{ path: string; title: string; cat: string; src: string } | null>(null)
+const path = computed(() => reader.value?.path || normPath(route.path))
+const title = computed(() => reader.value?.title || frontmatter.value.title || page.value.title || '')
+function onReader(e: Event) {
+  reader.value = (e as CustomEvent).detail
+  btn.value = null
+  card.value = null
+  repaintSoon()
+  setTimeout(jumpIfAsked, 150)
+}
 
 const btn = ref<{ top: number; left: number; existing: string | null; bo: boolean } | null>(null)
 const toast = ref('')
@@ -69,7 +80,7 @@ function onClick() {
 
 /* ---------- 藏文选段机器翻译 ---------- */
 const SHAD = /[\u0F0D-\u0F12\u0F14]/
-const BLOCK = 'p, h1, h2, h3, h4, li, blockquote, td'
+const BLOCK = '.dt-bo, p, h1, h2, h3, h4, li, blockquote, td'
 function blockOf(node: Node, root: Element) {
   const el = (node.nodeType === 1 ? node : node.parentElement) as Element | null
   const b = el?.closest(BLOCK)
@@ -143,7 +154,7 @@ async function translate() {
     const r = await fetch('/api/translate-text', {
       method: 'POST',
       headers: { 'content-type': 'application/json' },
-      body: JSON.stringify({ path: route.path, text, lang: isTrad.value ? 'zht' : 'zh' })
+      body: JSON.stringify({ path: route.path, src: reader.value?.src || '', text, lang: isTrad.value ? 'zht' : 'zh' })
     })
     const d = await r.json().catch(() => ({}))
     if (!card.value || card.value.source !== text) return
@@ -264,8 +275,9 @@ const repaintSoon = () => nextTick(() => setTimeout(paint, 120))
 function jumpIfAsked() {
   const m = location.hash.match(/^#dt-p=([\w]+)/)
   if (!m) return
+  if (rel.value.endsWith('read.md') && !reader.value) return   // 原典阅读页：等正文载入后再跳
   const p = passages.value.find((x) => x.id === m[1])
-  history.replaceState(null, '', location.pathname)
+  history.replaceState(null, '', location.pathname + location.search)
   if (!p) return
   setTimeout(() => {
     const r = rangesFor([p]).get(p.id)
@@ -278,15 +290,18 @@ function jumpIfAsked() {
 onMounted(() => {
   watchScript()
   loadPassages()
+  window.addEventListener('dt-reader', onReader)
   document.addEventListener('selectionchange', later)
   document.addEventListener('pointerup', later)
   repaintSoon()
   jumpIfAsked()
 })
 onBeforeUnmount(() => {
+  window.removeEventListener('dt-reader', onReader)
   document.removeEventListener('selectionchange', later)
   document.removeEventListener('pointerup', later)
 })
+watch(() => route.path, () => { reader.value = null })
 watch(path, () => { btn.value = null; card.value = null; repaintSoon(); setTimeout(jumpIfAsked, 200) })
 watch(isTrad, () => setTimeout(paint, 300))   // 简繁切换后文字变了，重新找一次
 watch(passages, repaintSoon, { deep: true })

@@ -89,11 +89,20 @@ export async function onRequestPost({ request, env }) {
     return json({ ok: false, error: 'bad-request' }, 400)
   }
 
-  // 核对：所选文字必须出自这一页
-  const pageRes = await env.ASSETS.fetch(new Request(new URL(p, request.url).toString()))
+  // 核对：所选文字必须出自这一页。
+  // 藏文原典的阅读页正文不在网页里，而在 /canon/…/经号/分段.json，这时按 src 核对那个文件。
+  const src = String(body?.src || '')
+  const useSrc = /^\/canon\/(kangyur|tengyur)\/[\w-]+\/\d+\.json$/.test(src)
+  const pageRes = await env.ASSETS.fetch(new Request(new URL(useSrc ? src : p, request.url).toString()))
   if (!pageRes.ok) return json({ ok: false, error: 'not-found' }, 404)
-  const html = await pageRes.text()
-  if (!squash(decode(html)).includes(squash(text))) return json({ ok: false, error: 'not-on-page' }, 403)
+  const raw = await pageRes.text()
+  let pageText = ''
+  if (useSrc) {
+    try { pageText = JSON.parse(raw).paras.map((x) => x[1]).join('') } catch { pageText = '' }
+  } else {
+    pageText = decode(raw)
+  }
+  if (!squash(pageText).includes(squash(text))) return json({ ok: false, error: 'not-on-page' }, 403)
 
   // 译过的直接返回
   const key = `sel:${lang}:${await sha(text)}`
