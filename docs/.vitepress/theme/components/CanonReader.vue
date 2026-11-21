@@ -47,9 +47,10 @@ async function load(push = false, t?: string, p?: number) {
     part.value = p
     paras.value = d.paras
     const url = `${location.pathname}?t=${encodeURIComponent(t)}&p=${p}`
-    if (push) history.pushState(null, '', url)
+    if (push) history.pushState(null, '', url)   // 翻到别的分段时不再带搜索词
     document.title = `${e.title} · ${name.value.zh}`
     await nextTick()
+    setTimeout(markQuery, 60)
     window.dispatchEvent(new CustomEvent('dt-reader', {
       detail: {
         path: decodeURIComponent(location.pathname).replace(/\.html$/, '') + `?t=${t}&p=${p}`,
@@ -62,6 +63,38 @@ async function load(push = false, t?: string, p?: number) {
     error.value = '找不到这一部经论，请从目录重新进入'
   } finally {
     loading.value = false
+  }
+}
+
+/** 从搜索结果进来（地址带 &q=…）：把查询的字在正文里标出来，并滚到第一处 */
+function markQuery() {
+  const H = (window as any).Highlight, reg = (CSS as any).highlights
+  const q = new URLSearchParams(location.search).get('q') || ''
+  if (reg) reg.delete('dt-find')
+  if (!q) return
+  const body = document.querySelector('.dt-reader-body')
+  if (!body) return
+  const ranges: Range[] = []
+  for (const p of body.querySelectorAll('p')) {
+    const t = p.firstChild as Text | null
+    if (!t || t.nodeType !== 3) continue
+    const map: number[] = []
+    let flat = ''
+    for (let i = 0; i < t.data.length; i++) if (!/\s/.test(t.data[i])) { flat += t.data[i]; map.push(i) }
+    let at = flat.indexOf(q)
+    while (at >= 0) {
+      const r = document.createRange()
+      r.setStart(t, map[at]); r.setEnd(t, map[at + q.length - 1] + 1)
+      ranges.push(r)
+      at = flat.indexOf(q, at + q.length)
+    }
+  }
+  if (H && reg && ranges.length) reg.set('dt-find', new H(...ranges))
+  if (ranges.length) {
+    const el = ranges[0].startContainer.parentElement
+    const top = ranges[0].getBoundingClientRect().top + window.scrollY - window.innerHeight / 3
+    window.scrollTo({ top: Math.max(0, top), behavior: 'smooth' })
+    void el
   }
 }
 

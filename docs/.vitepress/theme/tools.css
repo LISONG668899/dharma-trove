@@ -494,3 +494,13 @@ html.dark .dt-secbtn .dt-bo { color: #a8d3ed; }
   .vp-doc p.dt-bo-p { font-size: 18px; line-height: 2.15; }
   .dt-reader-title { font-size: 23px !important; }
 }
+
+/* 从藏文搜索结果进入阅读页：查询的字标成金色底 */
+::highlight(dt-find) { background-color: rgba(212, 160, 23, 0.45); color: inherit; }
+
+/* 首页类目里的《甘珠尔》《丹珠尔》两个卡片：藏文在上、中文在下；最后一行居中 */
+.VPFeatures .items { justify-content: center; }
+.VPFeature .title .dt-bo { display: block; font-size: 22px; line-height: 1.8; font-weight: 400; color: var(--dt-gold); }
+.VPFeature .title .dt-feat-zh { display: block; }
+html.dark .VPFeature .title .dt-bo { color: #a8d3ed; }
+@media (max-width: 639px) { .VPFeature .title .dt-bo { font-size: 19px; } }

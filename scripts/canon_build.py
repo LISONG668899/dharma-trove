@@ -40,13 +40,17 @@ SEC_ZH = {
     'སེམས་ཙམ།': '唯识部', 'མངོན་པ།': '对法部', 'སྐྱེས་རབས།': '本生部', 'སྤྲིང་ཡིག': '书翰部', 'ཚད་མ།': '量论部',
     'སྒྲ་མདོ།': '声明部', 'གསོ་རིག': '医方明部', 'བཟོ་རིག': '工巧明部', 'ཐུན་མོང་བ།': '共通部',
     'ཇོ་བོའི་ཆོས་ཆུང་།': '阿底峡小法集', 'སྣ་ཚོགས།': '杂部', 'ཕྲན་ཚེགས།': '杂部',
+    'རྒྱུད་འགྲེལ།': '续释部', 'འཁྲི་ཤིང།': '如意藤',
 }
-TARGET = 20000          # 每段大约多少个字符
+# 同名的部在丹珠尔里意思不同
+SEC_ZH_COLL = {'tengyur': {'མདོ་སྡེ།': '经释部', 'མངོན་པ།': '对法部', 'འདུལ་བ།': '律释部', 'དཀར་ཆག': '目录'}}
+TARGET = 40000          # 每段大约多少个字符（Cloudflare 每个网站最多两万个文件，段不能太碎）
 SHAD_END = re.compile(r'[།༎༑༔]\s*$')
 
 
 def clean(s):
     s = re.sub(r'\(([^(),]*),([^(),]*)\)', r'\2', s)   # (原字,改字) → 改字
+    s = re.sub(r'\{(?![TD]\d)([^}]*)\}', r'\1', s)       # 经号以外的花括号：只留文字
     return s
 
 
@@ -85,8 +89,67 @@ def find_title(body):
     return first_clause(flat)
 
 
+SYL_SPLIT = re.compile(r'[\u0F0B\u0F0C\u0F0D-\u0F14\u0F01-\u0F0A\u0F34\u0F3A-\u0F3D\s]+')
+NSHARD = 256
+
+
+def syllables(text):
+    return [x for x in SYL_SPLIT.split(text) if x and re.search(r'[\u0F40-\u0FBC]', x)]
+
+
+def shard_of(syl):
+    """FNV-1a（按 UTF-16 编码单位），网页里的搜索程序用同一个算法"""
+    h = 0x811c9dc5
+    for ch in syl:
+        for u in ([ord(ch)] if ord(ch) < 0x10000 else [0xD800 + ((ord(ch) - 0x10000) >> 10), 0xDC00 + ((ord(ch) - 0x10000) & 0x3FF)]):
+            h ^= u
+            h = (h * 0x01000193) & 0xFFFFFFFF
+    return h % NSHARD
+
+
+def b36(n):
+    d = '0123456789abcdefghijklmnopqrstuvwxyz'
+    s = ''
+    while True:
+        n, r = divmod(n, 36)
+        s = d[r] + s
+        if n == 0:
+            return s
+
+
+def build_index(data_dir, catalog):
+    parts = []
+    post = {}
+    for e in catalog:
+        for i in range(1, len(e['parts']) + 1):
+            pid = len(parts)
+            parts.append([e['t'], i])
+            d = json.load(open(os.path.join(data_dir, e['t'], f'{i}.json'), encoding='utf-8'))
+            seen = set()
+            for _, txt in d['paras']:
+                seen.update(syllables(txt))
+            for syl in seen:
+                post.setdefault(syl, []).append(pid)
+    sdir = os.path.join(data_dir, 'search')
+    os.makedirs(sdir, exist_ok=True)
+    with open(os.path.join(sdir, 'parts.json'), 'w', encoding='utf-8') as fh:
+        json.dump(parts, fh, separators=(',', ':'))
+    shards = [dict() for _ in range(NSHARD)]
+    for syl, ids in post.items():
+        prev, out = 0, []
+        for x in ids:
+            out.append(b36(x - prev))
+            prev = x
+        shards[shard_of(syl)][syl] = ','.join(out)
+    for i, sh in enumerate(shards):
+        with open(os.path.join(sdir, f'{i}.json'), 'w', encoding='utf-8') as fh:
+            json.dump(sh, fh, ensure_ascii=False, separators=(',', ':'))
+    print(f'  检索索引：{len(post)} 个音节，{len(parts)} 个分段')
+
+
 def build(src, key):
     c = COLL[key]
+    secname = lambda sec: SEC_ZH_COLL.get(key, {}).get(sec) or SEC_ZH.get(sec, '')
     repo = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     page_dir = os.path.join(repo, 'docs', c['zh'])
     data_dir = os.path.join(repo, 'docs', 'public', 'canon', key)
@@ -107,17 +170,17 @@ def build(src, key):
         letter = parts[2] if len(parts) > 2 else ''
         vols.append((no, sec, letter))
         # 整函没有经号：一般是上一部经的续函；只有目录卷（或开头第一函）自成一部
-        if '{T' not in open(f, encoding='utf-8-sig').read() and (cur is None or sec == 'དཀར་ཆག'):
+        if not re.search(r'\{[TD]\d', open(f, encoding='utf-8-sig').read()) and (cur is None or sec == 'དཀར་ཆག'):
             cur = 'x' + no
             texts[cur] = {'id': cur, 'toh': '', 'sec': sec, 'paras': []}
             order.append(cur)
         side_buf = {}                          # 同一叶面的行合成一段
         for side, line in read_volume(f):
-            pieces = re.split(r'(\{T[^}]*\})', line)
+            pieces = re.split(r'(\{[TD]\d[^}]*\})', line)
             for pc in pieces:
                 if not pc:
                     continue
-                m = re.fullmatch(r'\{T([^}-]+)(-[^}]*)?\}', pc)
+                m = re.fullmatch(r'\{[TD](\d[^}-]*)(-[^}]*)?\}', pc)
                 if m:
                     if not m.group(2):         # {T12} 新的一部经
                         cur = m.group(1)
@@ -167,6 +230,11 @@ def build(src, key):
     with open(os.path.join(data_dir, 'catalog.json'), 'w', encoding='utf-8') as fh:
         json.dump(catalog, fh, ensure_ascii=False, separators=(',', ':'))
 
+    # ---------- 藏文全文检索索引 ----------
+    # 按音节（以“་”“།”等分开）建倒排索引：音节 → 出现过它的正文分段编号。
+    # 分成 256 个小文件，搜索时只下载查询里那几个音节所在的小文件，再到候选分段里逐字核对。
+    build_index(data_dir, catalog)
+
     # ---------- 页面 ----------
     sec_order = []
     for no, sec, letter in vols:
@@ -181,7 +249,7 @@ def build(src, key):
     for sec in sec_order:
         nvol = sum(1 for v in vols if v[1] == sec)
         nt = sum(1 for e in catalog if e['sec'] == sec)
-        zh = SEC_ZH.get(sec, '')
+        zh = secname(sec)
         lines.append(f'<a class="dt-secbtn" href="/{c["zh"]}/{slug(sec)}"><span class="dt-bo">{sec}</span>'
                      + (f'<span class="dt-sec-zh">{zh}</span>' if zh else '')
                      + f'<span class="dt-sec-n">{nvol} 函 · {nt} 部</span></a>')
@@ -189,7 +257,7 @@ def build(src, key):
     open(os.path.join(page_dir, 'index.md'), 'w', encoding='utf-8').write('\n'.join(lines) + '\n')
 
     for sec in sec_order:
-        zh = SEC_ZH.get(sec, '')
+        zh = secname(sec)
         L = ['---', f"title: {zh or sec}", 'aside: false', 'sidebar: false', '---', '',
              f'<p class="dt-crumb"><a href="/{c["zh"]}/">{c["zh"]}</a></p>', '', f"# {zh or sec}", '', f'<p class="dt-bo-title">{sec}</p>', '']
         for no, s2, letter in vols:

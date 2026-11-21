@@ -21,4 +21,8 @@ features:
     link: /大手印/
   - title: 大圆满
     link: /大圆满/
+  - title: <span class="dt-bo">བཀའ་འགྱུར།</span><span class="dt-feat-zh">甘珠尔</span>
+    link: /甘珠尔/
+  - title: <span class="dt-bo">བསྟན་འགྱུར།</span><span class="dt-feat-zh">丹珠尔</span>
+    link: /丹珠尔/
 ---

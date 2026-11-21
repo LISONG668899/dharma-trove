@@ -6,6 +6,7 @@
 // - 跟随网站顶部“简/繁”按钮：繁体模式下界面与结果显示繁体，输入繁体也能搜到
 import { computed, nextTick, onBeforeUnmount, onMounted, ref, shallowRef } from 'vue'
 import { useRouter, withBase } from 'vitepress'
+import { canonSearch, hasTibetan, type CanonSearch } from '../canonSearch'
 
 const emit = defineEmits<{ (e: 'close'): void }>()
 const router = useRouter()
@@ -23,6 +24,11 @@ const items = ref<{ url: string; title: string; excerpt: string }[]>([])
 const selected = ref(-1)
 
 let allResults: any[] = []
+// 藏文查询：搜德格版《甘珠尔》《丹珠尔》原典（见 canonSearch.ts）
+const canonMode = ref(false)
+const canonDone = ref(true)
+const canonTitles = ref(0)
+let canon: CanonSearch | null = null
 let shown = 0
 let seq = 0
 
@@ -117,7 +123,28 @@ async function doSearch() {
   items.value = []
   total.value = 0
   selected.value = -1
+  canonMode.value = hasTibetan(raw)
   try {
+    if (canonMode.value) {
+      canon = await canonSearch(raw)
+      if (my !== seq) return
+      canonTitles.value = canon.titleHits.length
+      items.value = canon.titleHits.slice()
+      total.value = items.value.length   // 经名相符的先显示，正文还在后台继续找
+      canonDone.value = false
+      // 正文结果边找边显示：每找到几处就先列出来，满一页或找完为止
+      let got = 0
+      while (got < PAGE_SIZE && !canon.done()) {
+        const next = await canon.more(4)
+        if (my !== seq) return
+        got += next.length
+        items.value = items.value.concat(next)
+        total.value = items.value.length
+        if (selected.value < 0 && items.value.length) selected.value = 0
+      }
+      canonDone.value = canon.done()
+      return
+    }
     let q = raw
     if (isTrad.value) {
       await loadOpenCC()
@@ -139,6 +166,25 @@ async function doSearch() {
       await nextTick()
       convertToTrad()
     }
+  }
+}
+
+async function canonMore() {
+  if (!canon) return
+  const my = seq
+  loading.value = true
+  try {
+    let got = 0
+    while (got < PAGE_SIZE && !canon.done()) {
+      const next = await canon.more(4)
+      if (my !== seq) return
+      got += next.length
+      items.value = items.value.concat(next)
+      total.value = items.value.length
+    }
+    canonDone.value = canon.done()
+  } finally {
+    if (my === seq) loading.value = false
   }
 }
 
@@ -261,6 +307,7 @@ const buttonLabel = computed(() => T('搜索', '搜尋'))
             autocapitalize="off"
             spellcheck="false"
             maxlength="64"
+            :placeholder="T('中文或藏文关键词', '中文或藏文關鍵詞')"
             @input="onInput"
           />
           <button class="pf-submit" type="submit">{{ buttonLabel }}</button>
@@ -276,15 +323,21 @@ const buttonLabel = computed(() => T('搜索', '搜尋'))
         </form>
 
         <div v-if="searched" class="pf-results">
-          <div v-if="loading" class="pf-msg">{{ T('正在搜索……', '正在搜尋……') }}</div>
+          <div v-if="loading && !items.length" class="pf-msg">{{ canonMode ? T('正在藏文原典里搜索……', '正在藏文原典裡搜尋……') : T('正在搜索……', '正在搜尋……') }}</div>
           <div v-else-if="failed" class="pf-msg">
             {{ T('搜索暂时不可用，请稍后再试', '搜尋暫時不可用，請稍後再試') }}
+          </div>
+          <div v-else-if="!total && canonMode" class="pf-msg">
+            {{ T('德格版《甘珠尔》《丹珠尔》里没有找到', '德格版《甘珠爾》《丹珠爾》裡沒有找到') }}“<strong class="cs-bo">{{ query.trim() }}</strong>”
           </div>
           <div v-else-if="!total" class="pf-msg">
             {{ T('没有找到包含', '沒有找到包含') }}“<strong>{{ query.trim() }}</strong>”{{ T('的文章', '的文章') }}
           </div>
           <template v-else>
-            <div class="pf-count">{{ T('共找到', '共找到') }} {{ total }} {{ T('篇', '篇') }}</div>
+            <div v-if="canonMode" class="pf-count">
+              {{ T('德格版藏文原典', '德格版藏文原典') }}：{{ T('经名相符', '經名相符') }} {{ canonTitles }} {{ T('部', '部') }}，{{ T('正文已找到', '正文已找到') }} {{ total - canonTitles }} {{ T('处', '處') }}{{ canonDone ? '' : T('（还可以继续找）', '（還可以繼續找）') }}
+            </div>
+            <div v-else class="pf-count">{{ T('共找到', '共找到') }} {{ total }} {{ T('篇', '篇') }}</div>
             <ul class="pf-list">
               <li v-for="(it, i) in items" :key="it.url">
                 <a
@@ -294,12 +347,16 @@ const buttonLabel = computed(() => T('搜索', '搜尋'))
                   @click.prevent="go(it.url)"
                   @mouseenter="selected = i"
                 >
-                  <div class="pf-title">{{ it.title }}</div>
-                  <div class="pf-excerpt" v-html="it.excerpt" />
+                  <div class="pf-title" :class="{ 'cs-bo': canonMode }">{{ it.title }}</div>
+                  <div class="pf-excerpt" :class="{ 'cs-bo': canonMode }" v-html="it.excerpt" />
                 </a>
               </li>
             </ul>
-            <button v-if="items.length < total" type="button" class="pf-more" @click="more">
+            <div v-if="canonMode && loading" class="pf-msg">{{ T('正在正文里继续搜索……', '正在正文裡繼續搜尋……') }}</div>
+            <button v-else-if="canonMode && !canonDone" type="button" class="pf-more" @click="canonMore">
+              {{ T('继续找更多', '繼續找更多') }}
+            </button>
+            <button v-else-if="!canonMode && items.length < total" type="button" class="pf-more" @click="more">
               {{ T('显示更多', '顯示更多') }}（{{ items.length }} / {{ total }}）
             </button>
           </template>
@@ -382,6 +439,7 @@ const buttonLabel = computed(() => T('搜索', '搜尋'))
   }
 }
 .pf-input {
+  font-family: "Noto Serif Tibetan Web", var(--vp-font-family-base);
   flex: 1;
   min-width: 0;
   padding: 6px 8px;
@@ -477,6 +535,10 @@ const buttonLabel = computed(() => T('搜索', '搜尋'))
   color: var(--pf-gold);
   font-size: 14px;
 }
+.cs-bo { font-family: "Noto Serif Tibetan Web", var(--vp-font-family-base); }
+.pf-title.cs-bo { font-size: 19px; font-weight: 500; line-height: 1.8; }
+.pf-excerpt.cs-bo { font-size: 17px; line-height: 2; word-break: normal; overflow-wrap: anywhere; }
+.pf-excerpt :deep(.cs-where) { display: block; font-family: var(--vp-font-family-base); font-size: 12px; color: var(--vp-c-text-3); }
 .pf-more:hover {
   background: var(--pf-mark-bg);
 }

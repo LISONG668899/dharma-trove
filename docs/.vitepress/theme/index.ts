@@ -5,7 +5,6 @@ import ConvertToggle from './components/ConvertToggle.vue'
 import SelectSave from './components/SelectSave.vue'
 import SavedList from './components/SavedList.vue'
 import SavedNavButton from './components/SavedNavButton.vue'
-import CanonButtons from './components/CanonButtons.vue'
 import CanonReader from './components/CanonReader.vue'
 import './custom.css'
 import './tools.css'
@@ -19,9 +18,7 @@ export default {
     // 页脚 Logo 用 custom.css 里的 ::before 方案，不需要在这里注入
     return h(DefaultTheme.Layout, null, {
       'nav-bar-content-after': () => [h(SavedNavButton), h(ConvertToggle)],
-      'layout-bottom': () => h(SelectSave),
-      // home-features-after：首页类目卡片下方，德格版《甘珠尔》《丹珠尔》两个按钮
-      'home-features-after': () => h(CanonButtons)
+      'layout-bottom': () => h(SelectSave)
     })
   },
   setup() {
