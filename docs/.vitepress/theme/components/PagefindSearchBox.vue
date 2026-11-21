@@ -536,8 +536,8 @@ const buttonLabel = computed(() => T('搜索', '搜尋'))
   font-size: 14px;
 }
 .cs-bo { font-family: "Noto Serif Tibetan Web", var(--vp-font-family-base); }
-.pf-title.cs-bo { font-size: 19px; font-weight: 500; line-height: 1.8; }
-.pf-excerpt.cs-bo { font-size: 17px; line-height: 2; word-break: normal; overflow-wrap: anywhere; }
+.pf-title.cs-bo { font-size: 17px; text-wrap: pretty; font-weight: 500; line-height: 1.8; }
+.pf-excerpt.cs-bo { font-size: 15.5px; line-height: 2; word-break: normal; overflow-wrap: anywhere; }
 .pf-excerpt :deep(.cs-where) { display: block; font-family: var(--vp-font-family-base); font-size: 12px; color: var(--vp-c-text-3); }
 .pf-more:hover {
   background: var(--pf-mark-bg);
