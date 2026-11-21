@@ -130,7 +130,10 @@ const card = ref<{ source: string; text: string; loading: boolean; error: string
 const copied = ref(false)
 const ERR: Record<string, [string, string]> = {
   'too-long': ['选得太长了，请少选一些（1500 字符以内）', '選得太長了，請少選一些（1500 字元以內）'],
-  'upstream': ['翻译服务暂时没有响应，请稍后再试', '翻譯服務暫時沒有回應，請稍後再試'],
+  'upstream': ['翻译服务（MITRA）这会儿忙或没有回应，请稍后再试', '翻譯服務（MITRA）這會兒忙或沒有回應，請稍後再試'],
+  'not-on-page': ['所选文字和原文核对不上，请重新选取后再试', '所選文字和原文核對不上，請重新選取後再試'],
+  'not-found': ['找不到这一页的原文，请刷新页面后再试', '找不到這一頁的原文，請重新整理頁面後再試'],
+  'network': ['网络连接中断了，请检查网络后再试', '網路連線中斷了，請檢查網路後再試'],
   'default': ['翻译失败，请稍后再试', '翻譯失敗，請稍後再試']
 }
 
@@ -150,21 +153,42 @@ async function translate() {
   if (!text) return
   card.value = { source: text, text: '', loading: true, error: '', occ: occurrenceOf(text, range) }
   copied.value = false
+  await runTranslate(text)
+}
+
+// 请求一次；网络中断或翻译服务没回应时，自动再试一次
+async function askOnce(text: string): Promise<{ ok?: boolean; text?: string; error?: string }> {
   try {
     const r = await fetch('/api/translate-text', {
       method: 'POST',
       headers: { 'content-type': 'application/json' },
       body: JSON.stringify({ path: route.path, src: reader.value?.src || '', text, lang: isTrad.value ? 'zht' : 'zh' })
     })
-    const d = await r.json().catch(() => ({}))
-    if (!card.value || card.value.source !== text) return
-    if (d.ok) card.value.text = d.text
-    else card.value.error = T(...(ERR[d.error] || ERR.default))
+    const d = await r.json().catch(() => null)
+    if (d) return d
+    return { ok: false, error: r.status >= 500 ? 'upstream' : 'default' }
   } catch {
-    if (card.value) card.value.error = T(...ERR.default)
-  } finally {
-    if (card.value) card.value.loading = false
+    return { ok: false, error: 'network' }
   }
+}
+
+async function runTranslate(text: string) {
+  if (!card.value || card.value.source !== text) return
+  card.value.loading = true
+  card.value.error = ''
+  let d = await askOnce(text)
+  if (!d.ok && (d.error === 'network' || d.error === 'upstream') && card.value?.source === text) {
+    await new Promise((res) => setTimeout(res, 2000))
+    d = await askOnce(text)
+  }
+  if (!card.value || card.value.source !== text) return
+  if (d.ok && d.text) card.value.text = d.text
+  else card.value.error = T(...(ERR[d.error || 'default'] || ERR.default))
+  card.value.loading = false
+}
+
+function retryCard() {
+  if (card.value) runTranslate(card.value.source)
 }
 
 const cardSaved = computed(() => {
@@ -330,8 +354,10 @@ watch(passages, repaintSoon, { deep: true })
       <section v-if="card" class="dt-trcard" role="dialog" :aria-label="T('机器翻译', '機器翻譯')">
         <button class="dt-trclose" type="button" :aria-label="T('关闭', '關閉')" @click="closeCard">×</button>
         <p class="dt-trsrc dt-bo">{{ card.source }}</p>
-        <p v-if="card.loading" class="dt-trwait">{{ T('正在翻译……（长句可能要十几秒）', '正在翻譯……（長句可能要十幾秒）') }}</p>
-        <p v-else-if="card.error" class="dt-trerr">{{ card.error }}</p>
+        <p v-if="card.loading" class="dt-trwait">{{ T('正在翻译……（长句可能要几十秒，请稍候）', '正在翻譯……（長句可能要幾十秒，請稍候）') }}</p>
+        <p v-else-if="card.error" class="dt-trerr">{{ card.error }}
+          <button class="dt-tool dt-retry" type="button" @click="retryCard">{{ T('再试一次', '再試一次') }}</button>
+        </p>
         <template v-else>
           <p class="dt-trout">{{ card.text }}</p>
           <div class="dt-trops">

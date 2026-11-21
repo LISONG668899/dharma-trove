@@ -505,3 +505,6 @@ html.dark .dt-secbtn .dt-bo { color: #a8d3ed; }
 .VPFeature .title .dt-feat-zh { display: block; }
 html.dark .VPFeature .title .dt-bo { color: #a8d3ed; }
 @media (max-width: 639px) { .VPFeature .title .dt-bo { font-size: 19px; } }
+
+/* 翻译失败时的“再试一次” */
+.dt-retry { margin-left: 10px; padding: 2px 10px; font-size: 13px; vertical-align: 1px; }
