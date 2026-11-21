@@ -1,0 +1,112 @@
+import { defineConfig } from 'vitepress'
+import { fileURLToPath, URL } from 'node:url'
+
+export default defineConfig({
+  title: '藏汉佛教精华',
+  description: 'DharmaTrove — 藏汉佛教典籍精华',
+  lang: 'zh-CN',
+
+  // <head> 标签注入：浏览器标签图标、手机主屏图标、社交分享卡片
+  // 静态图片文件放在 docs/public/ 下，构建时会被原样拷到网站根目录，
+  // 所以这里引用路径直接从 / 开始，不用写 /public/
+  head: [
+    // 浏览器标签页图标（favicon）
+    ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' }],
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+
+    // iOS「添加到主屏幕」图标
+    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
+
+    // Android / PWA 图标清单
+    ['link', { rel: 'manifest', href: '/site.webmanifest' }],
+    // viewport-fit=cover：页面画到屏幕最边上（含 iPhone 底部横条那一窄条），由页面自己按深浅色调填色；
+    // 不加的话手机会用固定的金黄色去填，深色模式下底部就露出一条黄边
+    ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,viewport-fit=cover' }],
+    // 浏览器顶栏颜色：按系统色调给初始值，切换色调时 theme/index.ts 再同步
+    ['meta', { name: 'theme-color', content: '#c9982f', media: '(prefers-color-scheme: light)' }],
+    ['meta', { name: 'theme-color', content: '#142c43', media: '(prefers-color-scheme: dark)' }],
+    // 安卓手机的部分浏览器（三星、小米、华为等）用 theme-color 给底部工具条或导航条上色，且只在页面打开时读一次。
+    // 这里在页面一开始就按读者选的色调把它定好：深色是深蓝，浅色是原来的颜色，不再露出一条金黄/明黄
+    ['script', {}, '(function(){try{var s=localStorage.getItem(\'vitepress-theme-appearance\');var d=s===\'dark\'||((!s||s===\'auto\')&&window.matchMedia(\'(prefers-color-scheme: dark)\').matches);var c=d?\'#142c43\':\'#c9982f\';var m=document.querySelectorAll(\'meta[name=\"theme-color\"]\');for(var i=0;i<m.length;i++){m[i].setAttribute(\'content\',c);m[i].removeAttribute(\'media\');}}catch(e){}})()'],
+
+    // 社交平台转发卡片（微信/微博/Twitter等分享时显示的横幅图）
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:title', content: '藏汉佛教精华 · DharmaTrove' }],
+    ['meta', { property: 'og:description', content: '唯识、中观、华严、禅宗、净土、大手印、大圆满——藏汉佛教典籍精华白话转译' }],
+    ['meta', { property: 'og:image', content: '/og-image.png' }],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:image', content: '/og-image.png' }]
+  ],
+
+  themeConfig: {
+    // 导航栏左上角 Logo
+    logo: '/logo.png',
+
+    // 导航栏顺序：关于我们排最前，综合排最后，中间按内容体系排列
+    nav: [
+      { text: '首页', link: '/' },
+      { text: '关于我们', link: '/about' },
+      { text: '唯识', link: '/唯识/' },
+      { text: '中观', link: '/中观/' },
+      { text: '华严', link: '/华严/' },
+      { text: '禅宗', link: '/禅宗/' },
+      { text: '净土', link: '/净土/' },
+      { text: '大手印', link: '/大手印/' },
+      { text: '大圆满', link: '/大圆满/' },
+      { text: '综合', link: '/综合/' }
+    ],
+
+    sidebar: {
+      '/唯识/': [{ text: '唯识', link: '/唯识/' }],
+      '/中观/': [{ text: '中观', link: '/中观/' }],
+      '/华严/': [{ text: '华严', link: '/华严/' }],
+      '/禅宗/': [{ text: '禅宗', link: '/禅宗/' }],
+      '/净土/': [{ text: '净土', link: '/净土/' }],
+      '/大手印/': [{ text: '大手印', link: '/大手印/' }],
+      '/大圆满/': [{ text: '大圆满', link: '/大圆满/' }],
+      '/综合/': [{ text: '综合', link: '/综合/' }],
+      '/甘珠尔/': [{ text: '甘珠尔', link: '/甘珠尔/' }],
+      '/丹珠尔/': [{ text: '丹珠尔', link: '/丹珠尔/' }]
+    },
+
+    footer: {
+      message: '藏汉佛教精华 · DharmaTrove',
+      copyright: 'Copyright © 2026'
+    },
+
+    outline: {
+      label: '本页目录'
+    },
+
+    // ===== 站内搜索 =====
+    // 借用 VitePress 自带的顶部搜索图标（含 Ctrl+K 快捷键），
+    // 点开后显示的是我们自己的 Pagefind 搜索框（见下方 vite.resolve.alias）。
+    // 全站文字量很大，不用 VitePress 自带的整站索引；_render 返回空，
+    // 让它的索引保持为空，真正的索引由构建后的 pagefind 命令生成。
+    search: {
+      provider: 'local',
+      options: {
+        _render: () => '',
+        translations: {
+          button: { buttonText: '搜索', buttonAriaLabel: '搜索' }
+        }
+      }
+    }
+  },
+
+  vite: {
+    resolve: {
+      alias: [
+        {
+          find: /^.*\/VPLocalSearchBox\.vue$/,
+          replacement: fileURLToPath(
+            new URL('./theme/components/PagefindSearchBox.vue', import.meta.url)
+          )
+        }
+      ]
+    }
+  },
+
+  srcExclude: ['**/README.md']
+})
