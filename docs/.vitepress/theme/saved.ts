@@ -14,6 +14,7 @@ export interface Passage {
   cat: string
   text: string
   occ?: number      // 同样文字在文中出现多次时，划的是第几处（从 0 起）
+  tr?: string       // 藏文段落的机器译文（只有在原典里“收藏原文与译文”时才有）
   savedAt: number
 }
 
@@ -47,11 +48,14 @@ export function findPassage(path: string, text: string) {
   return passages.value.find((p) => p.path === path && squash(p.text) === k)
 }
 
-export function addPassage(path: string, title: string, cat: string, text: string, occ = 0): Passage {
+export function addPassage(path: string, title: string, cat: string, text: string, occ = 0, tr?: string): Passage {
   path = normPath(path)
   const old = findPassage(path, text)
-  if (old) return old
-  const p: Passage = { id: Date.now().toString(36) + Math.random().toString(36).slice(2, 6), path, title, cat, text, occ, savedAt: Date.now() }
+  if (old) {
+    if (tr && old.tr !== tr) { old.tr = tr; passages.value = [...passages.value]; persist() }
+    return old
+  }
+  const p: Passage = { id: Date.now().toString(36) + Math.random().toString(36).slice(2, 6), path, title, cat, text, occ, tr, savedAt: Date.now() }
   passages.value = [p, ...passages.value]
   persist()
   return p

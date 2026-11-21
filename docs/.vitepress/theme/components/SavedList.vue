@@ -39,15 +39,16 @@ function exportWord() {
   let body = `<h1>${esc(head())}</h1><p class="sub">${esc(sub())}</p>`
   for (const g of groups.value) {
     body += `<h2>${esc(g.title)}</h2><p class="src">${g.cat ? esc(g.cat) + '　' : ''}${esc(location.origin + g.path)}</p>`
-    for (const p of g.items) body += `<p class="p">${esc(p.text).replace(/\n/g, '<br>')}</p>`
+    for (const p of g.items) body += `<p class="p">${esc(p.text).replace(/\n/g, '<br>')}</p>` + (p.tr ? `<p class="tr">${esc(p.tr).replace(/\n/g, '<br>')}</p>` : '')
   }
+  if (passages.value.some((p) => p.tr)) body += `<p class="sub">${esc(T('机器翻译，仅供参考 · Dharmamitra / MITRA', '機器翻譯，僅供參考 · Dharmamitra / MITRA'))}</p>`
   const html =
     '<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">' +
     `<head><meta charset="utf-8"><title>${esc(head())}</title><style>` +
     'body{font-family:"Songti SC","SimSun","宋体",serif;font-size:12pt;line-height:1.8}' +
     'h1{font-size:18pt;text-align:center}h2{font-size:14pt;margin-top:18pt;border-bottom:1px solid #c9982f}' +
     '.sub{text-align:center;color:#888;font-size:9pt}.src{color:#888;font-size:9pt}' +
-    '.p{border-left:3pt solid #c9982f;padding-left:8pt;margin:10pt 0}' +
+    '.p{border-left:3pt solid #c9982f;padding-left:8pt;margin:10pt 0}.tr{padding-left:11pt;margin:-6pt 0 10pt;color:#333}' +
     `</style></head><body>${body}</body></html>`
   download(new Blob(['﻿' + html], { type: 'application/msword' }), fileBase() + '.doc')
 }
@@ -57,8 +58,9 @@ function exportTxt() {
   let s = `${head()}\n${sub()}\n`
   for (const g of groups.value) {
     s += `\n━━━━━━━━━━\n${g.title}\n${g.cat ? g.cat + '　' : ''}${location.origin + g.path}\n`
-    for (const p of g.items) s += `\n${p.text}\n`
+    for (const p of g.items) s += `\n${p.text}\n` + (p.tr ? `${p.tr}\n` : '')
   }
+  if (passages.value.some((p) => p.tr)) s += `\n${T('机器翻译，仅供参考 · Dharmamitra / MITRA', '機器翻譯，僅供參考 · Dharmamitra / MITRA')}\n`
   download(new Blob(['﻿' + s.replace(/\r?\n/g, '\r\n')], { type: 'text/plain;charset=utf-8' }), fileBase() + '.txt')
 }
 
@@ -76,9 +78,11 @@ onBeforeUnmount(() => document.removeEventListener('click', onDocClick))
       {{ T('收藏只保存在您这台设备的浏览器里，本站不收集任何读者信息。换手机或清除浏览器数据后收藏会消失，请记得导出留存。', '收藏只保存在您這台裝置的瀏覽器裡，本站不收集任何讀者資訊。換手機或清除瀏覽器資料後收藏會消失，請記得導出留存。') }}
     </p>
 
-    <p v-if="!count" class="dt-saved-empty">
-      {{ T('还没有收藏。在任何一篇文章里用手指或鼠标选中一段文字，点下方出现的“划线收藏”，这一段就会收进这里。', '還沒有收藏。在任何一篇文章裡用手指或滑鼠選中一段文字，點下方出現的“劃線收藏”，這一段就會收進這裡。') }}
+    <p class="dt-how">
+      {{ T('阅读任何一篇文章时，用手指或鼠标选中一段文字，选区下方会出现“划线收藏”按钮，点一下，这一段就会画上金色下划线并收进这里；再次选中同一段，可以取消划线。在德格版《甘珠尔》《丹珠尔》的藏文原典里，选中一段藏文还可以先请机器译成白话，再把原文和译文一起收藏。收藏的段落按文章分组，点“回到原文”可以跳回原处，点“导出全部”可以存成 PDF、Word 或纯文本。', '閱讀任何一篇文章時，用手指或滑鼠選中一段文字，選區下方會出現“劃線收藏”按鈕，點一下，這一段就會畫上金色下劃線並收進這裡；再次選中同一段，可以取消劃線。在德格版《甘珠爾》《丹珠爾》的藏文原典裡，選中一段藏文還可以先請機器譯成白話，再把原文和譯文一起收藏。收藏的段落按文章分組，點“回到原文”可以跳回原處，點“導出全部”可以存成 PDF、Word 或純文本。') }}
     </p>
+
+    <p v-if="!count" class="dt-saved-empty">{{ T('还没有收藏的段落', '還沒有收藏的段落') }}</p>
 
     <template v-else>
       <div class="dt-saved-bar">
@@ -102,7 +106,8 @@ onBeforeUnmount(() => document.removeEventListener('click', onDocClick))
           <span v-if="g.cat" class="dt-saved-cat">{{ g.cat }}</span>
         </h2>
         <div v-for="p in g.items" :key="p.id" class="dt-passage">
-          <p class="dt-passage-text">{{ p.text }}</p>
+          <p class="dt-passage-text" :class="{ 'has-bo': /[\u0F00-\u0FFF]/.test(p.text) }">{{ p.text }}</p>
+          <p v-if="p.tr" class="dt-passage-tr">{{ p.tr }}</p>
           <div class="dt-passage-ops">
             <span>{{ fmt(p.savedAt) }}</span>
             <a class="dt-link" :href="jump(p.path, p.id)">{{ T('回到原文', '回到原文') }}</a>
