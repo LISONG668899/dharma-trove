@@ -95,4 +95,5 @@ title: 大圆满
   <li><a href="/大圆满/麦彭仁波切《章嘉见歌释》">麦彭仁波切《章嘉见歌释》</a><span class="dt-article-date">2026-11-22</span></li>
   <li><a href="/大圆满/麦彭仁波切《辨析本心光明义》">麦彭仁波切《辨析本心光明义》</a><span class="dt-article-date">2026-11-22</span></li>
   <li><a href="/大圆满/麦彭仁波切《宣说本心光明义·金刚心要》">麦彭仁波切《宣说本心光明义·金刚心要》</a><span class="dt-article-date">2026-11-22</span></li>
+  <li><a href="/大圆满/麦彭仁波切《般若摄颂释·如实无倒趋入佛母密意之善说》">麦彭仁波切《般若摄颂释·如实无倒趋入佛母密意之善说》</a><span class="dt-article-date">2026-11-22</span></li>
 </ul>
