@@ -383,4 +383,5 @@ title: 唯识
   <li><a href="/唯识/无著《摄大乘论》16　果断分">无著《摄大乘论》16　果断分</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/无著《摄大乘论》17　彼果智分之一　法身五相与证得自在">无著《摄大乘论》17　彼果智分之一　法身五相与证得自在</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/无著《摄大乘论》18　彼果智分之二　法身功德与甚深">无著《摄大乘论》18　彼果智分之二　法身功德与甚深</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/无著《摄大乘论》19　彼果智分之三　念佛、净土与三身">无著《摄大乘论》19　彼果智分之三　念佛、净土与三身</a><span class="dt-article-date">2026-11-23</span></li>
 </ul>
