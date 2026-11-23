@@ -361,4 +361,5 @@ title: 唯识
   <li><a href="/唯识/成唯识论卷09中　见道与转依">成唯识论卷09中　见道与转依</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/成唯识论卷09下　十胜行与十重障">成唯识论卷09下　十胜行与十重障</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/成唯识论卷10上　断障十真如与转依">成唯识论卷10上　断障十真如与转依</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷10中　四涅槃与四智">成唯识论卷10中　四涅槃与四智</a><span class="dt-article-date">2026-11-23</span></li>
 </ul>
