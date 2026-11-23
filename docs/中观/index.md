@@ -35,4 +35,5 @@ title: 中观
   <li><a href="/中观/僧肇《肇论》五">僧肇《肇论》五</a><span class="dt-article-date">2026-11-11</span></li>
   <li><a href="/中观/僧肇《肇论》六">僧肇《肇论》六</a><span class="dt-article-date">2026-11-11</span></li>
   <li><a href="/中观/龙树《大智度论》卷第一">龙树《大智度论》卷第一</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/中观/龙树《大智度论》卷第二">龙树《大智度论》卷第二</a><span class="dt-article-date">2026-11-23</span></li>
 </ul>
