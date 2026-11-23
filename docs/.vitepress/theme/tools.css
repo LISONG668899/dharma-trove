@@ -511,3 +511,71 @@ html.dark .VPFeature .title .dt-bo { color: #a8d3ed; }
 
 /* 译文保留分句换行 */
 .dt-trout { white-space: pre-line; }
+
+/* ============================================================
+   2026-11-23 文章页排版修正（只改这一个文件）
+   1. 混排页面里的藏文缩小一档：另设一个只用于文章正文的藏文字体名，
+      size-adjust 把藏文字形缩到 88%，中文不受影响。
+      《甘珠尔》《丹珠尔》目录和阅读页（.dt-bo、.dt-bo-title、.dt-bo-p）仍用原来的大小。
+   2. 偈颂（.dt-verse）不再逐行居中，改成“整块居中、块内左对齐”：
+      短偈看起来照样居中；夹在偈颂框里的长段藏文则铺满整行、左对齐，
+      不会再出现最后一行只剩几个字又孤零零居中的情况。
+   3. 用代码块（```）排的偈颂：去掉灰底、等宽字体和左右滑动，
+      改成与 .dt-verse 一样的整块居中、自动换行。
+   ============================================================ */
+@font-face {
+  font-family: "Noto Serif Tibetan Mix";
+  src: url("/fonts/NotoSerifTibetan-bo.woff2") format("woff2");
+  unicode-range: U+0F00-0FFF;
+  font-display: swap;
+  size-adjust: 88%;
+}
+.vp-doc { font-family: "Noto Serif Tibetan Mix", var(--vp-font-family-base); }
+.vp-doc :lang(bo) { font-family: "Noto Serif Tibetan Mix", "Microsoft Himalaya", "Jomolhari", serif; }
+.vp-doc .dt-bo, .vp-doc .dt-bo-title, .vp-doc p.dt-bo-p, .dt-reader-title {
+  font-family: "Noto Serif Tibetan Web", "Microsoft Himalaya", "Jomolhari", serif;
+}
+.vp-doc p:lang(bo) { line-height: 2; overflow-wrap: anywhere; }
+
+/* 偈颂：整块居中，块内左对齐 */
+.vp-doc .dt-verse {
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  text-align: left;
+  overflow-wrap: anywhere;
+  text-wrap: pretty;
+}
+
+/* 代码块排的偈颂 */
+.vp-doc div[class*='language-'] {
+  display: table;
+  margin: 1.5em auto !important;
+  max-width: 100%;
+  border-radius: 0;
+  background: transparent !important;
+}
+.vp-doc div[class*='language-'] > button.copy,
+.vp-doc div[class*='language-'] > span.lang { display: none !important; }
+.vp-doc div[class*='language-'] pre {
+  margin: 0;
+  padding: 0 !important;
+  overflow: visible !important;
+  background: transparent !important;
+  white-space: pre-wrap;
+}
+.vp-doc div[class*='language-'] code {
+  display: block;
+  width: auto !important;
+  min-width: 0 !important;
+  padding: 0 !important;
+  font-family: "Noto Serif Tibetan Mix", var(--vp-font-family-base) !important;
+  font-size: inherit !important;
+  line-height: 1.9 !important;
+  color: var(--vp-c-text-1) !important;
+  white-space: pre-wrap !important;
+  overflow-wrap: anywhere;
+  text-align: left;
+}
+.vp-doc div[class*='language-'] code span { color: inherit !important; }
