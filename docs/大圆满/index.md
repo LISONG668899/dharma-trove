@@ -103,4 +103,5 @@ title: 大圆满
   <li><a href="/大圆满/麦彭仁波切《石中熔金夹注·真如明灯》">麦彭仁波切《石中熔金夹注·真如明灯》</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/大圆满/麦彭仁波切《窍诀见鬘夹注·珍宝藏》">麦彭仁波切《窍诀见鬘夹注·珍宝藏》</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/大圆满/麦彭仁波切《掌中佛窍诀》及护持法要">麦彭仁波切《掌中佛窍诀》及护持法要</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/大圆满/麦彭仁波切《诸事成就吉祥妙音》">麦彭仁波切《诸事成就吉祥妙音》</a><span class="dt-article-date">2026-11-23</span></li>
 </ul>
