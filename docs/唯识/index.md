@@ -364,4 +364,5 @@ title: 唯识
   <li><a href="/唯识/成唯识论卷10中　四涅槃与四智">成唯识论卷10中　四涅槃与四智</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/成唯识论卷10下　究竟位与三身">成唯识论卷10下　究竟位与三身</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/成唯识论卷末　译后语">成唯识论卷末　译后语</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/无著《摄大乘论》01　总标纲要分">无著《摄大乘论》01　总标纲要分</a><span class="dt-article-date">2026-11-23</span></li>
 </ul>
