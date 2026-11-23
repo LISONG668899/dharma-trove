@@ -335,4 +335,5 @@ title: 唯识
   <li><a href="/唯识/成唯识论　导论">成唯识论　导论</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/成唯识论卷01上　造论缘起与破实我">成唯识论卷01上　造论缘起与破实我</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/成唯识论卷01中　破外道实法">成唯识论卷01中　破外道实法</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷01下　破小乘实色与不相应行">成唯识论卷01下　破小乘实色与不相应行</a><span class="dt-article-date">2026-11-23</span></li>
 </ul>
