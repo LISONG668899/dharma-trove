@@ -348,4 +348,5 @@ title: 唯识
   <li><a href="/唯识/成唯识论卷05上　末那受性界系与三位">成唯识论卷05上　末那受性界系与三位</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/成唯识论卷05中　末那证成与六识三性">成唯识论卷05中　末那证成与六识三性</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/成唯识论卷05下　六位心所与遍行别境">成唯识论卷05下　六位心所与遍行别境</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷06上　十一善心所">成唯识论卷06上　十一善心所</a><span class="dt-article-date">2026-11-23</span></li>
 </ul>
