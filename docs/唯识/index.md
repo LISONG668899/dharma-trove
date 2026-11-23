@@ -5,367 +5,8 @@ title: 唯识
 # 唯识
 
 <ul class="dt-article-list">
-  <li><a href="/唯识/遁伦与瑜伽论记">遁伦与瑜伽论记</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷01上-01发论端六门分别">卷01上-01　发论端六门分别</a><span class="dt-article-date">2026-08-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷01上-02五识身相应地">卷01上-02　五识身相应地</a><span class="dt-article-date">2026-08-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷01上-03意地上">卷01上-03　意地（上）</a><span class="dt-article-date">2026-08-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷01上-04意地下死生入胎">卷01上-04　意地（下）·死生入胎</a><span class="dt-article-date">2026-08-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷01下-01种子与劫量">卷01下-01　种子与劫量</a><span class="dt-article-date">2026-08-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷01下-02三灾坏成与器世间">卷01下-02　三灾坏成与器世间</a><span class="dt-article-date">2026-08-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷01下-03意地十门">卷01下-03　意地十门</a><span class="dt-article-date">2026-08-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷02上-01三地建立与处所">卷02上-01　三地建立与处所</a><span class="dt-article-date">2026-08-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷02上-02受用因缘与如理作意">卷02上-02　受用因缘与如理作意</a><span class="dt-article-date">2026-08-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷02上-03十六异论上">卷02上-03　十六异论（上）</a><span class="dt-article-date">2026-08-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷02上-04十六异论中">卷02上-04　十六异论（中）</a><span class="dt-article-date">2026-08-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷02下-01十六异论下">卷02下-01　十六异论（下）</a><span class="dt-article-date">2026-08-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷02下-02烦恼杂染">卷02下-02　烦恼杂染</a><span class="dt-article-date">2026-08-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷02下-03业杂染十业道">卷02下-03　业杂染·十业道</a><span class="dt-article-date">2026-08-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷03上-01业果与五无间">卷03上-01　业果与五无间</a><span class="dt-article-date">2026-08-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷03上-02三福业与黑白四业">卷03上-02　三福业与黑白四业</a><span class="dt-article-date">2026-08-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷03上-03缘起门与十二支">卷03上-03　缘起门与十二支</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷03下-01爱取有与生老死">卷03下-01　爱取有与生老死</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷03下-02分别缘门上">卷03下-02　分别缘门（上）</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷03下-03分别缘门下">卷03下-03　分别缘门（下）</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷04上-01三摩呬多地安立">卷04上-01　三摩呬多地安立</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷04上-02出诸受事与作意">卷04上-02　出诸受事与作意</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷04上-03七作意与所缘相">卷04上-03　七作意与所缘相</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷04下-01定的通辨与八解脱">卷04下-01　定的通辨与八解脱</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷04下-02胜处遍处与三三摩地">卷04下-02　胜处遍处与三三摩地</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷04下-03四无量与五圣智">卷04下-03　四无量与五圣智</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷04下-04金刚喻定与灭尽定">卷04下-04　金刚喻定与灭尽定</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷05上-01杂义经与非等引地">卷05上-01　杂义经与非等引地</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷05上-02有心无心地闻所成地">卷05上-02　有心无心地·闻所成地</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷05上-03增三增四诸门">卷05上-03　增三增四诸门</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷05上-04增五至增七诸门">卷05上-04　增五至增七诸门</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷05上-05增八至增十因明论体">卷05上-05　增八至增十·因明论体</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷05上-06三量与声明工巧明">卷05上-06　三量与声明工巧明</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷05下-01思所成地自相共相">卷05下-01　思所成地·自相共相</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷05下-02假相有法与流转还灭">卷05下-02　假相有法与流转还灭</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷05下-03思择诸法三种伽陀">卷05下-03　思择诸法·三种伽陀</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷05下-04三法无和合与二谛">卷05下-04　三法无和合与二谛</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷05下-05意趣伽陀三学总纲">卷05下-05　意趣伽陀·三学总纲</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷05下-06戒学清净与五支戒">卷05下-06　戒学清净与五支戒</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷05下-07精进头陀与五盖对治">卷05下-07　精进头陀与五盖对治</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷05下-08类流贪与佛陀苦行">卷05下-08　类流贪与佛陀苦行</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷05下-09劬劳得义与论议">卷05下-09　劬劳得义与论议</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷05下-10善说三句与舍寿行">卷05下-10　善说三句与舍寿行</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷05下-11阿罗汉四相与弥勒授记">卷05下-11　阿罗汉四相与弥勒授记</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷06上-01修所成地生圆满">卷06上-01　修所成地·生圆满</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷06上-02修习对治十种观">卷06上-02　修习对治十种观</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷06上-03三摩地自在与出世清净">卷06上-03　三摩地自在与出世清净</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷06上-04声闻地开篇种姓地">卷06上-04　声闻地开篇·种姓地</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷06上-05种姓本质与一相续">卷06上-05　种姓本质与一相续</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷06上-06趣入地六阶位">卷06上-06　趣入地六阶位</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷06上-07出离地戒律仪">卷06上-07　出离地·戒律仪</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷06上-08根律仪与饮食知量">卷06上-08　根律仪与饮食知量</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷06上-09悟寤瑜伽与正知而住">卷06上-09　悟寤瑜伽与正知而住</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷06下-01善友性与十九种观想">卷06下-01　善友性与十九种观想</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷06下-02闻正法十二分教">卷06下-02　闻正法·十二分教</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷06下-03二十八种补特伽罗">卷06下-03　二十八种补特伽罗</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷06下-04遍满所缘与净行所缘">卷06下-04　遍满所缘与净行所缘</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07上-01缘起观与界差别观">卷07上-01　缘起观与界差别观</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07上-02阿那波那念上">卷07上-02　阿那波那念（上）</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07上-03阿那波那念下">卷07上-03　阿那波那念（下）</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07上-04三苦建立与四种教授">卷07上-04　三苦建立与四种教授</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07上-05三学次第与三解脱门">卷07上-05　三学次第与三解脱门</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07上-06随顺学法与瑜伽坏">卷07上-06　随顺学法与瑜伽坏</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07上-07两种四作意">卷07上-07　两种四作意</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07上-08瑜伽所作与想修">卷07上-08　瑜伽所作与想修</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07上-09身念住">卷07上-09　身念住</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07上-10受念住">卷07上-10　受念住</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07上-11心念住">卷07上-11　心念住</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07上-12念住内外与四倒对治">卷07上-12　念住内外与四倒对治</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07下-01四正断">卷07下-01　四正断</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07下-02四神足">卷07下-02　四神足</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07下-03五根五力">卷07下-03　五根五力</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07下-04七觉支与八正道">卷07下-04　七觉支与八正道</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07下-05四沙门果与七种行人">卷07下-05　四沙门果与七种行人</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07下-06补特伽罗异门与魔事">卷07下-06　补特伽罗异门与魔事</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07下-07第三瑜伽处三门">卷07下-07　第三瑜伽处三门</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07下-08九种住心与六力">卷07下-08　九种住心与六力</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07下-09观品六事与不净九胜解">卷07下-09　观品六事与不净九胜解</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07下-10缘起观牵引生起因">卷07下-10　缘起观·牵引生起因</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07下-11九种加行">卷07下-11　九种加行</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07下-12净障四句">卷07下-12　净障四句</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07下-13厌患想与欣尚想">卷07下-13　厌患想与欣尚想</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07下-14初修业者取五相">卷07下-14　初修业者取五相</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07下-15观品加行趣入念处">卷07下-15　观品加行趣入念处</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07下-16类余四停观">卷07下-16　类余四停观</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷07下-17得色界定三种利益">卷07下-17　得色界定三种利益</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08上-01第四瑜伽处七作意伏惑">卷08上-01　第四瑜伽处·七作意伏惑</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08上-02离色界惑七作意">卷08上-02　离色界惑七作意</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08上-03广辨四禅">卷08上-03　广辨四禅</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08上-04四无色定与二无心定">卷08上-04　四无色定与二无心定</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08上-05五通十二想与生处">卷08上-05　五通十二想与生处</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08上-06趣出世间七作意">卷08上-06　趣出世间七作意</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08上-07观刹那生灭">卷08上-07　观刹那生灭</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08上-08不安隐行与三谛行相">卷08上-08　不安隐行与三谛行相</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08上-09胜解作意四善根">卷08上-09　胜解作意·四善根</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08上-10远离作意见道">卷08上-10　远离作意·见道</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08上-11观察摄乐与加行究竟">卷08上-11　观察摄乐与加行究竟</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08上-12阿罗汉三十二功德">卷08上-12　阿罗汉三十二功德</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08上-13独觉地">卷08上-13　独觉地</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08下-01菩萨地总说四持">卷08下-01　菩萨地总说·四持</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08下-02种姓持十法">卷08下-02　种姓持十法</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08下-03种姓体性三家之辨">卷08下-03　种姓体性三家之辨</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08下-04六处殊胜与种姓果">卷08下-04　六处殊胜与种姓果</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08下-05二障四重与断惑位次">卷08下-05　二障四重与断惑位次</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08下-06种姓相施波罗蜜">卷08下-06　种姓相·施波罗蜜</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08下-07种姓相忍与精进">卷08下-07　种姓相·忍与精进</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08下-08种姓相慧与总结">卷08下-08　种姓相·慧与总结</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08下-09种姓品收尾四门">卷08下-09　种姓品收尾四门</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08下-10发心品上">卷08下-10　发心品（上）</a><span class="dt-article-date">2026-08-31</span></li>
-  <li><a href="/唯识/瑜伽论记卷08下-11发心品下退与不退">卷08下-11　发心品（下）·退与不退</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷08下-12自他利品上">卷08下-12　自他利品（上）</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷08下-13自他利品下">卷08下-13　自他利品（下）</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷09上-01真实义品五事三性">卷09上-01　真实义品·五事三性</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷09上-02四种真实">卷09上-02　四种真实</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷09上-03真实理体无二">卷09上-03　真实理体无二</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷09上-04正辨离言自性">卷09上-04　正辨离言自性</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷09上-05破名前无体与恶取空">卷09上-05　破名前无体与恶取空</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷09上-06善取空与诸佛言说">卷09上-06　善取空与诸佛言说</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷09上-07愚夫八种分别">卷09上-07　愚夫八种分别</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷09上-08四寻思四如实智">卷09上-08　四寻思四如实智</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷09下-01威力品神通体性">卷09下-01　威力品·神通体性</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷09下-02神境通十八变">卷09下-02　神境通·十八变</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷09下-03神境通能化门">卷09下-03　神境通·能化门</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷09下-04宿住天眼诸通">卷09下-04　宿住天眼诸通</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷09下-05法威力与俱生威力">卷09下-05　法威力与俱生威力</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷09下-06成熟品六门">卷09下-06　成熟品六门</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷10上-01菩提品与如来十号">卷10上-01　菩提品与如来十号</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷10上-02力种姓品上">卷10上-02　力种姓品（上）</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷10上-03力种姓品下">卷10上-03　力种姓品（下）</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷10上-04施品九门">卷10上-04　施品九门</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷10上-05戒品一三聚净戒">卷10上-05　戒品（一）·三聚净戒</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷10上-06戒品二四重戒">卷10上-06　戒品（二）·四重戒</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷10上-07戒品三四十三轻戒">卷10上-07　戒品（三）·四十三轻戒</a><span class="dt-article-date">2026-09-16</span></li>
-  <li><a href="/唯识/瑜伽论记卷10下-01戒品四戒胜利">卷10下-01　戒品（四）·戒胜利</a><span class="dt-article-date">2026-09-17</span></li>
-  <li><a href="/唯识/瑜伽论记卷10下-02忍品九门">卷10下-02　忍品九门</a><span class="dt-article-date">2026-09-17</span></li>
-  <li><a href="/唯识/瑜伽论记卷10下-03精进品九门">卷10下-03　精进品九门</a><span class="dt-article-date">2026-09-17</span></li>
-  <li><a href="/唯识/瑜伽论记卷10下-04静虑品九门">卷10下-04　静虑品九门</a><span class="dt-article-date">2026-09-17</span></li>
-  <li><a href="/唯识/瑜伽论记卷10下-05慧品九门与六度总结">卷10下-05　慧品九门与六度总结</a><span class="dt-article-date">2026-09-17</span></li>
-  <li><a href="/唯识/瑜伽论记卷10下-06摄事品四摄">卷10下-06　摄事品·四摄</a><span class="dt-article-date">2026-09-17</span></li>
-  <li><a href="/唯识/瑜伽论记卷11上-01供养品十种供养">卷11上-01　供养品·十种供养</a><span class="dt-article-date">2026-09-17</span></li>
-  <li><a href="/唯识/瑜伽论记卷11上-02四无量与大悲">卷11上-02　四无量与大悲</a><span class="dt-article-date">2026-09-17</span></li>
-  <li><a href="/唯识/瑜伽论记卷11上-03菩提分品一惭愧坚力">卷11上-03　菩提分品（一）·惭愧坚力</a><span class="dt-article-date">2026-09-17</span></li>
-  <li><a href="/唯识/瑜伽论记卷11上-04菩提分品二四依四无碍">卷11上-04　菩提分品（二）·四依四无碍</a><span class="dt-article-date">2026-09-17</span></li>
-  <li><a href="/唯识/瑜伽论记卷11上-05菩提分品三止观方便">卷11上-05　菩提分品（三）·止观方便</a><span class="dt-article-date">2026-09-19</span></li>
-  <li><a href="/唯识/瑜伽论记卷11下-01菩提分品四四乌拖南">卷11下-01　菩提分品（四）·四乌拖南</a><span class="dt-article-date">2026-09-19</span></li>
-  <li><a href="/唯识/瑜伽论记卷11下-02功德品授记与十六名">卷11下-02　功德品·授记与十六名</a><span class="dt-article-date">2026-09-19</span></li>
-  <li><a href="/唯识/瑜伽论记卷11下-03菩萨相品与分品">卷11下-03　菩萨相品与分品</a><span class="dt-article-date">2026-09-19</span></li>
-  <li><a href="/唯识/瑜伽论记卷11下-04增上意乐品">卷11下-04　增上意乐品</a><span class="dt-article-date">2026-09-19</span></li>
-  <li><a href="/唯识/瑜伽论记卷11下-05住品一种姓住与胜解行住">卷11下-05　住品（一）·种姓住与胜解行住</a><span class="dt-article-date">2026-09-19</span></li>
-  <li><a href="/唯识/瑜伽论记卷11下-06住品二初地至三地">卷11下-06　住品（二）·初地至三地</a><span class="dt-article-date">2026-09-19</span></li>
-  <li><a href="/唯识/瑜伽论记卷12上-01住品三第四地">卷12上-01　住品（三）·第四地</a><span class="dt-article-date">2026-09-19</span></li>
-  <li><a href="/唯识/瑜伽论记卷12上-02住品四五地六地">卷12上-02　住品（四）·五地六地</a><span class="dt-article-date">2026-09-19</span></li>
-  <li><a href="/唯识/瑜伽论记卷12上-03住品五第七地">卷12上-03　住品（五）·第七地</a><span class="dt-article-date">2026-09-19</span></li>
-  <li><a href="/唯识/瑜伽论记卷12上-04住品六第八地">卷12上-04　住品（六）·第八地</a><span class="dt-article-date">2026-09-19</span></li>
-  <li><a href="/唯识/瑜伽论记卷12上-05住品七九地十地">卷12上-05　住品（七）·九地十地</a><span class="dt-article-date">2026-09-19</span></li>
-  <li><a href="/唯识/瑜伽论记卷12上-06住品总结十三住">卷12上-06　住品总结·十三住</a><span class="dt-article-date">2026-09-19</span></li>
-  <li><a href="/唯识/瑜伽论记卷12上-07生品地品行品">卷12上-07　生品地品行品</a><span class="dt-article-date">2026-09-19</span></li>
-  <li><a href="/唯识/瑜伽论记卷12下-01建立品相好与十力">卷12下-01　建立品·相好与十力</a><span class="dt-article-date">2026-09-19</span></li>
-  <li><a href="/唯识/瑜伽论记卷12下-02建立品无畏与念住">卷12下-02　建立品·无畏与念住</a><span class="dt-article-date">2026-09-20</span></li>
-  <li><a href="/唯识/瑜伽论记卷12下-03建立品毕菩萨地总收">卷12下-03　建立品毕·菩萨地总收</a><span class="dt-article-date">2026-09-20</span></li>
-  <li><a href="/唯识/瑜伽论记卷12下-04有余依地与无余依地">卷12下-04　有余依地与无余依地</a><span class="dt-article-date">2026-09-20</span></li>
-  <li><a href="/唯识/瑜伽论记卷13上-01摄抉择分总说八相证本识">卷13上-01　摄抉择分总说·八相证本识</a><span class="dt-article-date">2026-09-20</span></li>
-  <li><a href="/唯识/瑜伽论记卷13上-02八相证本识下">卷13上-02　八相证本识（下）</a><span class="dt-article-date">2026-09-20</span></li>
-  <li><a href="/唯识/瑜伽论记卷13上-03广分别义所缘转相">卷13上-03　广分别义·所缘转相</a><span class="dt-article-date">2026-09-20</span></li>
-  <li><a href="/唯识/瑜伽论记卷13上-04相应转相与俱转相">卷13上-04　相应转相与俱转相</a><span class="dt-article-date">2026-09-21</span></li>
-  <li><a href="/唯识/瑜伽论记卷13上-05还灭相心意识门毕">卷13上-05　还灭相·心意识门毕</a><span class="dt-article-date">2026-09-21</span></li>
-  <li><a href="/唯识/瑜伽论记卷13上-06识身遍知与二善巧">卷13上-06　识身遍知与二善巧</a><span class="dt-article-date">2026-09-21</span></li>
-  <li><a href="/唯识/瑜伽论记卷13上-07证成道理三世相">卷13上-07　证成道理·三世相</a><span class="dt-article-date">2026-09-21</span></li>
-  <li><a href="/唯识/瑜伽论记卷13上-08抉择因缘四缘">卷13上-08　抉择因缘·四缘</a><span class="dt-article-date">2026-09-21</span></li>
-  <li><a href="/唯识/瑜伽论记卷13下-01缘无生心义">卷13下-01　缘无生心义</a><span class="dt-article-date">2026-09-21</span></li>
-  <li><a href="/唯识/瑜伽论记卷13下-02不相应行二十二法">卷13下-02　不相应行二十二法</a><span class="dt-article-date">2026-09-21</span></li>
-  <li><a href="/唯识/瑜伽论记卷13下-03明其种子">卷13下-03　明其种子</a><span class="dt-article-date">2026-09-21</span></li>
-  <li><a href="/唯识/瑜伽论记卷14上-01解业义上表业律仪">卷14上-01　解业义（上）·表业律仪</a><span class="dt-article-date">2026-09-22</span></li>
-  <li><a href="/唯识/瑜伽论记卷14上-02解业义下处中业">卷14上-02　解业义（下）·处中业</a><span class="dt-article-date">2026-09-22</span></li>
-  <li><a href="/唯识/瑜伽论记卷14上-03无想定与灭尽定">卷14上-03　无想定与灭尽定</a><span class="dt-article-date">2026-09-22</span></li>
-  <li><a href="/唯识/瑜伽论记卷14上-04虚空与非择灭">卷14上-04　虚空与非择灭</a><span class="dt-article-date">2026-09-22</span></li>
-  <li><a href="/唯识/瑜伽论记卷14上-05蕴善巧五蕴自性">卷14上-05　蕴善巧·五蕴自性</a><span class="dt-article-date">2026-09-23</span></li>
-  <li><a href="/唯识/瑜伽论记卷14下-01识蕴差别识住">卷14下-01　识蕴差别·识住</a><span class="dt-article-date">2026-09-23</span></li>
-  <li><a href="/唯识/瑜伽论记卷14下-02识蕴六门分别">卷14下-02　识蕴六门分别</a><span class="dt-article-date">2026-09-23</span></li>
-  <li><a href="/唯识/瑜伽论记卷14下-03名色分别破极微">卷14下-03　名色分别·破极微</a><span class="dt-article-date">2026-09-23</span></li>
-  <li><a href="/唯识/瑜伽论记卷14下-04三种微细与五种极微">卷14下-04　三种微细与五种极微</a><span class="dt-article-date">2026-09-23</span></li>
-  <li><a href="/唯识/瑜伽论记卷14下-05色生起门大种变异">卷14下-05　色生起门·大种变异</a><span class="dt-article-date">2026-10-21</span></li>
-  <li><a href="/唯识/瑜伽论记卷14下-06安立门流门业门">卷14下-06　安立门流门业门</a><span class="dt-article-date">2026-10-21</span></li>
-  <li><a href="/唯识/瑜伽论记卷14下-07色法刹那灭">卷14下-07　色法刹那灭</a><span class="dt-article-date">2026-10-21</span></li>
-  <li><a href="/唯识/瑜伽论记卷14下-08色门后三门四蕴名">卷14下-08　色门后三门·四蕴名</a><span class="dt-article-date">2026-10-21</span></li>
-  <li><a href="/唯识/瑜伽论记卷15上-01善蕴与本惑九门">卷15上-01　善蕴与本惑九门</a><span class="dt-article-date">2026-10-21</span></li>
-  <li><a href="/唯识/瑜伽论记卷15上-02随惑与无记九门">卷15上-02　随惑与无记九门</a><span class="dt-article-date">2026-10-24</span></li>
-  <li><a href="/唯识/瑜伽论记卷15上-03四谛十六行与三苦">卷15上-03　四谛十六行与三苦</a><span class="dt-article-date">2026-10-24</span></li>
-  <li><a href="/唯识/瑜伽论记卷15上-04六种谛现观">卷15上-04　六种谛现观</a><span class="dt-article-date">2026-10-24</span></li>
-  <li><a href="/唯识/瑜伽论记卷15下-01不相应行分位">卷15下-01　不相应行分位</a><span class="dt-article-date">2026-10-24</span></li>
-  <li><a href="/唯识/瑜伽论记卷15下-02五蕴诸门蕴善巧毕">卷15下-02　五蕴诸门·蕴善巧毕</a><span class="dt-article-date">2026-10-24</span></li>
-  <li><a href="/唯识/瑜伽论记卷15下-03界善巧">卷15下-03　界善巧</a><span class="dt-article-date">2026-10-24</span></li>
-  <li><a href="/唯识/瑜伽论记卷15下-04处善巧与缘起善巧">卷15下-04　处善巧与缘起善巧</a><span class="dt-article-date">2026-10-24</span></li>
-  <li><a href="/唯识/瑜伽论记卷16上-01处非处善巧根善巧">卷16上-01　处非处善巧·根善巧</a><span class="dt-article-date">2026-10-24</span></li>
-  <li><a href="/唯识/瑜伽论记卷16上-02根善巧异熟诸地">卷16上-02　根善巧·异熟诸地</a><span class="dt-article-date">2026-10-24</span></li>
-  <li><a href="/唯识/瑜伽论记卷16上-03根善巧死生得舍">卷16上-03　根善巧·死生得舍</a><span class="dt-article-date">2026-10-24</span></li>
-  <li><a href="/唯识/瑜伽论记卷16上-04根善巧依处证得">卷16上-04　根善巧·依处证得</a><span class="dt-article-date">2026-10-24</span></li>
-  <li><a href="/唯识/瑜伽论记卷16上-05相摄四食五识意地毕">卷16上-05　相摄四食·五识意地毕</a><span class="dt-article-date">2026-10-25</span></li>
-  <li><a href="/唯识/瑜伽论记卷16下-01三地抉择十种烦恼">卷16下-01　三地抉择·十种烦恼</a><span class="dt-article-date">2026-10-25</span></li>
-  <li><a href="/唯识/瑜伽论记卷16下-02烦恼迷断差别">卷16下-02　烦恼迷断差别</a><span class="dt-article-date">2026-10-25</span></li>
-  <li><a href="/唯识/瑜伽论记卷16下-03烦恼对治与见道心数">卷16下-03　烦恼对治与见道心数</a><span class="dt-article-date">2026-10-25</span></li>
-  <li><a href="/唯识/瑜伽论记卷16下-04烦恼七门九门">卷16下-04　烦恼七门九门</a><span class="dt-article-date">2026-10-25</span></li>
-  <li><a href="/唯识/瑜伽论记卷17上-01烦恼杂染毕">卷17上-01　烦恼杂染毕</a><span class="dt-article-date">2026-10-26</span></li>
-  <li><a href="/唯识/瑜伽论记卷17上-02业杂染九门">卷17上-02　业杂染九门</a><span class="dt-article-date">2026-10-26</span></li>
-  <li><a href="/唯识/瑜伽论记卷17上-03业抉择八段">卷17上-03　业抉择八段</a><span class="dt-article-date">2026-10-26</span></li>
-  <li><a href="/唯识/瑜伽论记卷17上-04生杂染三摩呬多地十门">卷17上-04　生杂染·三摩呬多地十门</a><span class="dt-article-date">2026-10-26</span></li>
-  <li><a href="/唯识/瑜伽论记卷17下-01分别二定与引经">卷17下-01　分别二定与引经</a><span class="dt-article-date">2026-10-26</span></li>
-  <li><a href="/唯识/瑜伽论记卷17下-02法因缘经与眠经">卷17下-02　法因缘经与眠经</a><span class="dt-article-date">2026-10-26</span></li>
-  <li><a href="/唯识/瑜伽论记卷17下-03静虑支九门">卷17下-03　静虑支九门</a><span class="dt-article-date">2026-10-26</span></li>
-  <li><a href="/唯识/瑜伽论记卷17下-04四种修定有心无心地">卷17下-04　四种修定·有心无心地</a><span class="dt-article-date">2026-10-26</span></li>
-  <li><a href="/唯识/瑜伽论记卷18上-01闻所成地抉择">卷18上-01　闻所成地抉择</a><span class="dt-article-date">2026-10-26</span></li>
-  <li><a href="/唯识/瑜伽论记卷18上-02四谛离二边杂抉择">卷18上-02　四谛离二边·杂抉择</a><span class="dt-article-date">2026-10-26</span></li>
-  <li><a href="/唯识/瑜伽论记卷18上-03思所成地破计我">卷18上-03　思所成地·破计我</a><span class="dt-article-date">2026-10-26</span></li>
-  <li><a href="/唯识/瑜伽论记卷18上-04二十九门一">卷18上-04　二十九门（一）</a><span class="dt-article-date">2026-10-26</span></li>
-  <li><a href="/唯识/瑜伽论记卷18上-05二十九门二">卷18上-05　二十九门（二）</a><span class="dt-article-date">2026-10-26</span></li>
-  <li><a href="/唯识/瑜伽论记卷18上-06四食与命终受生">卷18上-06　四食与命终受生</a><span class="dt-article-date">2026-10-27</span></li>
-  <li><a href="/唯识/瑜伽论记卷18上-07思所成地抉择毕">卷18上-07　思所成地抉择毕</a><span class="dt-article-date">2026-10-29</span></li>
-  <li><a href="/唯识/瑜伽论记卷18下-01修慧地无种性有情">卷18下-01　修慧地·无种性有情</a><span class="dt-article-date">2026-10-29</span></li>
-  <li><a href="/唯识/瑜伽论记卷18下-02声闻地抉择四谛">卷18下-02　声闻地抉择·四谛</a><span class="dt-article-date">2026-10-29</span></li>
-  <li><a href="/唯识/瑜伽论记卷18下-03毗奈耶出罪清净">卷18下-03　毗奈耶出罪清净</a><span class="dt-article-date">2026-10-29</span></li>
-  <li><a href="/唯识/瑜伽论记卷18下-04六十四门一诸智">卷18下-04　六十四门（一）·诸智</a><span class="dt-article-date">2026-10-29</span></li>
-  <li><a href="/唯识/瑜伽论记卷19上-01六十四门二根律仪">卷19上-01　六十四门（二）·根律仪</a><span class="dt-article-date">2026-10-29</span></li>
-  <li><a href="/唯识/瑜伽论记卷19上-02六十四门三现观">卷19上-02　六十四门（三）·现观</a><span class="dt-article-date">2026-10-29</span></li>
-  <li><a href="/唯识/瑜伽论记卷19上-03六现观声闻地毕">卷19上-03　六现观·声闻地毕</a><span class="dt-article-date">2026-10-29</span></li>
-  <li><a href="/唯识/瑜伽论记卷19上-04菩萨地抉择发心五事">卷19上-04　菩萨地抉择·发心五事</a><span class="dt-article-date">2026-10-29</span></li>
-  <li><a href="/唯识/瑜伽论记卷19上-05五事异不异">卷19上-05　五事异不异</a><span class="dt-article-date">2026-10-29</span></li>
-  <li><a href="/唯识/瑜伽论记卷19上-06五事色等门上">卷19上-06　五事色等门（上）</a><span class="dt-article-date">2026-10-29</span></li>
-  <li><a href="/唯识/瑜伽论记卷19上-07五事色等门下">卷19上-07　五事色等门（下）</a><span class="dt-article-date">2026-10-29</span></li>
-  <li><a href="/唯识/瑜伽论记卷19下-01五事第二颂离言自性">卷19下-01　五事第二颂·离言自性</a><span class="dt-article-date">2026-10-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷19下-02本有无漏种子与三祇">卷19下-02　本有无漏种子与三祇</a><span class="dt-article-date">2026-10-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷19下-03十四种密意三无自性">卷19下-03　十四种密意·三无自性</a><span class="dt-article-date">2026-10-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷19下-04三性初颂遍计五种">卷19下-04　三性初颂·遍计五种</a><span class="dt-article-date">2026-10-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷20上-01三性第二颂九门">卷20上-01　三性第二颂九门</a><span class="dt-article-date">2026-10-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷20上-02三性第三颂伏藏喻">卷20上-02　三性第三颂·伏藏喻</a><span class="dt-article-date">2026-10-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷20上-03转依四相与舍戒四缘">卷20上-03　转依四相与舍戒四缘</a><span class="dt-article-date">2026-10-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷20上-04六度十清净功德品">卷20上-04　六度十清净·功德品</a><span class="dt-article-date">2026-10-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷20上-05胜义谛四相阿陀那识">卷20上-05　胜义谛四相·阿陀那识</a><span class="dt-article-date">2026-10-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷20下-01三性三无性三时教">卷20下-01　三性三无性·三时教</a><span class="dt-article-date">2026-10-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷20下-02慈氏问止观上">卷20下-02　慈氏问止观（上）</a><span class="dt-article-date">2026-10-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷20下-03慈氏问止观下">卷20下-03　慈氏问止观（下）</a><span class="dt-article-date">2026-10-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷21上-01观自在问诸地">卷21上-01　观自在问诸地</a><span class="dt-article-date">2026-10-30</span></li>
-  <li><a href="/唯识/瑜伽论记卷21上-02曼殊室利问三身">卷21上-02　曼殊室利问三身</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/唯识/卷21上-03　住品抉择与十八不共">卷21上-03　住品抉择与十八不共</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/唯识/卷21上-04　宝积经邪行与正行">卷21上-04　宝积经邪行与正行</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/唯识/卷21下-01　十三中道行与二无我">卷21下-01　十三中道行与二无我</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/唯识/卷21下-02　宝积经终与有余无余地">卷21下-02　宝积经终与有余无余地</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/唯识/卷21下-03　摄释分与名句文身">卷21下-03　摄释分与名句文身</a><span class="dt-article-date">2026-11-02</span></li>
-  <li><a href="/唯识/卷21下-04　十义与十二分教">卷21下-04　十义与十二分教</a><span class="dt-article-date">2026-11-02</span></li>
-  <li><a href="/唯识/卷22上-01　安他令听与学胜利">卷22上-01　安他令听与学胜利</a><span class="dt-article-date">2026-11-02</span></li>
-  <li><a href="/唯识/卷22上-02　摄异门分白品诸门">卷22上-02　摄异门分白品诸门</a><span class="dt-article-date">2026-11-02</span></li>
-  <li><a href="/唯识/卷22上-03　欲法僧与黑品异门">卷22上-03　欲法僧与黑品异门</a><span class="dt-article-date">2026-11-02</span></li>
-  <li><a href="/唯识/卷22下-01　想行速通二十门">卷22下-01　想行速通二十门</a><span class="dt-article-date">2026-11-03</span></li>
-  <li><a href="/唯识/卷22下-02　因等六门与六十二见">卷22下-02　因等六门与六十二见</a><span class="dt-article-date">2026-11-03</span></li>
-  <li><a href="/唯识/卷22下-03　断支二品十八门">卷22下-03　断支二品十八门</a><span class="dt-article-date">2026-11-03</span></li>
-  <li><a href="/唯识/卷23上-01　知事诤芽无厌诸门">卷23上-01　知事诤芽无厌诸门</a><span class="dt-article-date">2026-11-03</span></li>
-  <li><a href="/唯识/卷23上-02　少欲住等十八门">卷23上-02　少欲住等十八门</a><span class="dt-article-date">2026-11-03</span></li>
-  <li><a href="/唯识/卷23上-03　处择安立与烦恼业门">卷23上-03　处择安立与烦恼业门</a><span class="dt-article-date">2026-11-03</span></li>
-  <li><a href="/唯识/卷23上-04　十六种业与三种空">卷23上-04　十六种业与三种空</a><span class="dt-article-date">2026-11-03</span></li>
-  <li><a href="/唯识/卷23下-01　离欲诸门与菩萨胜相">卷23下-01　离欲诸门与菩萨胜相</a><span class="dt-article-date">2026-11-04</span></li>
-  <li><a href="/唯识/卷23下-02　上贪多住二十六门">卷23下-02　上贪多住二十六门</a><span class="dt-article-date">2026-11-04</span></li>
-  <li><a href="/唯识/卷23下-03　缘起立门与苦聚谛观">卷23下-03　缘起立门与苦聚谛观</a><span class="dt-article-date">2026-11-05</span></li>
-  <li><a href="/唯识/卷23下-04　微智甚深与二谛七门">卷23下-04　微智甚深与二谛七门</a><span class="dt-article-date">2026-11-05</span></li>
-  <li><a href="/唯识/卷24上-01　触缘有灭与四食">卷24上-01　触缘有灭与四食</a><span class="dt-article-date">2026-11-05</span></li>
-  <li><a href="/唯识/卷24上-02　四谛十二门与百八爱行">卷24上-02　四谛十二门与百八爱行</a><span class="dt-article-date">2026-11-05</span></li>
-  <li><a href="/唯识/卷24上-03　七界与诸受十六门">卷24上-03　七界与诸受十六门</a><span class="dt-article-date">2026-11-06</span></li>
-  <li><a href="/唯识/卷24下-01　沙门四处与念住诸门">卷24下-01　沙门四处与念住诸门</a><span class="dt-article-date">2026-11-06</span></li>
-  <li><a href="/唯识/卷24下-02　道品诸门与息念证净">卷24下-02　道品诸门与息念证净</a><span class="dt-article-date">2026-11-06</span></li>
-  <li><a href="/唯识/卷24下-03　制戒十利与七灭诤">卷24下-03　制戒十利与七灭诤</a><span class="dt-article-date">2026-11-06</span></li>
-  <li><a href="/唯识/卷24下-04　遍知诸门与本母事">卷24下-04　遍知诸门与本母事</a><span class="dt-article-date">2026-11-08</span></li>
-  <li><a href="/唯识/元晓《二障义》">元晓《二障义》</a><span class="dt-article-date">2026-11-14</span></li>
-  <li><a href="/唯识/八识规矩颂逐句疏解">八识规矩颂逐句疏解</a><span class="dt-article-date">2026-11-18</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（一）总料简章·教益有殊">窥基《大乘法苑义林章》（一）总料简章·教益有殊</a><span class="dt-article-date">2026-11-20</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（二）总料简章·时利差别">窥基《大乘法苑义林章》（二）总料简章·时利差别</a><span class="dt-article-date">2026-11-20</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（三）总料简章·诠宗各异">窥基《大乘法苑义林章》（三）总料简章·诠宗各异</a><span class="dt-article-date">2026-11-20</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（四）总料简章·体性不同（上）">窥基《大乘法苑义林章》（四）总料简章·体性不同（上）</a><span class="dt-article-date">2026-11-20</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（五）总料简章·体性不同（下）与得名悬隔">窥基《大乘法苑义林章》（五）总料简章·体性不同（下）与得名悬隔</a><span class="dt-article-date">2026-11-20</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（六）五心章">窥基《大乘法苑义林章》（六）五心章</a><span class="dt-article-date">2026-11-20</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（七）唯识义林（上）">窥基《大乘法苑义林章》（七）唯识义林（上）</a><span class="dt-article-date">2026-11-20</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（八）唯识义林（下）">窥基《大乘法苑义林章》（八）唯识义林（下）</a><span class="dt-article-date">2026-11-20</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（九）诸乘义林（上）">窥基《大乘法苑义林章》（九）诸乘义林（上）</a><span class="dt-article-date">2026-11-20</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（十）诸乘义林（下）">窥基《大乘法苑义林章》（十）诸乘义林（下）</a><span class="dt-article-date">2026-11-20</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（十一）诸藏章·结集缘起">窥基《大乘法苑义林章》（十一）诸藏章·结集缘起</a><span class="dt-article-date">2026-11-20</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（十二）诸藏章·名数废立与释名">窥基《大乘法苑义林章》（十二）诸藏章·名数废立与释名</a><span class="dt-article-date">2026-11-21</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（十三）诸藏章·差别部类与释疑">窥基《大乘法苑义林章》（十三）诸藏章·差别部类与释疑</a><span class="dt-article-date">2026-11-21</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（十四）十二分章（上）·列名与辨相">窥基《大乘法苑义林章》（十四）十二分章（上）·列名与辨相</a><span class="dt-article-date">2026-11-21</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（十五）十二分章（中）·释名通别与废立">窥基《大乘法苑义林章》（十五）十二分章（中）·释名通别与废立</a><span class="dt-article-date">2026-11-21</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（十六）十二分章（下）·诸藏相摄与问答">窥基《大乘法苑义林章》（十六）十二分章（下）·诸藏相摄与问答</a><span class="dt-article-date">2026-11-21</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（十七）断障章（上）">窥基《大乘法苑义林章》（十七）断障章（上）</a><span class="dt-article-date">2026-11-22</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（十八）断障章（下）">窥基《大乘法苑义林章》（十八）断障章（下）</a><span class="dt-article-date">2026-11-22</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（十九）二谛章（上）·显名辨体与三乘浅深">窥基《大乘法苑义林章》（十九）二谛章（上）·显名辨体与三乘浅深</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（二十）二谛章（中）·会通涅槃七番二谛">窥基《大乘法苑义林章》（二十）二谛章（中）·会通涅槃七番二谛</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（二十一）二谛章（下）·诸教相摄与问答">窥基《大乘法苑义林章》（二十一）二谛章（下）·诸教相摄与问答</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（二十二）大种造色章">窥基《大乘法苑义林章》（二十二）大种造色章</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（二十三）五根章">窥基《大乘法苑义林章》（二十三）五根章</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（二十四）表无表色章（一）·辨名出体与假实">窥基《大乘法苑义林章》（二十四）表无表色章（一）·辨名出体与假实</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（二十五）表无表色章（二）·具支多少">窥基《大乘法苑义林章》（二十五）表无表色章（二）·具支多少</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（二十六）表无表色章（三）·得戒诸缘（上）">窥基《大乘法苑义林章》（二十六）表无表色章（三）·得戒诸缘（上）</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（二十七）表无表色章（四）·得戒诸缘（下）与得戒时节">窥基《大乘法苑义林章》（二十七）表无表色章（四）·得戒诸缘（下）与得戒时节</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（二十八）表无表色章（五）·舍戒">窥基《大乘法苑义林章》（二十八）表无表色章（五）·舍戒</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（二十九）表无表色章（六）·依地造色成就与问答">窥基《大乘法苑义林章》（二十九）表无表色章（六）·依地造色成就与问答</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（三十）归敬章与四食章（上）">窥基《大乘法苑义林章》（三十）归敬章与四食章（上）</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（三十一）四食章（下）">窥基《大乘法苑义林章》（三十一）四食章（下）</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（三十二）六十二见章（上）·所因与前际十八见">窥基《大乘法苑义林章》（三十二）六十二见章（上）·所因与前际十八见</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（三十三）六十二见章（下）·后际四十四见与出体问答">窥基《大乘法苑义林章》（三十三）六十二见章（下）·后际四十四见与出体问答</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（三十四）八解脱章">窥基《大乘法苑义林章》（三十四）八解脱章</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（三十五）二执章（附残文·十六空释）">窥基《大乘法苑义林章》（三十五）二执章（附残文·十六空释）</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（三十六）二十七贤圣章">窥基《大乘法苑义林章》（三十六）二十七贤圣章</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（三十七）大乘蕴界处义">窥基《大乘法苑义林章》（三十七）大乘蕴界处义</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（三十八）极微章与胜定果色章">窥基《大乘法苑义林章》（三十八）极微章与胜定果色章</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（三十九）十因章">窥基《大乘法苑义林章》（三十九）十因章</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（四十）五果义与法处色义林">窥基《大乘法苑义林章》（四十）五果义与法处色义林</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（四十一）三宝义林（上）">窥基《大乘法苑义林章》（四十一）三宝义林（上）</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（四十二）三宝义林（下）">窥基《大乘法苑义林章》（四十二）三宝义林（下）</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（四十三）破魔罗义林">窥基《大乘法苑义林章》（四十三）破魔罗义林</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（四十四）三慧义林（上）">窥基《大乘法苑义林章》（四十四）三慧义林（上）</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（四十五）三慧义林（中）·诸智相摄与法行">窥基《大乘法苑义林章》（四十五）三慧义林（中）·诸智相摄与法行</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（四十六）三慧义林（下）·陀罗尼地证与诸门">窥基《大乘法苑义林章》（四十六）三慧义林（下）·陀罗尼地证与诸门</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（四十七）三轮义林">窥基《大乘法苑义林章》（四十七）三轮义林</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（四十八）三身义林（一）·辨名与出体">窥基《大乘法苑义林章》（四十八）三身义林（一）·辨名与出体</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（四十九）三身义林（二）·开合废立">窥基《大乘法苑义林章》（四十九）三身义林（二）·开合废立</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（五十）三身义林（三）·因起果相（上）">窥基《大乘法苑义林章》（五十）三身义林（三）·因起果相（上）</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（五十一）三身义林（四）·因起果相（下）">窥基《大乘法苑义林章》（五十一）三身义林（四）·因起果相（下）</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（五十二）三身义林（五）·诸门分别">窥基《大乘法苑义林章》（五十二）三身义林（五）·诸门分别</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（五十三）佛土章（上）·显差别、出体性与明因行">窥基《大乘法苑义林章》（五十三）佛土章（上）·显差别、出体性与明因行</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（五十四）佛土章（下）·果相、分量、处所、共不共与诸门">窥基《大乘法苑义林章》（五十四）佛土章（下）·果相、分量、处所、共不共与诸门</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/窥基《大乘法苑义林章》（五十五）译后记·全书要点与不共之处">窥基《大乘法苑义林章》（五十五）译后记·全书要点与不共之处</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论　导论">成唯识论　导论</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷01上　造论缘起与破实我">成唯识论卷01上　造论缘起与破实我</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷01中　破外道实法">成唯识论卷01中　破外道实法</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷01下　破小乘实色与不相应行">成唯识论卷01下　破小乘实色与不相应行</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷02上　破四相名句与无为">成唯识论卷02上　破四相名句与无为</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷02中　三能变与种子本有新熏">成唯识论卷02中　三能变与种子本有新熏</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷02下　种子六义与四分">成唯识论卷02下　种子六义与四分</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷03上　第八识相应与恒转如流">成唯识论卷03上　第八识相应与恒转如流</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷03中　第八识之舍与教证">成唯识论卷03中　第八识之舍与教证</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷03下　第八识理证之一">成唯识论卷03下　第八识理证之一</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷04上　第八识理证之二">成唯识论卷04上　第八识理证之二</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷04中　末那三种所依">成唯识论卷04中　末那三种所依</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷04下　末那所缘与相应心所">成唯识论卷04下　末那所缘与相应心所</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷05上　末那受性界系与三位">成唯识论卷05上　末那受性界系与三位</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷05中　末那证成与六识三性">成唯识论卷05中　末那证成与六识三性</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷05下　六位心所与遍行别境">成唯识论卷05下　六位心所与遍行别境</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷06上　十一善心所">成唯识论卷06上　十一善心所</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷06中　六根本烦恼">成唯识论卷06中　六根本烦恼</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷06下　二十随烦恼">成唯识论卷06下　二十随烦恼</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷07上　不定心所与心所一异">成唯识论卷07上　不定心所与心所一异</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷07中　六识现起与八识俱转">成唯识论卷07中　六识现起与八识俱转</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷07下　唯识正义与四缘">成唯识论卷07下　唯识正义与四缘</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷08上　十因五果与种现相缘">成唯识论卷08上　十因五果与种现相缘</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷08中　业与二取习气与十二有支">成唯识论卷08中　业与二取习气与十二有支</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷08下　二种生死与三性">成唯识论卷08下　二种生死与三性</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷09上　三无性与资粮加行">成唯识论卷09上　三无性与资粮加行</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷09中　见道与转依">成唯识论卷09中　见道与转依</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷09下　十胜行与十重障">成唯识论卷09下　十胜行与十重障</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷10上　断障十真如与转依">成唯识论卷10上　断障十真如与转依</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷10中　四涅槃与四智">成唯识论卷10中　四涅槃与四智</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷10下　究竟位与三身">成唯识论卷10下　究竟位与三身</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/成唯识论卷末　译后语">成唯识论卷末　译后语</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/无著《摄大乘论》　导论">无著《摄大乘论》导论</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/无著《摄大乘论》01　总标纲要分">无著《摄大乘论》01　总标纲要分</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/无著《摄大乘论》　导论">无著《摄大乘论》　导论</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/无著《摄大乘论》02　所知依分之一　阿赖耶识的教证与名义">无著《摄大乘论》02　所知依分之一　阿赖耶识的教证与名义</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/无著《摄大乘论》03　所知依分之二　异门、三相与种子">无著《摄大乘论》03　所知依分之二　异门、三相与种子</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/无著《摄大乘论》04　所知依分之三　杂染不成">无著《摄大乘论》04　所知依分之三　杂染不成</a><span class="dt-article-date">2026-11-23</span></li>
@@ -384,5 +25,364 @@ title: 唯识
   <li><a href="/唯识/无著《摄大乘论》17　彼果智分之一　法身五相与证得自在">无著《摄大乘论》17　彼果智分之一　法身五相与证得自在</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/无著《摄大乘论》18　彼果智分之二　法身功德与甚深">无著《摄大乘论》18　彼果智分之二　法身功德与甚深</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/无著《摄大乘论》19　彼果智分之三　念佛、净土与三身">无著《摄大乘论》19　彼果智分之三　念佛、净土与三身</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/唯识/无著《摄大乘论》卷末　译后语">无著《摄大乘论》卷末　译后语</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/无著《摄大乘论》卷末　译后语">无著《摄大乘论》译后语</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论　导论">玄奘《成唯识论》导论</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷01上　造论缘起与破实我">玄奘《成唯识论》卷01上　造论缘起与破实我</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷01中　破外道实法">玄奘《成唯识论》卷01中　破外道实法</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷01下　破小乘实色与不相应行">玄奘《成唯识论》卷01下　破小乘实色与不相应行</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷02上　破四相名句与无为">玄奘《成唯识论》卷02上　破四相名句与无为</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷02中　三能变与种子本有新熏">玄奘《成唯识论》卷02中　三能变与种子本有新熏</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷02下　种子六义与四分">玄奘《成唯识论》卷02下　种子六义与四分</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷03上　第八识相应与恒转如流">玄奘《成唯识论》卷03上　第八识相应与恒转如流</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷03中　第八识之舍与教证">玄奘《成唯识论》卷03中　第八识之舍与教证</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷03下　第八识理证之一">玄奘《成唯识论》卷03下　第八识理证之一</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷04上　第八识理证之二">玄奘《成唯识论》卷04上　第八识理证之二</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷04中　末那三种所依">玄奘《成唯识论》卷04中　末那三种所依</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷04下　末那所缘与相应心所">玄奘《成唯识论》卷04下　末那所缘与相应心所</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷05上　末那受性界系与三位">玄奘《成唯识论》卷05上　末那受性界系与三位</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷05中　末那证成与六识三性">玄奘《成唯识论》卷05中　末那证成与六识三性</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷05下　六位心所与遍行别境">玄奘《成唯识论》卷05下　六位心所与遍行别境</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷06上　十一善心所">玄奘《成唯识论》卷06上　十一善心所</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷06中　六根本烦恼">玄奘《成唯识论》卷06中　六根本烦恼</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷06下　二十随烦恼">玄奘《成唯识论》卷06下　二十随烦恼</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷07上　不定心所与心所一异">玄奘《成唯识论》卷07上　不定心所与心所一异</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷07中　六识现起与八识俱转">玄奘《成唯识论》卷07中　六识现起与八识俱转</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷07下　唯识正义与四缘">玄奘《成唯识论》卷07下　唯识正义与四缘</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷08上　十因五果与种现相缘">玄奘《成唯识论》卷08上　十因五果与种现相缘</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷08中　业与二取习气与十二有支">玄奘《成唯识论》卷08中　业与二取习气与十二有支</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷08下　二种生死与三性">玄奘《成唯识论》卷08下　二种生死与三性</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷09上　三无性与资粮加行">玄奘《成唯识论》卷09上　三无性与资粮加行</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷09中　见道与转依">玄奘《成唯识论》卷09中　见道与转依</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷09下　十胜行与十重障">玄奘《成唯识论》卷09下　十胜行与十重障</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷10上　断障十真如与转依">玄奘《成唯识论》卷10上　断障十真如与转依</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷10中　四涅槃与四智">玄奘《成唯识论》卷10中　四涅槃与四智</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷10下　究竟位与三身">玄奘《成唯识论》卷10下　究竟位与三身</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷末　译后语">玄奘《成唯识论》译后语</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/八识规矩颂逐句疏解">玄奘《八识规矩颂》逐句疏解</a><span class="dt-article-date">2026-11-18</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（一）总料简章·教益有殊">窥基《大乘法苑义林章》01　总料简章·教益有殊</a><span class="dt-article-date">2026-11-20</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（二）总料简章·时利差别">窥基《大乘法苑义林章》02　总料简章·时利差别</a><span class="dt-article-date">2026-11-20</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（三）总料简章·诠宗各异">窥基《大乘法苑义林章》03　总料简章·诠宗各异</a><span class="dt-article-date">2026-11-20</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（四）总料简章·体性不同（上）">窥基《大乘法苑义林章》04　总料简章·体性不同（上）</a><span class="dt-article-date">2026-11-20</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（五）总料简章·体性不同（下）与得名悬隔">窥基《大乘法苑义林章》05　总料简章·体性不同（下）与得名悬隔</a><span class="dt-article-date">2026-11-20</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（六）五心章">窥基《大乘法苑义林章》06　五心章</a><span class="dt-article-date">2026-11-20</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（七）唯识义林（上）">窥基《大乘法苑义林章》07　唯识义林（上）</a><span class="dt-article-date">2026-11-20</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（八）唯识义林（下）">窥基《大乘法苑义林章》08　唯识义林（下）</a><span class="dt-article-date">2026-11-20</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（九）诸乘义林（上）">窥基《大乘法苑义林章》09　诸乘义林（上）</a><span class="dt-article-date">2026-11-20</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（十）诸乘义林（下）">窥基《大乘法苑义林章》10　诸乘义林（下）</a><span class="dt-article-date">2026-11-20</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（十一）诸藏章·结集缘起">窥基《大乘法苑义林章》11　诸藏章·结集缘起</a><span class="dt-article-date">2026-11-20</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（十二）诸藏章·名数废立与释名">窥基《大乘法苑义林章》12　诸藏章·名数废立与释名</a><span class="dt-article-date">2026-11-21</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（十三）诸藏章·差别部类与释疑">窥基《大乘法苑义林章》13　诸藏章·差别部类与释疑</a><span class="dt-article-date">2026-11-21</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（十四）十二分章（上）·列名与辨相">窥基《大乘法苑义林章》14　十二分章（上）·列名与辨相</a><span class="dt-article-date">2026-11-21</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（十五）十二分章（中）·释名通别与废立">窥基《大乘法苑义林章》15　十二分章（中）·释名通别与废立</a><span class="dt-article-date">2026-11-21</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（十六）十二分章（下）·诸藏相摄与问答">窥基《大乘法苑义林章》16　十二分章（下）·诸藏相摄与问答</a><span class="dt-article-date">2026-11-21</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（十七）断障章（上）">窥基《大乘法苑义林章》17　断障章（上）</a><span class="dt-article-date">2026-11-22</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（十八）断障章（下）">窥基《大乘法苑义林章》18　断障章（下）</a><span class="dt-article-date">2026-11-22</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（十九）二谛章（上）·显名辨体与三乘浅深">窥基《大乘法苑义林章》19　二谛章（上）·显名辨体与三乘浅深</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（二十）二谛章（中）·会通涅槃七番二谛">窥基《大乘法苑义林章》20　二谛章（中）·会通涅槃七番二谛</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（二十一）二谛章（下）·诸教相摄与问答">窥基《大乘法苑义林章》21　二谛章（下）·诸教相摄与问答</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（二十二）大种造色章">窥基《大乘法苑义林章》22　大种造色章</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（二十三）五根章">窥基《大乘法苑义林章》23　五根章</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（二十四）表无表色章（一）·辨名出体与假实">窥基《大乘法苑义林章》24　表无表色章（一）·辨名出体与假实</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（二十五）表无表色章（二）·具支多少">窥基《大乘法苑义林章》25　表无表色章（二）·具支多少</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（二十六）表无表色章（三）·得戒诸缘（上）">窥基《大乘法苑义林章》26　表无表色章（三）·得戒诸缘（上）</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（二十七）表无表色章（四）·得戒诸缘（下）与得戒时节">窥基《大乘法苑义林章》27　表无表色章（四）·得戒诸缘（下）与得戒时节</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（二十八）表无表色章（五）·舍戒">窥基《大乘法苑义林章》28　表无表色章（五）·舍戒</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（二十九）表无表色章（六）·依地造色成就与问答">窥基《大乘法苑义林章》29　表无表色章（六）·依地造色成就与问答</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（三十）归敬章与四食章（上）">窥基《大乘法苑义林章》30　归敬章与四食章（上）</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（三十一）四食章（下）">窥基《大乘法苑义林章》31　四食章（下）</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（三十二）六十二见章（上）·所因与前际十八见">窥基《大乘法苑义林章》32　六十二见章（上）·所因与前际十八见</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（三十三）六十二见章（下）·后际四十四见与出体问答">窥基《大乘法苑义林章》33　六十二见章（下）·后际四十四见与出体问答</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（三十四）八解脱章">窥基《大乘法苑义林章》34　八解脱章</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（三十五）二执章（附残文·十六空释）">窥基《大乘法苑义林章》35　二执章（附残文·十六空释）</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（三十六）二十七贤圣章">窥基《大乘法苑义林章》36　二十七贤圣章</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（三十七）大乘蕴界处义">窥基《大乘法苑义林章》37　大乘蕴界处义</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（三十八）极微章与胜定果色章">窥基《大乘法苑义林章》38　极微章与胜定果色章</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（三十九）十因章">窥基《大乘法苑义林章》39　十因章</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（四十）五果义与法处色义林">窥基《大乘法苑义林章》40　五果义与法处色义林</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（四十一）三宝义林（上）">窥基《大乘法苑义林章》41　三宝义林（上）</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（四十二）三宝义林（下）">窥基《大乘法苑义林章》42　三宝义林（下）</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（四十三）破魔罗义林">窥基《大乘法苑义林章》43　破魔罗义林</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（四十四）三慧义林（上）">窥基《大乘法苑义林章》44　三慧义林（上）</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（四十五）三慧义林（中）·诸智相摄与法行">窥基《大乘法苑义林章》45　三慧义林（中）·诸智相摄与法行</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（四十六）三慧义林（下）·陀罗尼地证与诸门">窥基《大乘法苑义林章》46　三慧义林（下）·陀罗尼地证与诸门</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（四十七）三轮义林">窥基《大乘法苑义林章》47　三轮义林</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（四十八）三身义林（一）·辨名与出体">窥基《大乘法苑义林章》48　三身义林（一）·辨名与出体</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（四十九）三身义林（二）·开合废立">窥基《大乘法苑义林章》49　三身义林（二）·开合废立</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（五十）三身义林（三）·因起果相（上）">窥基《大乘法苑义林章》50　三身义林（三）·因起果相（上）</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（五十一）三身义林（四）·因起果相（下）">窥基《大乘法苑义林章》51　三身义林（四）·因起果相（下）</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（五十二）三身义林（五）·诸门分别">窥基《大乘法苑义林章》52　三身义林（五）·诸门分别</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（五十三）佛土章（上）·显差别、出体性与明因行">窥基《大乘法苑义林章》53　佛土章（上）·显差别、出体性与明因行</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（五十四）佛土章（下）·果相、分量、处所、共不共与诸门">窥基《大乘法苑义林章》54　佛土章（下）·果相、分量、处所、共不共与诸门</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（五十五）译后记·全书要点与不共之处">窥基《大乘法苑义林章》译后语　全书要点与不共之处</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/元晓《二障义》">元晓《二障义》</a><span class="dt-article-date">2026-11-14</span></li>
+  <li><a href="/唯识/遁伦与瑜伽论记">遁伦《瑜伽论记》导论</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷01上-01发论端六门分别">遁伦《瑜伽论记》卷01上-01　发论端六门分别</a><span class="dt-article-date">2026-08-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷01上-02五识身相应地">遁伦《瑜伽论记》卷01上-02　五识身相应地</a><span class="dt-article-date">2026-08-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷01上-03意地上">遁伦《瑜伽论记》卷01上-03　意地（上）</a><span class="dt-article-date">2026-08-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷01上-04意地下死生入胎">遁伦《瑜伽论记》卷01上-04　意地（下）·死生入胎</a><span class="dt-article-date">2026-08-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷01下-01种子与劫量">遁伦《瑜伽论记》卷01下-01　种子与劫量</a><span class="dt-article-date">2026-08-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷01下-02三灾坏成与器世间">遁伦《瑜伽论记》卷01下-02　三灾坏成与器世间</a><span class="dt-article-date">2026-08-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷01下-03意地十门">遁伦《瑜伽论记》卷01下-03　意地十门</a><span class="dt-article-date">2026-08-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷02上-01三地建立与处所">遁伦《瑜伽论记》卷02上-01　三地建立与处所</a><span class="dt-article-date">2026-08-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷02上-02受用因缘与如理作意">遁伦《瑜伽论记》卷02上-02　受用因缘与如理作意</a><span class="dt-article-date">2026-08-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷02上-03十六异论上">遁伦《瑜伽论记》卷02上-03　十六异论（上）</a><span class="dt-article-date">2026-08-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷02上-04十六异论中">遁伦《瑜伽论记》卷02上-04　十六异论（中）</a><span class="dt-article-date">2026-08-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷02下-01十六异论下">遁伦《瑜伽论记》卷02下-01　十六异论（下）</a><span class="dt-article-date">2026-08-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷02下-02烦恼杂染">遁伦《瑜伽论记》卷02下-02　烦恼杂染</a><span class="dt-article-date">2026-08-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷02下-03业杂染十业道">遁伦《瑜伽论记》卷02下-03　业杂染·十业道</a><span class="dt-article-date">2026-08-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷03上-01业果与五无间">遁伦《瑜伽论记》卷03上-01　业果与五无间</a><span class="dt-article-date">2026-08-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷03上-02三福业与黑白四业">遁伦《瑜伽论记》卷03上-02　三福业与黑白四业</a><span class="dt-article-date">2026-08-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷03上-03缘起门与十二支">遁伦《瑜伽论记》卷03上-03　缘起门与十二支</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷03下-01爱取有与生老死">遁伦《瑜伽论记》卷03下-01　爱取有与生老死</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷03下-02分别缘门上">遁伦《瑜伽论记》卷03下-02　分别缘门（上）</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷03下-03分别缘门下">遁伦《瑜伽论记》卷03下-03　分别缘门（下）</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷04上-01三摩呬多地安立">遁伦《瑜伽论记》卷04上-01　三摩呬多地安立</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷04上-02出诸受事与作意">遁伦《瑜伽论记》卷04上-02　出诸受事与作意</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷04上-03七作意与所缘相">遁伦《瑜伽论记》卷04上-03　七作意与所缘相</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷04下-01定的通辨与八解脱">遁伦《瑜伽论记》卷04下-01　定的通辨与八解脱</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷04下-02胜处遍处与三三摩地">遁伦《瑜伽论记》卷04下-02　胜处遍处与三三摩地</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷04下-03四无量与五圣智">遁伦《瑜伽论记》卷04下-03　四无量与五圣智</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷04下-04金刚喻定与灭尽定">遁伦《瑜伽论记》卷04下-04　金刚喻定与灭尽定</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷05上-01杂义经与非等引地">遁伦《瑜伽论记》卷05上-01　杂义经与非等引地</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷05上-02有心无心地闻所成地">遁伦《瑜伽论记》卷05上-02　有心无心地·闻所成地</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷05上-03增三增四诸门">遁伦《瑜伽论记》卷05上-03　增三增四诸门</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷05上-04增五至增七诸门">遁伦《瑜伽论记》卷05上-04　增五至增七诸门</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷05上-05增八至增十因明论体">遁伦《瑜伽论记》卷05上-05　增八至增十·因明论体</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷05上-06三量与声明工巧明">遁伦《瑜伽论记》卷05上-06　三量与声明工巧明</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷05下-01思所成地自相共相">遁伦《瑜伽论记》卷05下-01　思所成地·自相共相</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷05下-02假相有法与流转还灭">遁伦《瑜伽论记》卷05下-02　假相有法与流转还灭</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷05下-03思择诸法三种伽陀">遁伦《瑜伽论记》卷05下-03　思择诸法·三种伽陀</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷05下-04三法无和合与二谛">遁伦《瑜伽论记》卷05下-04　三法无和合与二谛</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷05下-05意趣伽陀三学总纲">遁伦《瑜伽论记》卷05下-05　意趣伽陀·三学总纲</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷05下-06戒学清净与五支戒">遁伦《瑜伽论记》卷05下-06　戒学清净与五支戒</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷05下-07精进头陀与五盖对治">遁伦《瑜伽论记》卷05下-07　精进头陀与五盖对治</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷05下-08类流贪与佛陀苦行">遁伦《瑜伽论记》卷05下-08　类流贪与佛陀苦行</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷05下-09劬劳得义与论议">遁伦《瑜伽论记》卷05下-09　劬劳得义与论议</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷05下-10善说三句与舍寿行">遁伦《瑜伽论记》卷05下-10　善说三句与舍寿行</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷05下-11阿罗汉四相与弥勒授记">遁伦《瑜伽论记》卷05下-11　阿罗汉四相与弥勒授记</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷06上-01修所成地生圆满">遁伦《瑜伽论记》卷06上-01　修所成地·生圆满</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷06上-02修习对治十种观">遁伦《瑜伽论记》卷06上-02　修习对治十种观</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷06上-03三摩地自在与出世清净">遁伦《瑜伽论记》卷06上-03　三摩地自在与出世清净</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷06上-04声闻地开篇种姓地">遁伦《瑜伽论记》卷06上-04　声闻地开篇·种姓地</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷06上-05种姓本质与一相续">遁伦《瑜伽论记》卷06上-05　种姓本质与一相续</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷06上-06趣入地六阶位">遁伦《瑜伽论记》卷06上-06　趣入地六阶位</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷06上-07出离地戒律仪">遁伦《瑜伽论记》卷06上-07　出离地·戒律仪</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷06上-08根律仪与饮食知量">遁伦《瑜伽论记》卷06上-08　根律仪与饮食知量</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷06上-09悟寤瑜伽与正知而住">遁伦《瑜伽论记》卷06上-09　悟寤瑜伽与正知而住</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷06下-01善友性与十九种观想">遁伦《瑜伽论记》卷06下-01　善友性与十九种观想</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷06下-02闻正法十二分教">遁伦《瑜伽论记》卷06下-02　闻正法·十二分教</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷06下-03二十八种补特伽罗">遁伦《瑜伽论记》卷06下-03　二十八种补特伽罗</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷06下-04遍满所缘与净行所缘">遁伦《瑜伽论记》卷06下-04　遍满所缘与净行所缘</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07上-01缘起观与界差别观">遁伦《瑜伽论记》卷07上-01　缘起观与界差别观</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07上-02阿那波那念上">遁伦《瑜伽论记》卷07上-02　阿那波那念（上）</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07上-03阿那波那念下">遁伦《瑜伽论记》卷07上-03　阿那波那念（下）</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07上-04三苦建立与四种教授">遁伦《瑜伽论记》卷07上-04　三苦建立与四种教授</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07上-05三学次第与三解脱门">遁伦《瑜伽论记》卷07上-05　三学次第与三解脱门</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07上-06随顺学法与瑜伽坏">遁伦《瑜伽论记》卷07上-06　随顺学法与瑜伽坏</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07上-07两种四作意">遁伦《瑜伽论记》卷07上-07　两种四作意</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07上-08瑜伽所作与想修">遁伦《瑜伽论记》卷07上-08　瑜伽所作与想修</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07上-09身念住">遁伦《瑜伽论记》卷07上-09　身念住</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07上-10受念住">遁伦《瑜伽论记》卷07上-10　受念住</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07上-11心念住">遁伦《瑜伽论记》卷07上-11　心念住</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07上-12念住内外与四倒对治">遁伦《瑜伽论记》卷07上-12　念住内外与四倒对治</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07下-01四正断">遁伦《瑜伽论记》卷07下-01　四正断</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07下-02四神足">遁伦《瑜伽论记》卷07下-02　四神足</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07下-03五根五力">遁伦《瑜伽论记》卷07下-03　五根五力</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07下-04七觉支与八正道">遁伦《瑜伽论记》卷07下-04　七觉支与八正道</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07下-05四沙门果与七种行人">遁伦《瑜伽论记》卷07下-05　四沙门果与七种行人</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07下-06补特伽罗异门与魔事">遁伦《瑜伽论记》卷07下-06　补特伽罗异门与魔事</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07下-07第三瑜伽处三门">遁伦《瑜伽论记》卷07下-07　第三瑜伽处三门</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07下-08九种住心与六力">遁伦《瑜伽论记》卷07下-08　九种住心与六力</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07下-09观品六事与不净九胜解">遁伦《瑜伽论记》卷07下-09　观品六事与不净九胜解</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07下-10缘起观牵引生起因">遁伦《瑜伽论记》卷07下-10　缘起观·牵引生起因</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07下-11九种加行">遁伦《瑜伽论记》卷07下-11　九种加行</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07下-12净障四句">遁伦《瑜伽论记》卷07下-12　净障四句</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07下-13厌患想与欣尚想">遁伦《瑜伽论记》卷07下-13　厌患想与欣尚想</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07下-14初修业者取五相">遁伦《瑜伽论记》卷07下-14　初修业者取五相</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07下-15观品加行趣入念处">遁伦《瑜伽论记》卷07下-15　观品加行趣入念处</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07下-16类余四停观">遁伦《瑜伽论记》卷07下-16　类余四停观</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷07下-17得色界定三种利益">遁伦《瑜伽论记》卷07下-17　得色界定三种利益</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08上-01第四瑜伽处七作意伏惑">遁伦《瑜伽论记》卷08上-01　第四瑜伽处·七作意伏惑</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08上-02离色界惑七作意">遁伦《瑜伽论记》卷08上-02　离色界惑七作意</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08上-03广辨四禅">遁伦《瑜伽论记》卷08上-03　广辨四禅</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08上-04四无色定与二无心定">遁伦《瑜伽论记》卷08上-04　四无色定与二无心定</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08上-05五通十二想与生处">遁伦《瑜伽论记》卷08上-05　五通十二想与生处</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08上-06趣出世间七作意">遁伦《瑜伽论记》卷08上-06　趣出世间七作意</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08上-07观刹那生灭">遁伦《瑜伽论记》卷08上-07　观刹那生灭</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08上-08不安隐行与三谛行相">遁伦《瑜伽论记》卷08上-08　不安隐行与三谛行相</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08上-09胜解作意四善根">遁伦《瑜伽论记》卷08上-09　胜解作意·四善根</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08上-10远离作意见道">遁伦《瑜伽论记》卷08上-10　远离作意·见道</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08上-11观察摄乐与加行究竟">遁伦《瑜伽论记》卷08上-11　观察摄乐与加行究竟</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08上-12阿罗汉三十二功德">遁伦《瑜伽论记》卷08上-12　阿罗汉三十二功德</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08上-13独觉地">遁伦《瑜伽论记》卷08上-13　独觉地</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08下-01菩萨地总说四持">遁伦《瑜伽论记》卷08下-01　菩萨地总说·四持</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08下-02种姓持十法">遁伦《瑜伽论记》卷08下-02　种姓持十法</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08下-03种姓体性三家之辨">遁伦《瑜伽论记》卷08下-03　种姓体性三家之辨</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08下-04六处殊胜与种姓果">遁伦《瑜伽论记》卷08下-04　六处殊胜与种姓果</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08下-05二障四重与断惑位次">遁伦《瑜伽论记》卷08下-05　二障四重与断惑位次</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08下-06种姓相施波罗蜜">遁伦《瑜伽论记》卷08下-06　种姓相·施波罗蜜</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08下-07种姓相忍与精进">遁伦《瑜伽论记》卷08下-07　种姓相·忍与精进</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08下-08种姓相慧与总结">遁伦《瑜伽论记》卷08下-08　种姓相·慧与总结</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08下-09种姓品收尾四门">遁伦《瑜伽论记》卷08下-09　种姓品收尾四门</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08下-10发心品上">遁伦《瑜伽论记》卷08下-10　发心品（上）</a><span class="dt-article-date">2026-08-31</span></li>
+  <li><a href="/唯识/瑜伽论记卷08下-11发心品下退与不退">遁伦《瑜伽论记》卷08下-11　发心品（下）·退与不退</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷08下-12自他利品上">遁伦《瑜伽论记》卷08下-12　自他利品（上）</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷08下-13自他利品下">遁伦《瑜伽论记》卷08下-13　自他利品（下）</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷09上-01真实义品五事三性">遁伦《瑜伽论记》卷09上-01　真实义品·五事三性</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷09上-02四种真实">遁伦《瑜伽论记》卷09上-02　四种真实</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷09上-03真实理体无二">遁伦《瑜伽论记》卷09上-03　真实理体无二</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷09上-04正辨离言自性">遁伦《瑜伽论记》卷09上-04　正辨离言自性</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷09上-05破名前无体与恶取空">遁伦《瑜伽论记》卷09上-05　破名前无体与恶取空</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷09上-06善取空与诸佛言说">遁伦《瑜伽论记》卷09上-06　善取空与诸佛言说</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷09上-07愚夫八种分别">遁伦《瑜伽论记》卷09上-07　愚夫八种分别</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷09上-08四寻思四如实智">遁伦《瑜伽论记》卷09上-08　四寻思四如实智</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷09下-01威力品神通体性">遁伦《瑜伽论记》卷09下-01　威力品·神通体性</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷09下-02神境通十八变">遁伦《瑜伽论记》卷09下-02　神境通·十八变</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷09下-03神境通能化门">遁伦《瑜伽论记》卷09下-03　神境通·能化门</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷09下-04宿住天眼诸通">遁伦《瑜伽论记》卷09下-04　宿住天眼诸通</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷09下-05法威力与俱生威力">遁伦《瑜伽论记》卷09下-05　法威力与俱生威力</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷09下-06成熟品六门">遁伦《瑜伽论记》卷09下-06　成熟品六门</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷10上-01菩提品与如来十号">遁伦《瑜伽论记》卷10上-01　菩提品与如来十号</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷10上-02力种姓品上">遁伦《瑜伽论记》卷10上-02　力种姓品（上）</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷10上-03力种姓品下">遁伦《瑜伽论记》卷10上-03　力种姓品（下）</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷10上-04施品九门">遁伦《瑜伽论记》卷10上-04　施品九门</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷10上-05戒品一三聚净戒">遁伦《瑜伽论记》卷10上-05　戒品（一）·三聚净戒</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷10上-06戒品二四重戒">遁伦《瑜伽论记》卷10上-06　戒品（二）·四重戒</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷10上-07戒品三四十三轻戒">遁伦《瑜伽论记》卷10上-07　戒品（三）·四十三轻戒</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/唯识/瑜伽论记卷10下-01戒品四戒胜利">遁伦《瑜伽论记》卷10下-01　戒品（四）·戒胜利</a><span class="dt-article-date">2026-09-17</span></li>
+  <li><a href="/唯识/瑜伽论记卷10下-02忍品九门">遁伦《瑜伽论记》卷10下-02　忍品九门</a><span class="dt-article-date">2026-09-17</span></li>
+  <li><a href="/唯识/瑜伽论记卷10下-03精进品九门">遁伦《瑜伽论记》卷10下-03　精进品九门</a><span class="dt-article-date">2026-09-17</span></li>
+  <li><a href="/唯识/瑜伽论记卷10下-04静虑品九门">遁伦《瑜伽论记》卷10下-04　静虑品九门</a><span class="dt-article-date">2026-09-17</span></li>
+  <li><a href="/唯识/瑜伽论记卷10下-05慧品九门与六度总结">遁伦《瑜伽论记》卷10下-05　慧品九门与六度总结</a><span class="dt-article-date">2026-09-17</span></li>
+  <li><a href="/唯识/瑜伽论记卷10下-06摄事品四摄">遁伦《瑜伽论记》卷10下-06　摄事品·四摄</a><span class="dt-article-date">2026-09-17</span></li>
+  <li><a href="/唯识/瑜伽论记卷11上-01供养品十种供养">遁伦《瑜伽论记》卷11上-01　供养品·十种供养</a><span class="dt-article-date">2026-09-17</span></li>
+  <li><a href="/唯识/瑜伽论记卷11上-02四无量与大悲">遁伦《瑜伽论记》卷11上-02　四无量与大悲</a><span class="dt-article-date">2026-09-17</span></li>
+  <li><a href="/唯识/瑜伽论记卷11上-03菩提分品一惭愧坚力">遁伦《瑜伽论记》卷11上-03　菩提分品（一）·惭愧坚力</a><span class="dt-article-date">2026-09-17</span></li>
+  <li><a href="/唯识/瑜伽论记卷11上-04菩提分品二四依四无碍">遁伦《瑜伽论记》卷11上-04　菩提分品（二）·四依四无碍</a><span class="dt-article-date">2026-09-17</span></li>
+  <li><a href="/唯识/瑜伽论记卷11上-05菩提分品三止观方便">遁伦《瑜伽论记》卷11上-05　菩提分品（三）·止观方便</a><span class="dt-article-date">2026-09-19</span></li>
+  <li><a href="/唯识/瑜伽论记卷11下-01菩提分品四四乌拖南">遁伦《瑜伽论记》卷11下-01　菩提分品（四）·四乌拖南</a><span class="dt-article-date">2026-09-19</span></li>
+  <li><a href="/唯识/瑜伽论记卷11下-02功德品授记与十六名">遁伦《瑜伽论记》卷11下-02　功德品·授记与十六名</a><span class="dt-article-date">2026-09-19</span></li>
+  <li><a href="/唯识/瑜伽论记卷11下-03菩萨相品与分品">遁伦《瑜伽论记》卷11下-03　菩萨相品与分品</a><span class="dt-article-date">2026-09-19</span></li>
+  <li><a href="/唯识/瑜伽论记卷11下-04增上意乐品">遁伦《瑜伽论记》卷11下-04　增上意乐品</a><span class="dt-article-date">2026-09-19</span></li>
+  <li><a href="/唯识/瑜伽论记卷11下-05住品一种姓住与胜解行住">遁伦《瑜伽论记》卷11下-05　住品（一）·种姓住与胜解行住</a><span class="dt-article-date">2026-09-19</span></li>
+  <li><a href="/唯识/瑜伽论记卷11下-06住品二初地至三地">遁伦《瑜伽论记》卷11下-06　住品（二）·初地至三地</a><span class="dt-article-date">2026-09-19</span></li>
+  <li><a href="/唯识/瑜伽论记卷12上-01住品三第四地">遁伦《瑜伽论记》卷12上-01　住品（三）·第四地</a><span class="dt-article-date">2026-09-19</span></li>
+  <li><a href="/唯识/瑜伽论记卷12上-02住品四五地六地">遁伦《瑜伽论记》卷12上-02　住品（四）·五地六地</a><span class="dt-article-date">2026-09-19</span></li>
+  <li><a href="/唯识/瑜伽论记卷12上-03住品五第七地">遁伦《瑜伽论记》卷12上-03　住品（五）·第七地</a><span class="dt-article-date">2026-09-19</span></li>
+  <li><a href="/唯识/瑜伽论记卷12上-04住品六第八地">遁伦《瑜伽论记》卷12上-04　住品（六）·第八地</a><span class="dt-article-date">2026-09-19</span></li>
+  <li><a href="/唯识/瑜伽论记卷12上-05住品七九地十地">遁伦《瑜伽论记》卷12上-05　住品（七）·九地十地</a><span class="dt-article-date">2026-09-19</span></li>
+  <li><a href="/唯识/瑜伽论记卷12上-06住品总结十三住">遁伦《瑜伽论记》卷12上-06　住品总结·十三住</a><span class="dt-article-date">2026-09-19</span></li>
+  <li><a href="/唯识/瑜伽论记卷12上-07生品地品行品">遁伦《瑜伽论记》卷12上-07　生品地品行品</a><span class="dt-article-date">2026-09-19</span></li>
+  <li><a href="/唯识/瑜伽论记卷12下-01建立品相好与十力">遁伦《瑜伽论记》卷12下-01　建立品·相好与十力</a><span class="dt-article-date">2026-09-19</span></li>
+  <li><a href="/唯识/瑜伽论记卷12下-02建立品无畏与念住">遁伦《瑜伽论记》卷12下-02　建立品·无畏与念住</a><span class="dt-article-date">2026-09-20</span></li>
+  <li><a href="/唯识/瑜伽论记卷12下-03建立品毕菩萨地总收">遁伦《瑜伽论记》卷12下-03　建立品毕·菩萨地总收</a><span class="dt-article-date">2026-09-20</span></li>
+  <li><a href="/唯识/瑜伽论记卷12下-04有余依地与无余依地">遁伦《瑜伽论记》卷12下-04　有余依地与无余依地</a><span class="dt-article-date">2026-09-20</span></li>
+  <li><a href="/唯识/瑜伽论记卷13上-01摄抉择分总说八相证本识">遁伦《瑜伽论记》卷13上-01　摄抉择分总说·八相证本识</a><span class="dt-article-date">2026-09-20</span></li>
+  <li><a href="/唯识/瑜伽论记卷13上-02八相证本识下">遁伦《瑜伽论记》卷13上-02　八相证本识（下）</a><span class="dt-article-date">2026-09-20</span></li>
+  <li><a href="/唯识/瑜伽论记卷13上-03广分别义所缘转相">遁伦《瑜伽论记》卷13上-03　广分别义·所缘转相</a><span class="dt-article-date">2026-09-20</span></li>
+  <li><a href="/唯识/瑜伽论记卷13上-04相应转相与俱转相">遁伦《瑜伽论记》卷13上-04　相应转相与俱转相</a><span class="dt-article-date">2026-09-21</span></li>
+  <li><a href="/唯识/瑜伽论记卷13上-05还灭相心意识门毕">遁伦《瑜伽论记》卷13上-05　还灭相·心意识门毕</a><span class="dt-article-date">2026-09-21</span></li>
+  <li><a href="/唯识/瑜伽论记卷13上-06识身遍知与二善巧">遁伦《瑜伽论记》卷13上-06　识身遍知与二善巧</a><span class="dt-article-date">2026-09-21</span></li>
+  <li><a href="/唯识/瑜伽论记卷13上-07证成道理三世相">遁伦《瑜伽论记》卷13上-07　证成道理·三世相</a><span class="dt-article-date">2026-09-21</span></li>
+  <li><a href="/唯识/瑜伽论记卷13上-08抉择因缘四缘">遁伦《瑜伽论记》卷13上-08　抉择因缘·四缘</a><span class="dt-article-date">2026-09-21</span></li>
+  <li><a href="/唯识/瑜伽论记卷13下-01缘无生心义">遁伦《瑜伽论记》卷13下-01　缘无生心义</a><span class="dt-article-date">2026-09-21</span></li>
+  <li><a href="/唯识/瑜伽论记卷13下-02不相应行二十二法">遁伦《瑜伽论记》卷13下-02　不相应行二十二法</a><span class="dt-article-date">2026-09-21</span></li>
+  <li><a href="/唯识/瑜伽论记卷13下-03明其种子">遁伦《瑜伽论记》卷13下-03　明其种子</a><span class="dt-article-date">2026-09-21</span></li>
+  <li><a href="/唯识/瑜伽论记卷14上-01解业义上表业律仪">遁伦《瑜伽论记》卷14上-01　解业义（上）·表业律仪</a><span class="dt-article-date">2026-09-22</span></li>
+  <li><a href="/唯识/瑜伽论记卷14上-02解业义下处中业">遁伦《瑜伽论记》卷14上-02　解业义（下）·处中业</a><span class="dt-article-date">2026-09-22</span></li>
+  <li><a href="/唯识/瑜伽论记卷14上-03无想定与灭尽定">遁伦《瑜伽论记》卷14上-03　无想定与灭尽定</a><span class="dt-article-date">2026-09-22</span></li>
+  <li><a href="/唯识/瑜伽论记卷14上-04虚空与非择灭">遁伦《瑜伽论记》卷14上-04　虚空与非择灭</a><span class="dt-article-date">2026-09-22</span></li>
+  <li><a href="/唯识/瑜伽论记卷14上-05蕴善巧五蕴自性">遁伦《瑜伽论记》卷14上-05　蕴善巧·五蕴自性</a><span class="dt-article-date">2026-09-23</span></li>
+  <li><a href="/唯识/瑜伽论记卷14下-01识蕴差别识住">遁伦《瑜伽论记》卷14下-01　识蕴差别·识住</a><span class="dt-article-date">2026-09-23</span></li>
+  <li><a href="/唯识/瑜伽论记卷14下-02识蕴六门分别">遁伦《瑜伽论记》卷14下-02　识蕴六门分别</a><span class="dt-article-date">2026-09-23</span></li>
+  <li><a href="/唯识/瑜伽论记卷14下-03名色分别破极微">遁伦《瑜伽论记》卷14下-03　名色分别·破极微</a><span class="dt-article-date">2026-09-23</span></li>
+  <li><a href="/唯识/瑜伽论记卷14下-04三种微细与五种极微">遁伦《瑜伽论记》卷14下-04　三种微细与五种极微</a><span class="dt-article-date">2026-09-23</span></li>
+  <li><a href="/唯识/瑜伽论记卷14下-05色生起门大种变异">遁伦《瑜伽论记》卷14下-05　色生起门·大种变异</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/唯识/瑜伽论记卷14下-06安立门流门业门">遁伦《瑜伽论记》卷14下-06　安立门流门业门</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/唯识/瑜伽论记卷14下-07色法刹那灭">遁伦《瑜伽论记》卷14下-07　色法刹那灭</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/唯识/瑜伽论记卷14下-08色门后三门四蕴名">遁伦《瑜伽论记》卷14下-08　色门后三门·四蕴名</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/唯识/瑜伽论记卷15上-01善蕴与本惑九门">遁伦《瑜伽论记》卷15上-01　善蕴与本惑九门</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/唯识/瑜伽论记卷15上-02随惑与无记九门">遁伦《瑜伽论记》卷15上-02　随惑与无记九门</a><span class="dt-article-date">2026-10-24</span></li>
+  <li><a href="/唯识/瑜伽论记卷15上-03四谛十六行与三苦">遁伦《瑜伽论记》卷15上-03　四谛十六行与三苦</a><span class="dt-article-date">2026-10-24</span></li>
+  <li><a href="/唯识/瑜伽论记卷15上-04六种谛现观">遁伦《瑜伽论记》卷15上-04　六种谛现观</a><span class="dt-article-date">2026-10-24</span></li>
+  <li><a href="/唯识/瑜伽论记卷15下-01不相应行分位">遁伦《瑜伽论记》卷15下-01　不相应行分位</a><span class="dt-article-date">2026-10-24</span></li>
+  <li><a href="/唯识/瑜伽论记卷15下-02五蕴诸门蕴善巧毕">遁伦《瑜伽论记》卷15下-02　五蕴诸门·蕴善巧毕</a><span class="dt-article-date">2026-10-24</span></li>
+  <li><a href="/唯识/瑜伽论记卷15下-03界善巧">遁伦《瑜伽论记》卷15下-03　界善巧</a><span class="dt-article-date">2026-10-24</span></li>
+  <li><a href="/唯识/瑜伽论记卷15下-04处善巧与缘起善巧">遁伦《瑜伽论记》卷15下-04　处善巧与缘起善巧</a><span class="dt-article-date">2026-10-24</span></li>
+  <li><a href="/唯识/瑜伽论记卷16上-01处非处善巧根善巧">遁伦《瑜伽论记》卷16上-01　处非处善巧·根善巧</a><span class="dt-article-date">2026-10-24</span></li>
+  <li><a href="/唯识/瑜伽论记卷16上-02根善巧异熟诸地">遁伦《瑜伽论记》卷16上-02　根善巧·异熟诸地</a><span class="dt-article-date">2026-10-24</span></li>
+  <li><a href="/唯识/瑜伽论记卷16上-03根善巧死生得舍">遁伦《瑜伽论记》卷16上-03　根善巧·死生得舍</a><span class="dt-article-date">2026-10-24</span></li>
+  <li><a href="/唯识/瑜伽论记卷16上-04根善巧依处证得">遁伦《瑜伽论记》卷16上-04　根善巧·依处证得</a><span class="dt-article-date">2026-10-24</span></li>
+  <li><a href="/唯识/瑜伽论记卷16上-05相摄四食五识意地毕">遁伦《瑜伽论记》卷16上-05　相摄四食·五识意地毕</a><span class="dt-article-date">2026-10-25</span></li>
+  <li><a href="/唯识/瑜伽论记卷16下-01三地抉择十种烦恼">遁伦《瑜伽论记》卷16下-01　三地抉择·十种烦恼</a><span class="dt-article-date">2026-10-25</span></li>
+  <li><a href="/唯识/瑜伽论记卷16下-02烦恼迷断差别">遁伦《瑜伽论记》卷16下-02　烦恼迷断差别</a><span class="dt-article-date">2026-10-25</span></li>
+  <li><a href="/唯识/瑜伽论记卷16下-03烦恼对治与见道心数">遁伦《瑜伽论记》卷16下-03　烦恼对治与见道心数</a><span class="dt-article-date">2026-10-25</span></li>
+  <li><a href="/唯识/瑜伽论记卷16下-04烦恼七门九门">遁伦《瑜伽论记》卷16下-04　烦恼七门九门</a><span class="dt-article-date">2026-10-25</span></li>
+  <li><a href="/唯识/瑜伽论记卷17上-01烦恼杂染毕">遁伦《瑜伽论记》卷17上-01　烦恼杂染毕</a><span class="dt-article-date">2026-10-26</span></li>
+  <li><a href="/唯识/瑜伽论记卷17上-02业杂染九门">遁伦《瑜伽论记》卷17上-02　业杂染九门</a><span class="dt-article-date">2026-10-26</span></li>
+  <li><a href="/唯识/瑜伽论记卷17上-03业抉择八段">遁伦《瑜伽论记》卷17上-03　业抉择八段</a><span class="dt-article-date">2026-10-26</span></li>
+  <li><a href="/唯识/瑜伽论记卷17上-04生杂染三摩呬多地十门">遁伦《瑜伽论记》卷17上-04　生杂染·三摩呬多地十门</a><span class="dt-article-date">2026-10-26</span></li>
+  <li><a href="/唯识/瑜伽论记卷17下-01分别二定与引经">遁伦《瑜伽论记》卷17下-01　分别二定与引经</a><span class="dt-article-date">2026-10-26</span></li>
+  <li><a href="/唯识/瑜伽论记卷17下-02法因缘经与眠经">遁伦《瑜伽论记》卷17下-02　法因缘经与眠经</a><span class="dt-article-date">2026-10-26</span></li>
+  <li><a href="/唯识/瑜伽论记卷17下-03静虑支九门">遁伦《瑜伽论记》卷17下-03　静虑支九门</a><span class="dt-article-date">2026-10-26</span></li>
+  <li><a href="/唯识/瑜伽论记卷17下-04四种修定有心无心地">遁伦《瑜伽论记》卷17下-04　四种修定·有心无心地</a><span class="dt-article-date">2026-10-26</span></li>
+  <li><a href="/唯识/瑜伽论记卷18上-01闻所成地抉择">遁伦《瑜伽论记》卷18上-01　闻所成地抉择</a><span class="dt-article-date">2026-10-26</span></li>
+  <li><a href="/唯识/瑜伽论记卷18上-02四谛离二边杂抉择">遁伦《瑜伽论记》卷18上-02　四谛离二边·杂抉择</a><span class="dt-article-date">2026-10-26</span></li>
+  <li><a href="/唯识/瑜伽论记卷18上-03思所成地破计我">遁伦《瑜伽论记》卷18上-03　思所成地·破计我</a><span class="dt-article-date">2026-10-26</span></li>
+  <li><a href="/唯识/瑜伽论记卷18上-04二十九门一">遁伦《瑜伽论记》卷18上-04　二十九门（一）</a><span class="dt-article-date">2026-10-26</span></li>
+  <li><a href="/唯识/瑜伽论记卷18上-05二十九门二">遁伦《瑜伽论记》卷18上-05　二十九门（二）</a><span class="dt-article-date">2026-10-26</span></li>
+  <li><a href="/唯识/瑜伽论记卷18上-06四食与命终受生">遁伦《瑜伽论记》卷18上-06　四食与命终受生</a><span class="dt-article-date">2026-10-27</span></li>
+  <li><a href="/唯识/瑜伽论记卷18上-07思所成地抉择毕">遁伦《瑜伽论记》卷18上-07　思所成地抉择毕</a><span class="dt-article-date">2026-10-29</span></li>
+  <li><a href="/唯识/瑜伽论记卷18下-01修慧地无种性有情">遁伦《瑜伽论记》卷18下-01　修慧地·无种性有情</a><span class="dt-article-date">2026-10-29</span></li>
+  <li><a href="/唯识/瑜伽论记卷18下-02声闻地抉择四谛">遁伦《瑜伽论记》卷18下-02　声闻地抉择·四谛</a><span class="dt-article-date">2026-10-29</span></li>
+  <li><a href="/唯识/瑜伽论记卷18下-03毗奈耶出罪清净">遁伦《瑜伽论记》卷18下-03　毗奈耶出罪清净</a><span class="dt-article-date">2026-10-29</span></li>
+  <li><a href="/唯识/瑜伽论记卷18下-04六十四门一诸智">遁伦《瑜伽论记》卷18下-04　六十四门（一）·诸智</a><span class="dt-article-date">2026-10-29</span></li>
+  <li><a href="/唯识/瑜伽论记卷19上-01六十四门二根律仪">遁伦《瑜伽论记》卷19上-01　六十四门（二）·根律仪</a><span class="dt-article-date">2026-10-29</span></li>
+  <li><a href="/唯识/瑜伽论记卷19上-02六十四门三现观">遁伦《瑜伽论记》卷19上-02　六十四门（三）·现观</a><span class="dt-article-date">2026-10-29</span></li>
+  <li><a href="/唯识/瑜伽论记卷19上-03六现观声闻地毕">遁伦《瑜伽论记》卷19上-03　六现观·声闻地毕</a><span class="dt-article-date">2026-10-29</span></li>
+  <li><a href="/唯识/瑜伽论记卷19上-04菩萨地抉择发心五事">遁伦《瑜伽论记》卷19上-04　菩萨地抉择·发心五事</a><span class="dt-article-date">2026-10-29</span></li>
+  <li><a href="/唯识/瑜伽论记卷19上-05五事异不异">遁伦《瑜伽论记》卷19上-05　五事异不异</a><span class="dt-article-date">2026-10-29</span></li>
+  <li><a href="/唯识/瑜伽论记卷19上-06五事色等门上">遁伦《瑜伽论记》卷19上-06　五事色等门（上）</a><span class="dt-article-date">2026-10-29</span></li>
+  <li><a href="/唯识/瑜伽论记卷19上-07五事色等门下">遁伦《瑜伽论记》卷19上-07　五事色等门（下）</a><span class="dt-article-date">2026-10-29</span></li>
+  <li><a href="/唯识/瑜伽论记卷19下-01五事第二颂离言自性">遁伦《瑜伽论记》卷19下-01　五事第二颂·离言自性</a><span class="dt-article-date">2026-10-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷19下-02本有无漏种子与三祇">遁伦《瑜伽论记》卷19下-02　本有无漏种子与三祇</a><span class="dt-article-date">2026-10-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷19下-03十四种密意三无自性">遁伦《瑜伽论记》卷19下-03　十四种密意·三无自性</a><span class="dt-article-date">2026-10-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷19下-04三性初颂遍计五种">遁伦《瑜伽论记》卷19下-04　三性初颂·遍计五种</a><span class="dt-article-date">2026-10-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷20上-01三性第二颂九门">遁伦《瑜伽论记》卷20上-01　三性第二颂九门</a><span class="dt-article-date">2026-10-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷20上-02三性第三颂伏藏喻">遁伦《瑜伽论记》卷20上-02　三性第三颂·伏藏喻</a><span class="dt-article-date">2026-10-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷20上-03转依四相与舍戒四缘">遁伦《瑜伽论记》卷20上-03　转依四相与舍戒四缘</a><span class="dt-article-date">2026-10-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷20上-04六度十清净功德品">遁伦《瑜伽论记》卷20上-04　六度十清净·功德品</a><span class="dt-article-date">2026-10-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷20上-05胜义谛四相阿陀那识">遁伦《瑜伽论记》卷20上-05　胜义谛四相·阿陀那识</a><span class="dt-article-date">2026-10-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷20下-01三性三无性三时教">遁伦《瑜伽论记》卷20下-01　三性三无性·三时教</a><span class="dt-article-date">2026-10-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷20下-02慈氏问止观上">遁伦《瑜伽论记》卷20下-02　慈氏问止观（上）</a><span class="dt-article-date">2026-10-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷20下-03慈氏问止观下">遁伦《瑜伽论记》卷20下-03　慈氏问止观（下）</a><span class="dt-article-date">2026-10-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷21上-01观自在问诸地">遁伦《瑜伽论记》卷21上-01　观自在问诸地</a><span class="dt-article-date">2026-10-30</span></li>
+  <li><a href="/唯识/瑜伽论记卷21上-02曼殊室利问三身">遁伦《瑜伽论记》卷21上-02　曼殊室利问三身</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/唯识/卷21上-03　住品抉择与十八不共">遁伦《瑜伽论记》卷21上-03　住品抉择与十八不共</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/唯识/卷21上-04　宝积经邪行与正行">遁伦《瑜伽论记》卷21上-04　宝积经邪行与正行</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/唯识/卷21下-01　十三中道行与二无我">遁伦《瑜伽论记》卷21下-01　十三中道行与二无我</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/唯识/卷21下-02　宝积经终与有余无余地">遁伦《瑜伽论记》卷21下-02　宝积经终与有余无余地</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/唯识/卷21下-03　摄释分与名句文身">遁伦《瑜伽论记》卷21下-03　摄释分与名句文身</a><span class="dt-article-date">2026-11-02</span></li>
+  <li><a href="/唯识/卷21下-04　十义与十二分教">遁伦《瑜伽论记》卷21下-04　十义与十二分教</a><span class="dt-article-date">2026-11-02</span></li>
+  <li><a href="/唯识/卷22上-01　安他令听与学胜利">遁伦《瑜伽论记》卷22上-01　安他令听与学胜利</a><span class="dt-article-date">2026-11-02</span></li>
+  <li><a href="/唯识/卷22上-02　摄异门分白品诸门">遁伦《瑜伽论记》卷22上-02　摄异门分白品诸门</a><span class="dt-article-date">2026-11-02</span></li>
+  <li><a href="/唯识/卷22上-03　欲法僧与黑品异门">遁伦《瑜伽论记》卷22上-03　欲法僧与黑品异门</a><span class="dt-article-date">2026-11-02</span></li>
+  <li><a href="/唯识/卷22下-01　想行速通二十门">遁伦《瑜伽论记》卷22下-01　想行速通二十门</a><span class="dt-article-date">2026-11-03</span></li>
+  <li><a href="/唯识/卷22下-02　因等六门与六十二见">遁伦《瑜伽论记》卷22下-02　因等六门与六十二见</a><span class="dt-article-date">2026-11-03</span></li>
+  <li><a href="/唯识/卷22下-03　断支二品十八门">遁伦《瑜伽论记》卷22下-03　断支二品十八门</a><span class="dt-article-date">2026-11-03</span></li>
+  <li><a href="/唯识/卷23上-01　知事诤芽无厌诸门">遁伦《瑜伽论记》卷23上-01　知事诤芽无厌诸门</a><span class="dt-article-date">2026-11-03</span></li>
+  <li><a href="/唯识/卷23上-02　少欲住等十八门">遁伦《瑜伽论记》卷23上-02　少欲住等十八门</a><span class="dt-article-date">2026-11-03</span></li>
+  <li><a href="/唯识/卷23上-03　处择安立与烦恼业门">遁伦《瑜伽论记》卷23上-03　处择安立与烦恼业门</a><span class="dt-article-date">2026-11-03</span></li>
+  <li><a href="/唯识/卷23上-04　十六种业与三种空">遁伦《瑜伽论记》卷23上-04　十六种业与三种空</a><span class="dt-article-date">2026-11-03</span></li>
+  <li><a href="/唯识/卷23下-01　离欲诸门与菩萨胜相">遁伦《瑜伽论记》卷23下-01　离欲诸门与菩萨胜相</a><span class="dt-article-date">2026-11-04</span></li>
+  <li><a href="/唯识/卷23下-02　上贪多住二十六门">遁伦《瑜伽论记》卷23下-02　上贪多住二十六门</a><span class="dt-article-date">2026-11-04</span></li>
+  <li><a href="/唯识/卷23下-03　缘起立门与苦聚谛观">遁伦《瑜伽论记》卷23下-03　缘起立门与苦聚谛观</a><span class="dt-article-date">2026-11-05</span></li>
+  <li><a href="/唯识/卷23下-04　微智甚深与二谛七门">遁伦《瑜伽论记》卷23下-04　微智甚深与二谛七门</a><span class="dt-article-date">2026-11-05</span></li>
+  <li><a href="/唯识/卷24上-01　触缘有灭与四食">遁伦《瑜伽论记》卷24上-01　触缘有灭与四食</a><span class="dt-article-date">2026-11-05</span></li>
+  <li><a href="/唯识/卷24上-02　四谛十二门与百八爱行">遁伦《瑜伽论记》卷24上-02　四谛十二门与百八爱行</a><span class="dt-article-date">2026-11-05</span></li>
+  <li><a href="/唯识/卷24上-03　七界与诸受十六门">遁伦《瑜伽论记》卷24上-03　七界与诸受十六门</a><span class="dt-article-date">2026-11-06</span></li>
+  <li><a href="/唯识/卷24下-01　沙门四处与念住诸门">遁伦《瑜伽论记》卷24下-01　沙门四处与念住诸门</a><span class="dt-article-date">2026-11-06</span></li>
+  <li><a href="/唯识/卷24下-02　道品诸门与息念证净">遁伦《瑜伽论记》卷24下-02　道品诸门与息念证净</a><span class="dt-article-date">2026-11-06</span></li>
+  <li><a href="/唯识/卷24下-03　制戒十利与七灭诤">遁伦《瑜伽论记》卷24下-03　制戒十利与七灭诤</a><span class="dt-article-date">2026-11-06</span></li>
+  <li><a href="/唯识/卷24下-04　遍知诸门与本母事">遁伦《瑜伽论记》卷24下-04　遍知诸门与本母事</a><span class="dt-article-date">2026-11-08</span></li>
 </ul>
