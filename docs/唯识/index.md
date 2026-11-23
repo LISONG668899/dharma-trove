@@ -353,4 +353,5 @@ title: 唯识
   <li><a href="/唯识/成唯识论卷06下　二十随烦恼">成唯识论卷06下　二十随烦恼</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/成唯识论卷07上　不定心所与心所一异">成唯识论卷07上　不定心所与心所一异</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/成唯识论卷07中　六识现起与八识俱转">成唯识论卷07中　六识现起与八识俱转</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷07下　唯识正义与四缘">成唯识论卷07下　唯识正义与四缘</a><span class="dt-article-date">2026-11-23</span></li>
 </ul>
