@@ -357,4 +357,5 @@ title: 唯识
   <li><a href="/唯识/成唯识论卷08上　十因五果与种现相缘">成唯识论卷08上　十因五果与种现相缘</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/成唯识论卷08中　业与二取习气与十二有支">成唯识论卷08中　业与二取习气与十二有支</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/成唯识论卷08下　二种生死与三性">成唯识论卷08下　二种生死与三性</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷09上　三无性与资粮加行">成唯识论卷09上　三无性与资粮加行</a><span class="dt-article-date">2026-11-23</span></li>
 </ul>
