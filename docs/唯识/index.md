@@ -337,4 +337,5 @@ title: 唯识
   <li><a href="/唯识/成唯识论卷01中　破外道实法">成唯识论卷01中　破外道实法</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/成唯识论卷01下　破小乘实色与不相应行">成唯识论卷01下　破小乘实色与不相应行</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/成唯识论卷02上　破四相名句与无为">成唯识论卷02上　破四相名句与无为</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷02中　三能变与种子本有新熏">成唯识论卷02中　三能变与种子本有新熏</a><span class="dt-article-date">2026-11-23</span></li>
 </ul>
