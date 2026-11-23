@@ -333,4 +333,5 @@ title: 唯识
   <li><a href="/唯识/窥基《大乘法苑义林章》（五十四）佛土章（下）·果相、分量、处所、共不共与诸门">窥基《大乘法苑义林章》（五十四）佛土章（下）·果相、分量、处所、共不共与诸门</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/窥基《大乘法苑义林章》（五十五）译后记·全书要点与不共之处">窥基《大乘法苑义林章》（五十五）译后记·全书要点与不共之处</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/成唯识论　导论">成唯识论　导论</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷01上　造论缘起与破实我">成唯识论卷01上　造论缘起与破实我</a><span class="dt-article-date">2026-11-23</span></li>
 </ul>
