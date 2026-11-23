@@ -23,6 +23,7 @@ title: 大圆满
   <li><a href="/大圆满/黑蛇总义">荣索班智达《黑蛇总义》</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/大圆满/立断精要教授">无垢光尊者《立断精要教授》</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/大圆满/修时观心六法">无垢光尊者《修时观心六法》</a><span class="dt-article-date">2026-08-27</span></li>
+  <li><a href="/大圆满/如实直指无改之基次第">无垢光尊者《如实直指无改之基次第》</a><span class="dt-article-date">2026-11-16</span></li>
   <li><a href="/大圆满/普贤六界续·十六种辨别">无垢光尊者《普贤六界续·十六种辨别》</a><span class="dt-article-date">2026-09-06</span></li>
   <li><a href="/大圆满/狮吼论">晋美林巴《狮吼论》</a><span class="dt-article-date">2026-08-27</span></li>
   <li><a href="/大圆满/大圆满·直见实相">晋美林巴《大圆满·直见实相》</a><span class="dt-article-date">2026-09-14</span></li>
@@ -47,7 +48,9 @@ title: 大圆满
   <li><a href="/大圆满/蒋贡康楚《知识总汇·详说以窍诀为主的金刚乘修习次第（九）三金刚念修与零散引导》">蒋贡康楚仁波切《知识总汇·详说以窍诀为主的金刚乘修习次第（九）三金刚念修与零散引导》</a><span class="dt-article-date">2026-11-06</span></li>
   <li><a href="/大圆满/蒋贡康楚《知识总汇·详细抉择密咒前译派的果位安立》">蒋贡康楚仁波切《知识总汇·详细抉择密咒前译派的果位安立》</a><span class="dt-article-date">2026-11-06</span></li>
   <li><a href="/大圆满/见修行果之窍诀">娘啦·白玛邓灯《见修行果之窍诀》</a><span class="dt-article-date">2026-09-23</span></li>
+  <li><a href="/大圆满/蒋扬钦哲旺波《辨析宗义之言·了义耳饰》">蒋扬钦哲旺波《辨析宗义之言·了义耳饰》</a><span class="dt-article-date">2026-11-12</span></li>
   <li><a href="/大圆满/七句祈祷文释·白莲花">麦彭仁波切《七句祈祷文释·白莲花》</a><span class="dt-article-date">2026-09-10</span></li>
+  <li><a href="/大圆满/除暗明灯之窍诀细说">麦彭仁波切《除暗明灯》窍诀细说</a><span class="dt-article-date">2026-10-03</span></li>
   <li><a href="/大圆满/彻却关要">麦彭仁波切《彻却关要》</a><span class="dt-article-date">2026-08-29</span></li>
   <li><a href="/大圆满/立断要害之窍诀">麦彭仁波切《立断要害之窍诀》</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/大圆满/三句要害之窍诀">麦彭仁波切《三句要害之窍诀》</a><span class="dt-article-date">2026-09-21</span></li>
@@ -56,18 +59,31 @@ title: 大圆满
   <li><a href="/大圆满/心之自性">麦彭仁波切《心之自性》</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/大圆满/心之本体">麦彭仁波切《心之本体》</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/大圆满/自证释疑金刚宝镜">麦彭仁波切《自证释疑金刚宝镜》</a><span class="dt-article-date">2026-09-21</span></li>
-  <li><a href="/大圆满/除暗明灯之窍诀细说">麦彭仁波切《除暗明灯》窍诀细说</a><span class="dt-article-date">2026-10-03</span></li>
-  <li><a href="/大圆满/堪布阿琼一句教言">堪布阿琼《一句教言》</a><span class="dt-article-date">2026-09-24</span></li>
-  <li><a href="/大圆满/堪布阿琼所说五智">堪布阿琼《五智》</a><span class="dt-article-date">2026-09-24</span></li>
-  <li><a href="/大圆满/奇哉教言">堪布阿琼《奇哉教言》</a><span class="dt-article-date">2026-09-24</span></li>
+  <li><a href="/大圆满/麦彭仁波切《掌中佛窍诀》及护持法要">麦彭仁波切《掌中佛窍诀》及护持法要</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/大圆满/麦彭仁波切《大圆满见地觉受道歌·妙音乐》">麦彭仁波切《大圆满见地觉受道歌·妙音乐》</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/大圆满/麦彭仁波切《宣说本心光明义·金刚心要》">麦彭仁波切《宣说本心光明义·金刚心要》</a><span class="dt-article-date">2026-11-22</span></li>
+  <li><a href="/大圆满/麦彭仁波切《辨析本心光明义》">麦彭仁波切《辨析本心光明义》</a><span class="dt-article-date">2026-11-22</span></li>
+  <li><a href="/大圆满/麦彭仁波切《本心别辨·金刚宝鬘》">麦彭仁波切《本心别辨·金刚宝鬘》</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/大圆满/麦彭仁波切《章嘉见歌释》">麦彭仁波切《章嘉见歌释》</a><span class="dt-article-date">2026-11-22</span></li>
+  <li><a href="/大圆满/麦彭仁波切《石中熔金夹注·真如明灯》">麦彭仁波切《石中熔金夹注·真如明灯》</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/大圆满/麦彭仁波切《窍诀见鬘夹注·珍宝藏》">麦彭仁波切《窍诀见鬘夹注·珍宝藏》</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/大圆满/麦彭仁波切《般若摄颂释·如实无倒趋入佛母密意之善说》">麦彭仁波切《般若摄颂释·如实无倒趋入佛母密意之善说》</a><span class="dt-article-date">2026-11-22</span></li>
+  <li><a href="/大圆满/麦彭仁波切《般若摄颂释·经论配合方式·无能胜口传》">麦彭仁波切《般若摄颂释·经论配合方式·无能胜口传》</a><span class="dt-article-date">2026-11-22</span></li>
+  <li><a href="/大圆满/麦彭仁波切《般若摄颂释·经论配合方式·无能胜教言》">麦彭仁波切《般若摄颂释·经论配合方式·无能胜教言》</a><span class="dt-article-date">2026-11-22</span></li>
+  <li><a href="/大圆满/麦彭仁波切《诸事成就吉祥妙音》">麦彭仁波切《诸事成就吉祥妙音》</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/大圆满/法性本来面目">堪布阿琼《法性本来面目》</a><span class="dt-article-date">2026-09-23</span></li>
+  <li><a href="/大圆满/奇哉教言">堪布阿琼《奇哉教言》</a><span class="dt-article-date">2026-09-24</span></li>
   <li><a href="/大圆满/如是法性等">堪布阿琼《如是法性等》</a><span class="dt-article-date">2026-09-24</span></li>
   <li><a href="/大圆满/当善思之">堪布阿琼《当善思之》</a><span class="dt-article-date">2026-09-24</span></li>
   <li><a href="/大圆满/教言犹如回声妙音">堪布阿琼《教言犹如回声妙音》</a><span class="dt-article-date">2026-09-24</span></li>
   <li><a href="/大圆满/本初清净离戏">堪布阿琼《本初清净离戏》</a><span class="dt-article-date">2026-09-24</span></li>
+  <li><a href="/大圆满/堪布阿琼一句教言">堪布阿琼《一句教言》</a><span class="dt-article-date">2026-09-24</span></li>
+  <li><a href="/大圆满/堪布阿琼所说五智">堪布阿琼《五智》</a><span class="dt-article-date">2026-09-24</span></li>
   <li><a href="/大圆满/圆满二资粮前行">堪布阿琼辑《圆满二资粮前行》</a><span class="dt-article-date">2026-09-24</span></li>
   <li><a href="/大圆满/大圆满不共四种三昧耶">祖古促洛《大圆满不共四种三昧耶》</a><span class="dt-article-date">2026-08-27</span></li>
   <li><a href="/大圆满/本然实相安住本位之歌">蒋扬钦哲·确吉罗卓《本然实相安住本位之歌》</a><span class="dt-article-date">2026-09-13</span></li>
+  <li><a href="/大圆满/大圆满教言">蒋扬钦哲·确吉罗卓《大圆满教言》</a><span class="dt-article-date">2026-11-16</span></li>
+  <li><a href="/大圆满/扎西次仁《贡觉拉琼阿波尊者略传》">扎西次仁《贡觉拉琼阿波尊者略传》</a><span class="dt-article-date">2026-11-08</span></li>
   <li><a href="/大圆满/拉琼阿波《自我策励·清净良友的肺腑之言》">拉琼阿波《自我策励·清净良友的肺腑之言》</a><span class="dt-article-date">2026-11-06</span></li>
   <li><a href="/大圆满/拉琼阿波《喀多殊胜化身仁波切于罗布林卡受看管期间所呈书信》">拉琼阿波《喀多殊胜化身仁波切于罗布林卡受看管期间所呈书信》</a><span class="dt-article-date">2026-11-06</span></li>
   <li><a href="/大圆满/拉琼阿波《圣仙口传·梵音之歌》">拉琼阿波《圣仙口传·梵音之歌》</a><span class="dt-article-date">2026-11-06</span></li>
@@ -84,24 +100,8 @@ title: 大圆满
   <li><a href="/大圆满/遣除障碍·护持心性本面之道歌">堪布岗夏《遣除障碍·护持心性本面之道歌》</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/大圆满/上师瑜伽·加持总集">堪布岗夏《上师瑜伽·加持总集》</a><span class="dt-article-date">2026-09-21</span></li>
   <li><a href="/大圆满/赠郭桑登之教言道歌">堪布岗夏《赠郭桑登之教言道歌》</a><span class="dt-article-date">2026-09-21</span></li>
+  <li><a href="/大圆满/多芒扬唐仁波切《见修行三略摄》">多芒扬唐仁波切《见修行三略摄》</a><span class="dt-article-date">2026-11-09</span></li>
   <li><a href="/大圆满/观音上师开示《三句击要》">嘉瓦仁波切《三句击要》开示</a><span class="dt-article-date">2026-09-14</span></li>
   <li><a href="/大圆满/任运八门——大圆满基现之教理探原">任运八门——大圆满基现之教理探原</a><span class="dt-article-date">2026-09-06</span></li>
-  <li><a href="/大圆满/扎西次仁《贡觉拉琼阿波尊者略传》">扎西次仁《贡觉拉琼阿波尊者略传》</a><span class="dt-article-date">2026-11-08</span></li>
-  <li><a href="/大圆满/多芒扬唐仁波切《见修行三略摄》">多芒扬唐仁波切《见修行三略摄》</a><span class="dt-article-date">2026-11-09</span></li>
-  <li><a href="/大圆满/蒋扬钦哲旺波《辨析宗义之言·了义耳饰》">蒋扬钦哲旺波《辨析宗义之言·了义耳饰》</a><span class="dt-article-date">2026-11-12</span></li>
-  <li><a href="/大圆满/如实直指无改之基次第">如实直指无改之基次第</a><span class="dt-article-date">2026-11-16</span></li>
-  <li><a href="/大圆满/大圆满教言">大圆满教言</a><span class="dt-article-date">2026-11-16</span></li>
-  <li><a href="/大圆满/谈锡永《净治明相.导论》综述">谈锡永《净治明相.导论》综述</a><span class="dt-article-date">2026-11-17</span></li>
-  <li><a href="/大圆满/麦彭仁波切《章嘉见歌释》">麦彭仁波切《章嘉见歌释》</a><span class="dt-article-date">2026-11-22</span></li>
-  <li><a href="/大圆满/麦彭仁波切《辨析本心光明义》">麦彭仁波切《辨析本心光明义》</a><span class="dt-article-date">2026-11-22</span></li>
-  <li><a href="/大圆满/麦彭仁波切《宣说本心光明义·金刚心要》">麦彭仁波切《宣说本心光明义·金刚心要》</a><span class="dt-article-date">2026-11-22</span></li>
-  <li><a href="/大圆满/麦彭仁波切《般若摄颂释·如实无倒趋入佛母密意之善说》">麦彭仁波切《般若摄颂释·如实无倒趋入佛母密意之善说》</a><span class="dt-article-date">2026-11-22</span></li>
-  <li><a href="/大圆满/麦彭仁波切《般若摄颂释·经论配合方式·无能胜口传》">麦彭仁波切《般若摄颂释·经论配合方式·无能胜口传》</a><span class="dt-article-date">2026-11-22</span></li>
-  <li><a href="/大圆满/麦彭仁波切《般若摄颂释·经论配合方式·无能胜教言》">麦彭仁波切《般若摄颂释·经论配合方式·无能胜教言》</a><span class="dt-article-date">2026-11-22</span></li>
-  <li><a href="/大圆满/麦彭仁波切《本心别辨·金刚宝鬘》">麦彭仁波切《本心别辨·金刚宝鬘》</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/大圆满/麦彭仁波切《大圆满见地觉受道歌·妙音乐》">麦彭仁波切《大圆满见地觉受道歌·妙音乐》</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/大圆满/麦彭仁波切《石中熔金夹注·真如明灯》">麦彭仁波切《石中熔金夹注·真如明灯》</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/大圆满/麦彭仁波切《窍诀见鬘夹注·珍宝藏》">麦彭仁波切《窍诀见鬘夹注·珍宝藏》</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/大圆满/麦彭仁波切《掌中佛窍诀》及护持法要">麦彭仁波切《掌中佛窍诀》及护持法要</a><span class="dt-article-date">2026-11-23</span></li>
-  <li><a href="/大圆满/麦彭仁波切《诸事成就吉祥妙音》">麦彭仁波切《诸事成就吉祥妙音》</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/大圆满/谈锡永《净治明相.导论》综述">谈锡永《净治明相·导论》综述</a><span class="dt-article-date">2026-11-17</span></li>
 </ul>
