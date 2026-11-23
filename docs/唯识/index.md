@@ -351,4 +351,5 @@ title: 唯识
   <li><a href="/唯识/成唯识论卷06上　十一善心所">成唯识论卷06上　十一善心所</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/成唯识论卷06中　六根本烦恼">成唯识论卷06中　六根本烦恼</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/成唯识论卷06下　二十随烦恼">成唯识论卷06下　二十随烦恼</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷07上　不定心所与心所一异">成唯识论卷07上　不定心所与心所一异</a><span class="dt-article-date">2026-11-23</span></li>
 </ul>
