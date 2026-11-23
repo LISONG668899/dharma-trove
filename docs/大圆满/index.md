@@ -100,4 +100,5 @@ title: 大圆满
   <li><a href="/大圆满/麦彭仁波切《般若摄颂释·经论配合方式·无能胜教言》">麦彭仁波切《般若摄颂释·经论配合方式·无能胜教言》</a><span class="dt-article-date">2026-11-22</span></li>
   <li><a href="/大圆满/麦彭仁波切《本心别辨·金刚宝鬘》">麦彭仁波切《本心别辨·金刚宝鬘》</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/大圆满/麦彭仁波切《大圆满见地觉受道歌·妙音乐》">麦彭仁波切《大圆满见地觉受道歌·妙音乐》</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/大圆满/麦彭仁波切《石中熔金夹注·真如明灯》">麦彭仁波切《石中熔金夹注·真如明灯》</a><span class="dt-article-date">2026-11-23</span></li>
 </ul>
