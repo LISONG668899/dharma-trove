@@ -10,43 +10,54 @@ title: 大手印
 -->
 
 <ul class="dt-article-list">
-  <li><a href="/大手印/萨惹哈道歌二首">萨惹哈道歌二首</a><span class="dt-article-date">2026-09-16</span></li>
+  <li><a href="/大手印/月灯三昧经卷第一">《月灯三昧经》卷第一</a><span class="dt-article-date">2026-11-03</span></li>
+  <li><a href="/大手印/月灯三昧经卷第二">《月灯三昧经》卷第二</a><span class="dt-article-date">2026-11-03</span></li>
+  <li><a href="/大手印/月灯三昧经卷第三">《月灯三昧经》卷第三</a><span class="dt-article-date">2026-11-03</span></li>
+  <li><a href="/大手印/月灯三昧经卷第四">《月灯三昧经》卷第四</a><span class="dt-article-date">2026-11-03</span></li>
+  <li><a href="/大手印/月灯三昧经卷第五">《月灯三昧经》卷第五</a><span class="dt-article-date">2026-11-03</span></li>
+  <li><a href="/大手印/月灯三昧经卷第六">《月灯三昧经》卷第六</a><span class="dt-article-date">2026-11-03</span></li>
+  <li><a href="/大手印/月灯三昧经卷第七">《月灯三昧经》卷第七</a><span class="dt-article-date">2026-11-03</span></li>
+  <li><a href="/大手印/月灯三昧经卷第八">《月灯三昧经》卷第八</a><span class="dt-article-date">2026-11-03</span></li>
+  <li><a href="/大手印/月灯三昧经卷第九">《月灯三昧经》卷第九</a><span class="dt-article-date">2026-11-03</span></li>
+  <li><a href="/大手印/月灯三昧经卷第十">《月灯三昧经》卷第十</a><span class="dt-article-date">2026-11-03</span></li>
+  <li><a href="/大手印/佛说月灯三昧经">《佛说月灯三昧经》</a><span class="dt-article-date">2026-11-03</span></li>
+  <li><a href="/大手印/萨惹哈道歌二首">萨惹哈《道歌二首》</a><span class="dt-article-date">2026-09-16</span></li>
   <li><a href="/大手印/萨惹哈道歌宝藏行歌">萨惹哈《道歌宝藏行歌》</a><span class="dt-article-date">2026-10-06</span></li>
   <li><a href="/大手印/萨惹哈王后道歌">萨惹哈《王后道歌》</a><span class="dt-article-date">2026-10-06</span></li>
   <li><a href="/大手印/见修行果道歌">萨惹哈《见修行果道歌》</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/春滴·道歌宝藏">萨惹哈《春滴·道歌宝藏》</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/大手印口诀秘密金刚歌">萨惹哈《大手印口诀·秘密金刚歌》</a><span class="dt-article-date">2026-10-07</span></li>
-  <li><a href="/大手印/萨惹哈之歌（心之甚深）">萨惹哈之歌（心之甚深）</a><span class="dt-article-date">2026-10-21</span></li>
-  <li><a href="/大手印/萨惹哈之歌（挤虚空之乳）">萨惹哈之歌（挤虚空之乳）</a><span class="dt-article-date">2026-10-21</span></li>
-  <li><a href="/大手印/萨绕哈《多哈道歌》串讲·上：依麦彭仁波切释">萨绕哈《多哈道歌》串讲·上：依麦彭仁波切释</a><span class="dt-article-date">2026-10-06</span></li>
-  <li><a href="/大手印/萨绕哈《多哈道歌》串讲·下：依无二金刚难释">萨绕哈《多哈道歌》串讲·下：依无二金刚难释</a><span class="dt-article-date">2026-10-06</span></li>
+  <li><a href="/大手印/萨惹哈之歌（心之甚深）">《萨惹哈之歌》（心之甚深）</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/大手印/萨惹哈之歌（挤虚空之乳）">《萨惹哈之歌》（挤虚空之乳）</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/大手印/萨绕哈《多哈道歌》串讲·上：依麦彭仁波切释">萨惹哈《多哈道歌》串讲·上：依麦彭仁波切释</a><span class="dt-article-date">2026-10-06</span></li>
+  <li><a href="/大手印/萨绕哈《多哈道歌》串讲·下：依无二金刚难释">萨惹哈《多哈道歌》串讲·下：依无二金刚难释</a><span class="dt-article-date">2026-10-06</span></li>
   <li><a href="/大手印/道歌宝藏行歌释义灯">无生大乐《道歌宝藏行歌释·义灯》</a><span class="dt-article-date">2026-10-06</span></li>
   <li><a href="/大手印/自性不成立口诀">龙树《自性不成立口诀》</a><span class="dt-article-date">2026-10-07</span></li>
   <li><a href="/大手印/所缘修习">龙树《所缘修习》</a><span class="dt-article-date">2026-10-07</span></li>
-  <li><a href="/大手印/龙树之歌">龙树之歌</a><span class="dt-article-date">2026-10-22</span></li>
+  <li><a href="/大手印/龙树之歌">《龙树之歌》</a><span class="dt-article-date">2026-10-22</span></li>
   <li><a href="/大手印/四偈半">龙树藏《四偈半》</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/无分别开示">圣天《无分别开示》</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/阿底瑜伽修习方便">龙菩提《阿底瑜伽修习方便》</a><span class="dt-article-date">2026-10-22</span></li>
-  <li><a href="/大手印/卢伊巴之歌">卢伊巴之歌</a><span class="dt-article-date">2026-10-22</span></li>
+  <li><a href="/大手印/卢伊巴之歌">《卢伊巴之歌》</a><span class="dt-article-date">2026-10-22</span></li>
   <li><a href="/大手印/道歌宝藏（毗瓦巴）">毗瓦巴《道歌宝藏》</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/八十四句">毗瓦巴《八十四句》</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/甘露成就基础">毗瓦巴《甘露成就基础》</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/道果经教">毗瓦巴《道果经教》</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/拙火业印·道歌宝藏">毗瓦巴《拙火业印·道歌宝藏》</a><span class="dt-article-date">2026-10-21</span></li>
-  <li><a href="/大手印/金刚持毗瓦巴之歌">金刚持毗瓦巴之歌</a><span class="dt-article-date">2026-10-21</span></li>
-  <li><a href="/大手印/毗瓦巴之歌（水中优钵罗）">毗瓦巴之歌（水中优钵罗）</a><span class="dt-article-date">2026-10-22</span></li>
+  <li><a href="/大手印/金刚持毗瓦巴之歌">《金刚持毗瓦巴之歌》</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/大手印/毗瓦巴之歌（水中优钵罗）">《毗瓦巴之歌》（水中优钵罗）</a><span class="dt-article-date">2026-10-22</span></li>
   <li><a href="/大手印/五颂（黑行者）">黑行者《五颂》</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/金刚歌（黑行者）">黑行者《金刚歌》</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/道歌宝藏（黑行者）">黑行者《道歌宝藏》</a><span class="dt-article-date">2026-10-07</span></li>
   <li><a href="/大手印/不相属之见（黑行者道歌）">黑行者《不相属之见》</a><span class="dt-article-date">2026-10-07</span></li>
-  <li><a href="/大手印/黑行者之歌">黑行者之歌</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/大手印/黑行者之歌">《黑行者之歌》</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/道歌宝藏广释（黑行者）">无量光《黑行者道歌宝藏广释》</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/风之真如道歌">摩希巴《风之真如道歌》</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/空性见">夏瓦日巴《空性见》</a><span class="dt-article-date">2026-10-07</span></li>
   <li><a href="/大手印/大手印金刚歌">夏瓦日巴《大手印金刚歌》</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/不相属之见">甘巴拉《不相属之见》</a><span class="dt-article-date">2026-10-07</span></li>
   <li><a href="/大手印/不取著之见">甘巴拉《不取著之见》</a><span class="dt-article-date">2026-10-07</span></li>
-  <li><a href="/大手印/拉瓦巴之歌">拉瓦巴之歌</a><span class="dt-article-date">2026-10-22</span></li>
+  <li><a href="/大手印/拉瓦巴之歌">《拉瓦巴之歌》</a><span class="dt-article-date">2026-10-22</span></li>
   <li><a href="/大手印/行·道歌宝藏">嘎迦《行·道歌宝藏》</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/道歌宝藏（帝洛巴）">帝洛巴《道歌宝藏》</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/大手印口诀（恒河大手印）">帝洛巴《大手印口诀》（恒河大手印）</a><span class="dt-article-date">2026-10-21</span></li>
@@ -61,8 +72,9 @@ title: 大手印
   <li><a href="/大手印/见要摄">那洛巴《见要摄》</a><span class="dt-article-date">2026-10-07</span></li>
   <li><a href="/大手印/金刚歌（那洛巴之一）">那洛巴《金刚歌》（之一）</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/金刚歌（那洛巴之二）">那洛巴《金刚歌》（之二）</a><span class="dt-article-date">2026-10-08</span></li>
-  <li><a href="/大手印/那洛巴之歌">那洛巴之歌</a><span class="dt-article-date">2026-10-22</span></li>
+  <li><a href="/大手印/那洛巴之歌">《那洛巴之歌》</a><span class="dt-article-date">2026-10-22</span></li>
   <li><a href="/大手印/除恶见及难释">梅纪巴《除恶见》及《难释》</a><span class="dt-article-date">2026-10-07</span></li>
+  <li><a href="/大手印/破邪见论">梅纪巴《破邪见论》</a><span class="dt-article-date">2026-10-31</span></li>
   <li><a href="/大手印/中观六颂">梅纪巴《中观六颂》</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/俱生六颂">梅纪巴《俱生六颂》</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/梦教示">梅纪巴《梦教示》</a><span class="dt-article-date">2026-10-08</span></li>
@@ -91,7 +103,7 @@ title: 大手印
   <li><a href="/大手印/悟未悟者">梅纪巴《悟未悟者》</a><span class="dt-article-date">2026-10-07</span></li>
   <li><a href="/大手印/四印口诀">梅纪巴《四印口诀》</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/四金刚之歌">梅纪巴《四金刚之歌》</a><span class="dt-article-date">2026-10-21</span></li>
-  <li><a href="/大手印/梅纪巴上师之歌">梅纪巴上师之歌</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/大手印/梅纪巴上师之歌">《梅纪巴上师之歌》</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/最胜秘密口诀">梅纪巴法类《最胜秘密口诀》</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/一切法无住真如颂释">阿瓦都底巴《一切法无住真如颂释》</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/灌顶教示难释">罗摩波罗《灌顶教示难释》</a><span class="dt-article-date">2026-10-08</span></li>
@@ -100,7 +112,7 @@ title: 大手印
   <li><a href="/大手印/修习六次第">金刚手《修习六次第》</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/摄要开示">阿难陀金刚《摄要开示》</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/境之实相修习">乐金刚《境之实相修习》</a><span class="dt-article-date">2026-10-08</span></li>
-  <li><a href="/大手印/瑜伽士扎萨惹之歌">瑜伽士扎萨惹之歌</a><span class="dt-article-date">2026-10-22</span></li>
+  <li><a href="/大手印/瑜伽士扎萨惹之歌">《瑜伽士扎萨惹之歌》</a><span class="dt-article-date">2026-10-22</span></li>
   <li><a href="/大手印/心之教诫安立">阿卓吉《心之教诫安立》</a><span class="dt-article-date">2026-10-07</span></li>
   <li><a href="/大手印/四瑜伽修法">谭帝巴《四瑜伽修法》</a><span class="dt-article-date">2026-10-07</span></li>
   <li><a href="/大手印/基道果大手印修法">般迦拉《基道果大手印修法》</a><span class="dt-article-date">2026-10-07</span></li>
@@ -117,20 +129,20 @@ title: 大手印
   <li><a href="/大手印/迦波离悲行之见">萨尔巴卡《迦波离悲行之见》</a><span class="dt-article-date">2026-10-07</span></li>
   <li><a href="/大手印/真如见">达日卡巴《真如见》</a><span class="dt-article-date">2026-10-07</span></li>
   <li><a href="/大手印/俱生之歌">寂天《俱生之歌》</a><span class="dt-article-date">2026-10-21</span></li>
-  <li><a href="/大手印/摩咥里制吒之歌">摩咥里制吒之歌</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/大手印/摩咥里制吒之歌">《摩咥里制吒之歌》</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/断分别之歌">里拉巴《断分别之歌》</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/真如·道歌宝藏">塔嘎纳《真如·道歌宝藏》</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/俱生喜见·道歌宝藏">巴德《俱生喜见·道歌宝藏》</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/善逝之见歌">达玛巴《善逝之见歌》</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/金刚歌（迪什迪嘉那）">迪什迪嘉那《金刚歌》</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/歌（迪什迪嘉那·嘿噜巴说）">迪什迪嘉那《歌》（嘿噜巴说）</a><span class="dt-article-date">2026-10-21</span></li>
-  <li><a href="/大手印/嘎内日巴之歌">嘎内日巴之歌</a><span class="dt-article-date">2026-10-21</span></li>
-  <li><a href="/大手印/冬比之歌">冬比之歌</a><span class="dt-article-date">2026-10-22</span></li>
-  <li><a href="/大手印/勇士毗卢遮那之歌">勇士毗卢遮那之歌</a><span class="dt-article-date">2026-10-22</span></li>
-  <li><a href="/大手印/大乐金刚之歌">大乐金刚之歌</a><span class="dt-article-date">2026-10-22</span></li>
+  <li><a href="/大手印/嘎内日巴之歌">《嘎内日巴之歌》</a><span class="dt-article-date">2026-10-21</span></li>
+  <li><a href="/大手印/冬比之歌">《冬比之歌》</a><span class="dt-article-date">2026-10-22</span></li>
+  <li><a href="/大手印/勇士毗卢遮那之歌">《勇士毗卢遮那之歌》</a><span class="dt-article-date">2026-10-22</span></li>
+  <li><a href="/大手印/大乐金刚之歌">《大乐金刚之歌》</a><span class="dt-article-date">2026-10-22</span></li>
   <li><a href="/大手印/行歌藏释">牟尼施《行歌藏释》</a><span class="dt-article-date">2026-10-08</span></li>
-  <li><a href="/大手印/八十四成就者证悟心要">勇士光明（汇集）《八十四成就者证悟心要》</a><span class="dt-article-date">2026-10-07</span></li>
-  <li><a href="/大手印/空行耳传·断苦口诀">化身瑜伽士（编集）《空行耳传·断苦口诀》</a><span class="dt-article-date">2026-10-08</span></li>
+  <li><a href="/大手印/八十四成就者证悟心要">勇士光明辑《八十四成就者证悟心要》</a><span class="dt-article-date">2026-10-07</span></li>
+  <li><a href="/大手印/空行耳传·断苦口诀">化身瑜伽士辑《空行耳传·断苦口诀》</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/大手印表示传承">帕当巴桑杰《大手印表示传承》</a><span class="dt-article-date">2026-10-07</span></li>
   <li><a href="/大手印/金刚歌（佚名）">佚名《金刚歌》</a><span class="dt-article-date">2026-10-08</span></li>
   <li><a href="/大手印/南无佛陀耶释">佚名《南无佛陀耶释》</a><span class="dt-article-date">2026-10-21</span></li>
@@ -138,46 +150,34 @@ title: 大手印
   <li><a href="/大手印/歌（嘎纳之剑）">佚名《歌》（嘎纳之剑）</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/歌（智慧狮子）">佚名《歌》（智慧狮子）</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/大手印/令心决定解脱轮回之歌">阿底峡尊者《令心决定解脱轮回之歌》</a><span class="dt-article-date">2026-10-07</span></li>
-  <li><a href="/大手印/阿底峡法歌（守护心）">阿底峡法歌（守护心）</a><span class="dt-article-date">2026-10-22</span></li>
-  <li><a href="/大手印/阿底峡尊者法界见歌（一）">阿底峡尊者法界见歌（一）</a><span class="dt-article-date">2026-10-22</span></li>
-  <li><a href="/大手印/阿底峡尊者法界见歌（二）">阿底峡尊者法界见歌（二）</a><span class="dt-article-date">2026-10-22</span></li>
-  <li><a href="/大手印/阿底峡尊者法界见歌（三）">阿底峡尊者法界见歌（三）</a><span class="dt-article-date">2026-10-22</span></li>
-  <li><a href="/大手印/大手印——成就证悟自在之捷道">蒋贡康楚仁波切《大手印——成就证悟自在之捷道》</a><span class="dt-article-date">2026-08-29</span></li>
-  <li><a href="/大手印/大手印——前行、正行、结行">蒋贡康楚仁波切《大手印——前行、正行、结行》</a><span class="dt-article-date">2026-08-29</span></li>
+  <li><a href="/大手印/阿底峡法歌（守护心）">《阿底峡法歌》（守护心）</a><span class="dt-article-date">2026-10-22</span></li>
+  <li><a href="/大手印/阿底峡尊者法界见歌（一）">《阿底峡尊者法界见歌》（一）</a><span class="dt-article-date">2026-10-22</span></li>
+  <li><a href="/大手印/阿底峡尊者法界见歌（二）">《阿底峡尊者法界见歌》（二）</a><span class="dt-article-date">2026-10-22</span></li>
+  <li><a href="/大手印/阿底峡尊者法界见歌（三）">《阿底峡尊者法界见歌》（三）</a><span class="dt-article-date">2026-10-22</span></li>
+  <li><a href="/大手印/梦与心之证悟">马尔巴译师《梦与心之证悟》</a><span class="dt-article-date">2026-10-31</span></li>
+  <li><a href="/大手印/香巴道歌集（一）金刚持">《香巴道歌集》（一）金刚持</a><span class="dt-article-date">2026-11-18</span></li>
+  <li><a href="/大手印/香巴道歌集（二）尼古玛">《香巴道歌集》（二）尼古玛</a><span class="dt-article-date">2026-11-18</span></li>
+  <li><a href="/大手印/香巴道歌集（三）苏卡悉地">《香巴道歌集》（三）苏卡悉地</a><span class="dt-article-date">2026-11-18</span></li>
+  <li><a href="/大手印/香巴道歌集（四）梅纪巴">《香巴道歌集》（四）梅纪巴</a><span class="dt-article-date">2026-11-18</span></li>
+  <li><a href="/大手印/香巴道歌集（五）罗睺罗">《香巴道歌集》（五）罗睺罗</a><span class="dt-article-date">2026-11-18</span></li>
+  <li><a href="/大手印/香巴道歌集（六）琼波南交">《香巴道歌集》（六）琼波南交</a><span class="dt-article-date">2026-11-18</span></li>
+  <li><a href="/大手印/香巴道歌集（七）莫觉巴·仁钦尊珠">《香巴道歌集》（七）莫觉巴·仁钦尊珠</a><span class="dt-article-date">2026-11-18</span></li>
+  <li><a href="/大手印/香巴道歌集（八）温敦·杰岗巴">《香巴道歌集》（八）温敦·杰岗巴</a><span class="dt-article-date">2026-11-18</span></li>
+  <li><a href="/大手印/香巴道歌集（九）桑杰·年敦">《香巴道歌集》（九）桑杰·年敦</a><span class="dt-article-date">2026-11-18</span></li>
+  <li><a href="/大手印/香巴道歌集（十）桑杰敦巴">《香巴道歌集》（十）桑杰敦巴</a><span class="dt-article-date">2026-11-18</span></li>
+  <li><a href="/大手印/香巴道歌集（十一）藏玛·香敦">《香巴道歌集》（十一）藏玛·香敦</a><span class="dt-article-date">2026-11-18</span></li>
+  <li><a href="/大手印/香巴道歌集（十二）唐东杰布">《香巴道歌集》（十二）唐东杰布</a><span class="dt-article-date">2026-11-18</span></li>
+  <li><a href="/大手印/香巴道歌集（十三）衮噶卓乔">《香巴道歌集》（十三）衮噶卓乔</a><span class="dt-article-date">2026-11-18</span></li>
+  <li><a href="/大手印/香巴道歌集（十四）蒋扬钦哲旺秋">《香巴道歌集》（十四）蒋扬钦哲旺秋</a><span class="dt-article-date">2026-11-18</span></li>
+  <li><a href="/大手印/香巴道歌集（十五）多罗那他">《香巴道歌集》（十五）多罗那他</a><span class="dt-article-date">2026-11-18</span></li>
+  <li><a href="/大手印/香巴道歌集（十六）久美德千">《香巴道歌集》（十六）久美德千</a><span class="dt-article-date">2026-11-18</span></li>
+  <li><a href="/大手印/香巴道歌集（十七）夏鲁·洛色丹炯">《香巴道歌集》（十七）夏鲁·洛色丹炯</a><span class="dt-article-date">2026-11-18</span></li>
+  <li><a href="/大手印/香巴道歌集（十八）蒋扬钦哲旺波">《香巴道歌集》（十八）蒋扬钦哲旺波</a><span class="dt-article-date">2026-11-18</span></li>
+  <li><a href="/大手印/香巴道歌集（十九）蒋贡康楚·罗卓泰耶">《香巴道歌集》（十九）蒋贡康楚·罗卓泰耶</a><span class="dt-article-date">2026-11-18</span></li>
   <li><a href="/大手印/圆满次第六法摄义">华智仁波切《圆满次第六法摄义》</a><span class="dt-article-date">2026-09-18</span></li>
-  <li><a href="/大手印/大手印前行乃至基道果三者恒常调伏自相续之教言">堪布岗夏《大手印前行乃至基道果三者恒常调伏自相续之教言》</a><span class="dt-article-date">2026-09-21</span></li>
+  <li><a href="/大手印/大手印——成就证悟自在之捷道">蒋贡康楚仁波切《大手印·成就证悟自在之捷道》</a><span class="dt-article-date">2026-08-29</span></li>
+  <li><a href="/大手印/大手印——前行、正行、结行">蒋贡康楚仁波切《大手印·前行、正行、结行》</a><span class="dt-article-date">2026-08-29</span></li>
   <li><a href="/大手印/大手印之止、动、觉三法修持窍诀">麦彭仁波切《大手印之止、动、觉三法修持窍诀》</a><span class="dt-article-date">2026-08-27</span></li>
   <li><a href="/大手印/五颂瑜伽证悟道歌">麦彭仁波切《五颂瑜伽证悟道歌》</a><span class="dt-article-date">2026-09-21</span></li>
-  <li><a href="/大手印/梦与心之证悟">梦与心之证悟</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/大手印/破邪见论">破邪见论</a><span class="dt-article-date">2026-10-31</span></li>
-  <li><a href="/大手印/月灯三昧经卷第一">月灯三昧经卷第一</a><span class="dt-article-date">2026-11-03</span></li>
-  <li><a href="/大手印/月灯三昧经卷第二">月灯三昧经卷第二</a><span class="dt-article-date">2026-11-03</span></li>
-  <li><a href="/大手印/月灯三昧经卷第三">月灯三昧经卷第三</a><span class="dt-article-date">2026-11-03</span></li>
-  <li><a href="/大手印/月灯三昧经卷第四">月灯三昧经卷第四</a><span class="dt-article-date">2026-11-03</span></li>
-  <li><a href="/大手印/月灯三昧经卷第五">月灯三昧经卷第五</a><span class="dt-article-date">2026-11-03</span></li>
-  <li><a href="/大手印/月灯三昧经卷第六">月灯三昧经卷第六</a><span class="dt-article-date">2026-11-03</span></li>
-  <li><a href="/大手印/月灯三昧经卷第七">月灯三昧经卷第七</a><span class="dt-article-date">2026-11-03</span></li>
-  <li><a href="/大手印/月灯三昧经卷第八">月灯三昧经卷第八</a><span class="dt-article-date">2026-11-03</span></li>
-  <li><a href="/大手印/月灯三昧经卷第九">月灯三昧经卷第九</a><span class="dt-article-date">2026-11-03</span></li>
-  <li><a href="/大手印/月灯三昧经卷第十">月灯三昧经卷第十</a><span class="dt-article-date">2026-11-03</span></li>
-  <li><a href="/大手印/佛说月灯三昧经">佛说月灯三昧经</a><span class="dt-article-date">2026-11-03</span></li>
-  <li><a href="/大手印/香巴道歌集（一）金刚持">香巴道歌集（一）金刚持</a><span class="dt-article-date">2026-11-18</span></li>
-  <li><a href="/大手印/香巴道歌集（二）尼古玛">香巴道歌集（二）尼古玛</a><span class="dt-article-date">2026-11-18</span></li>
-  <li><a href="/大手印/香巴道歌集（三）苏卡悉地">香巴道歌集（三）苏卡悉地</a><span class="dt-article-date">2026-11-18</span></li>
-  <li><a href="/大手印/香巴道歌集（四）梅纪巴">香巴道歌集（四）梅纪巴</a><span class="dt-article-date">2026-11-18</span></li>
-  <li><a href="/大手印/香巴道歌集（五）罗睺罗">香巴道歌集（五）罗睺罗</a><span class="dt-article-date">2026-11-18</span></li>
-  <li><a href="/大手印/香巴道歌集（六）琼波南交">香巴道歌集（六）琼波南交</a><span class="dt-article-date">2026-11-18</span></li>
-  <li><a href="/大手印/香巴道歌集（七）莫觉巴·仁钦尊珠">香巴道歌集（七）莫觉巴·仁钦尊珠</a><span class="dt-article-date">2026-11-18</span></li>
-  <li><a href="/大手印/香巴道歌集（八）温敦·杰岗巴">香巴道歌集（八）温敦·杰岗巴</a><span class="dt-article-date">2026-11-18</span></li>
-  <li><a href="/大手印/香巴道歌集（九）桑杰·年敦">香巴道歌集（九）桑杰·年敦</a><span class="dt-article-date">2026-11-18</span></li>
-  <li><a href="/大手印/香巴道歌集（十）桑杰敦巴">香巴道歌集（十）桑杰敦巴</a><span class="dt-article-date">2026-11-18</span></li>
-  <li><a href="/大手印/香巴道歌集（十一）藏玛·香敦">香巴道歌集（十一）藏玛·香敦</a><span class="dt-article-date">2026-11-18</span></li>
-  <li><a href="/大手印/香巴道歌集（十二）唐东杰布">香巴道歌集（十二）唐东杰布</a><span class="dt-article-date">2026-11-18</span></li>
-  <li><a href="/大手印/香巴道歌集（十三）衮噶卓乔">香巴道歌集（十三）衮噶卓乔</a><span class="dt-article-date">2026-11-18</span></li>
-  <li><a href="/大手印/香巴道歌集（十四）蒋扬钦哲旺秋">香巴道歌集（十四）蒋扬钦哲旺秋</a><span class="dt-article-date">2026-11-18</span></li>
-  <li><a href="/大手印/香巴道歌集（十五）多罗那他">香巴道歌集（十五）多罗那他</a><span class="dt-article-date">2026-11-18</span></li>
-  <li><a href="/大手印/香巴道歌集（十六）久美德千">香巴道歌集（十六）久美德千</a><span class="dt-article-date">2026-11-18</span></li>
-  <li><a href="/大手印/香巴道歌集（十七）夏鲁·洛色丹炯">香巴道歌集（十七）夏鲁·洛色丹炯</a><span class="dt-article-date">2026-11-18</span></li>
-  <li><a href="/大手印/香巴道歌集（十八）蒋扬钦哲旺波">香巴道歌集（十八）蒋扬钦哲旺波</a><span class="dt-article-date">2026-11-18</span></li>
-  <li><a href="/大手印/香巴道歌集（十九）蒋贡康楚·罗卓泰耶">香巴道歌集（十九）蒋贡康楚·罗卓泰耶</a><span class="dt-article-date">2026-11-18</span></li>
+  <li><a href="/大手印/大手印前行乃至基道果三者恒常调伏自相续之教言">堪布岗夏《大手印前行乃至基道果三者恒常调伏自相续之教言》</a><span class="dt-article-date">2026-09-21</span></li>
 </ul>
