@@ -316,4 +316,5 @@ title: 唯识
   <li><a href="/唯识/窥基《大乘法苑义林章》（三十七）大乘蕴界处义">窥基《大乘法苑义林章》（三十七）大乘蕴界处义</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/窥基《大乘法苑义林章》（三十八）极微章与胜定果色章">窥基《大乘法苑义林章》（三十八）极微章与胜定果色章</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/窥基《大乘法苑义林章》（三十九）十因章">窥基《大乘法苑义林章》（三十九）十因章</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/窥基《大乘法苑义林章》（四十）五果义与法处色义林">窥基《大乘法苑义林章》（四十）五果义与法处色义林</a><span class="dt-article-date">2026-11-23</span></li>
 </ul>
