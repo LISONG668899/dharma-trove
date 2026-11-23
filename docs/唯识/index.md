@@ -343,4 +343,5 @@ title: 唯识
   <li><a href="/唯识/成唯识论卷03中　第八识之舍与教证">成唯识论卷03中　第八识之舍与教证</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/成唯识论卷03下　第八识理证之一">成唯识论卷03下　第八识理证之一</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/成唯识论卷04上　第八识理证之二">成唯识论卷04上　第八识理证之二</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷04中　末那三种所依">成唯识论卷04中　末那三种所依</a><span class="dt-article-date">2026-11-23</span></li>
 </ul>
