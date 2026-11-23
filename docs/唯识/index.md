@@ -378,4 +378,5 @@ title: 唯识
   <li><a href="/唯识/无著《摄大乘论》11　入所知相分之二　见道、修道与现观颂">无著《摄大乘论》11　入所知相分之二　见道、修道与现观颂</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/无著《摄大乘论》12　彼入因果分">无著《摄大乘论》12　彼入因果分</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/无著《摄大乘论》13　彼修差别分">无著《摄大乘论》13　彼修差别分</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/无著《摄大乘论》14　增上戒学分　增上心学分">无著《摄大乘论》14　增上戒学分　增上心学分</a><span class="dt-article-date">2026-11-23</span></li>
 </ul>
