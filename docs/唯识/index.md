@@ -340,4 +340,5 @@ title: 唯识
   <li><a href="/唯识/成唯识论卷02中　三能变与种子本有新熏">成唯识论卷02中　三能变与种子本有新熏</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/成唯识论卷02下　种子六义与四分">成唯识论卷02下　种子六义与四分</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/成唯识论卷03上　第八识相应与恒转如流">成唯识论卷03上　第八识相应与恒转如流</a><span class="dt-article-date">2026-11-23</span></li>
+  <li><a href="/唯识/成唯识论卷03中　第八识之舍与教证">成唯识论卷03中　第八识之舍与教证</a><span class="dt-article-date">2026-11-23</span></li>
 </ul>
