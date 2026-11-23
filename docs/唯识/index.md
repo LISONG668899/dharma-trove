@@ -385,4 +385,5 @@ title: 唯识
   <li><a href="/唯识/卷24下-02　道品诸门与息念证净">遁伦《瑜伽论记》卷24下-02　道品诸门与息念证净</a><span class="dt-article-date">2026-11-06</span></li>
   <li><a href="/唯识/卷24下-03　制戒十利与七灭诤">遁伦《瑜伽论记》卷24下-03　制戒十利与七灭诤</a><span class="dt-article-date">2026-11-06</span></li>
   <li><a href="/唯识/卷24下-04　遍知诸门与本母事">遁伦《瑜伽论记》卷24下-04　遍知诸门与本母事</a><span class="dt-article-date">2026-11-08</span></li>
+  <li><a href="/唯识/安慧《唯识三十颂释》">安慧《唯识三十颂释》</a><span class="dt-article-date">2026-11-23</span></li>
 </ul>
