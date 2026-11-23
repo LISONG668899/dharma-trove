@@ -20,8 +20,18 @@ TXT 里的记号怎么处理：
                     行与行直接相连（原书换行常在一个音节中间，不能加空格）
     {T1} {T1-1}     经号（Toh）：{T1} 开始一部新经；{T1-1} 是经内的分品，只在分段时优先断在这里
     (原字,改字)     esukhia 的校勘：显示校正后的字
-经名取法：先取“བོད་སྐད་དུ།”（藏语名）后面的经名；没有的取经末“……ཞེས་བྱ་བ”里的经名；
-         再没有，取经文开头第一句。
+经名取法（依次试，取第一个像样的）：
+    1. 梵名之后“བོད་སྐད་དུ།”（藏语名）后面的经名
+    2. 卷首题记“……བཞུགས་སོ།”
+    3. 卷首标题：开头第一句后面紧跟礼敬（……ཕྱག་འཚལ་ལོ）或“བམ་པོ་དང་པོ”“ལེའུ་དང་པོ”
+    4. 卷末题记“……རྫོགས་སོ།”：取前面的经论名，去掉“སློབ་དཔོན་某某ཀྱིས་མཛད་པ”和译者题记
+    5. 卷末任何“……ཞེས་བྱ་བ”
+    6. 开头第一句（跳过礼敬、ན་མོ、咒语起头的句子）
+    经名里的 # 号、开头多余的 ། ༄༅、结尾的“བཞུགས”都去掉。礼敬句、咒语、以“སོ/རོ/ཏོ”收尾的叙述句不当经名。
+
+只重取经名、重排目录页（不用 TXT，用网站里已有的正文 JSON）：
+    python scripts/canon_build.py  retitle  kangyur
+    python scripts/canon_build.py  retitle  tengyur
 """
 import json, os, re, sys, glob, shutil
 
@@ -79,25 +89,102 @@ def read_volume(path):
     return out
 
 
-def first_clause(s):
-    s = re.sub(r'^[\s༄༅།༑༎༔]+', '', s)
-    m = re.match(r'(.{4,}?)[།༑]', s)
-    t = (m.group(1) if m else s[:60]).strip()
-    return t[:80] + ('…' if len(t) > 80 else '')
+# ---------- 经名 ----------
+def tidy(t):
+    t = t.replace('#', '')
+    t = re.sub(r'\s+', ' ', t)
+    t = re.sub(r'^[\s༄༅།༑༎༔་]+', '', t)
+    t = re.sub(r'[\s།༑༎༔]+$', '', t)
+    t = re.sub(r'\s*བཞུགས(?:་སོ)?་?$', '', t)
+    return t.strip().rstrip('་') if t.endswith('་') and not t.endswith('ང་') else t.strip()
 
+def clauses(s, n=6):
+    """开头几句（按 shad 断开），去掉 ༄༅ 和空句"""
+    out = []
+    for c in re.split(r'[།༑༎༔]+', s[:2000]):
+        c = c.replace('#', '').strip(' ༄༅་')
+        if c:
+            out.append(c)
+        if len(out) >= n:
+            break
+    return out
+
+HOMAGE = re.compile(r'ཕྱག་འཚལ་ལོ|བམ་པོ་དང་པོ|ལེའུ་དང་པོ|ཕྱག་བྱས')
+AUTHOR = re.compile(r'(?:གྱིས|ཀྱིས|གིས|ཡིས)་?(?:མཛད|སྦྱར|བྱས|བཀོད|བསྡུས)|མཛད་པ$|ལོ་ཙཱ|ལོཙྪ|ལོ་ཙྪ|བསྒྱུར|ཞུས')
+
+def ok(t):
+    return t and len(t) >= 6 and len(t) <= 300
+
+BAD_START = re.compile(r'^(?:ན་མོ|ཕྱག་འཚལ|དཀོན་མཆོག་གསུམ་ལ|རྒྱ་གར་གྱི་མཁན་པོ|ཞུ་ཆེན|འདི་སྐད་བདག་གིས)')
+
+PROSE_END = re.compile(r'(?:^|་)(?:སོ|ངོ|རོ|ཏོ|དོ|ལོ)$|[^་]འོ$|ནུས་སོ|འགྱུར་རོ')
+
+def good(t):
+    return ok(t) and not BAD_START.search(t) and not HOMAGE.search(t) and not PROSE_END.search(t)
+
+def end_title(tail):
+    ms = list(re.finditer(r'(?:རྫོགས|ཚར)\s*་?\s*(?:སོ|སྷོ|རོ|ཏོ)', tail))
+    if not ms:
+        return None
+    before = tail[:ms[-1].start()]
+    cl = [c.strip(' ༄༅་') for c in re.split(r'[།༑༎]+', before)][-3:]
+    for c in reversed(cl):
+        if not c:
+            continue
+        # “སློབ་དཔོན་某某ཀྱིས་མཛད་པ + 经论名”：去掉前面的作者
+        m = re.match(r'^.{2,80}?(?:གྱིས|ཀྱིས|གིས|ཡིས|པོས|བས|མས|ས)་?(?:མཛད|སྦྱར|བཀོད)་པ(?:འི་|་)(.{6,})$', c)
+        if m and not AUTHOR.search(m.group(1)):
+            c = m.group(1)
+        if AUTHOR.search(c):
+            # “经论名 + སློབ་དཔོན་某某ཀྱིས་མཛད་པ”同在一句：取作者前面的经论名
+            m = re.search(r'^(.{6,}?)\s*(?:སློབ་དཔོན|མཁན་པོ|ཨཱ་ཙཱ་རྱ|རྣལ་འབྱོར་གྱི་དབང་ཕྱུག|པཎྜི་ཏ|བླ་མ་)', c)
+            if m and not AUTHOR.search(m.group(1)):
+                c = m.group(1)
+            else:
+                continue
+        m = re.search(r'^(.*?)\s*[ཞཅཤ]ེས་བྱ་བ(?:་|$)', c)
+        if m and len(m.group(1)) >= 4:
+            # “……ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ”这类，ཞེས་བྱ་བ 后面还有经名的，整句保留
+            rest = c[m.end():]
+            return c if re.match(r'[^་]*(?:མདོ|རྒྱུད|གཟུངས|ཆོས་ཀྱི་རྣམ་གྲངས|ལེའུ|རབ་ཏུ་བྱེད་པ|ཚིག་ལེའུར)', rest) else m.group(1)
+        i = cl.index(c) if c in cl else -1
+        if i > 0 and re.search(r'(?:དང|ལས)$', cl[i-1].strip()) and not AUTHOR.search(cl[i-1]):
+            c = cl[i-1].strip() + '། ' + c
+        return c
+    return None
 
 def find_title(body):
-    flat = re.sub(r'\{[^}]*\}', '', body)
-    m = re.search(r'བོད་སྐད་དུ[།༑]\s*(.+?)[།༑]', flat[:3000])
-    if m and len(m.group(1)) > 3:
-        return m.group(1).strip()
-    tail = flat[-1500:]
-    ms = list(re.finditer(r'([^།༑]{4,120}?)\s*ཞེས་བྱ་བ', tail))
-    if ms:
-        t = re.sub(r'^[\s༄༅།༑]+', '', ms[-1].group(1)).strip()
-        if len(t) > 3:
+    flat = re.sub(r'\{[^}]*\}', '', body).replace('#', '')
+    head = flat[:3000]
+    tail = flat[-2000:]
+    opens = bool(re.match(r'[\s།]*༄', head))   # 正文从“༄”起头，才是一部经论真正的开头
+    cands = []
+    # 1. 梵名之后的藏语名
+    m = re.search(r'བོད་སྐད་དུ[།༑]\s*(.+?)[།༑]', head)
+    if m: cands.append(m.group(1))
+    # 2. 卷首题记“……བཞུགས་སོ”
+    m = opens and re.match(r'[\s༄༅།༑]*([^།༑]{4,200}?)\s*བཞུགས(?:་སོ|་ལགས་སོ)?\s*[།༑]', head)
+    if m: cands.append(m.group(1))
+    # 3. 卷首标题：第一句之后紧接着礼敬、“第一卷”“第一品”
+    cs = clauses(head)
+    if opens and len(cs) >= 2 and HOMAGE.search(' '.join(cs[1:3])):
+        cands.append(cs[0])
+    # 4. 卷末题记“……རྫོགས་སོ”：取“རྫོགས”前一两句，跳过作者、译者一句
+    t3 = end_title(tail)
+    if t3: cands.append(t3)
+    # 5. 卷末任何“……ཞེས་བྱ་བ”
+    ms = list(re.finditer(r'([^།༑]{4,120}?)\s*[ཞཅཤ]ེས་བྱ་བ', tail))
+    if ms: cands.append(ms[-1].group(1))
+    for c in cands:
+        t = tidy(c)
+        if good(t):
             return t
-    return first_clause(flat)
+    # 6. 开头第一句
+    for c in cs:
+        t = tidy(c)
+        if good(t):
+            return t[:80] + ('…' if len(t) > 80 else '')
+    return tidy(flat[:60])
 
 
 SYL_SPLIT = re.compile(r'[\u0F0B\u0F0C\u0F0D-\u0F14\u0F01-\u0F0A\u0F34\u0F3A-\u0F3D\s]+')
@@ -158,9 +245,100 @@ def build_index(data_dir, catalog):
     print(f'  检索索引：{len(post)} 个音节，{len(parts)} 个分段')
 
 
-def build(src, key):
+def write_pages(key, catalog, vols):
     c = COLL[key]
     secname = lambda sec: SEC_ZH_COLL.get(key, {}).get(sec) or SEC_ZH.get(sec, '')
+    repo = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    page_dir = os.path.join(repo, 'docs', c['zh'])
+    os.makedirs(page_dir, exist_ok=True)
+    # ---------- 页面 ----------
+    sec_order = []
+    for no, sec, letter in vols:
+        if sec not in sec_order:
+            sec_order.append(sec)
+    order = SEC_ORDER.get(key, [])
+    first = list(sec_order)
+    sec_order.sort(key=lambda x: (order.index(x) if x in order else len(order), first.index(x)))
+    slug = lambda sec: re.sub(r'[།༎\s]', '', sec)
+
+    lines = ['---', f"title: {c['zh']}", 'aside: false', 'sidebar: false', '---', '', f"# {c['zh']}", '',
+             f"<p class=\"dt-bo-title notranslate\" translate=\"no\">{c['bo']}</p>", '',
+             f"德格版《{c['zh']}》，即{c['about']}。下列各部，点进去可以看到每一函所收的经论，点经论名即可阅读藏文原文。阅读时选中一段藏文，可以请机器译成白话；目录上的藏文名称也一样可以选中翻译。", '',
+             '<div class="dt-secgrid notranslate" translate="no">']
+    for sec in sec_order:
+        nvol = sum(1 for v in vols if v[1] == sec)
+        nt = sum(1 for e in catalog if e['sec'] == sec)
+        zh = secname(sec)
+        lines.append(f'<a class="dt-secbtn" href="/{c["zh"]}/{slug(sec)}"><span class="dt-bo">{sec}</span>'
+                     + (f'<span class="dt-sec-zh">{zh}</span>' if zh else '')
+                     + f'<span class="dt-sec-n">{nvol} 函 · {nt} 部</span></a>')
+    lines.append('</div>')
+    open(os.path.join(page_dir, 'index.md'), 'w', encoding='utf-8').write('\n'.join(lines) + '\n')
+
+    for sec in sec_order:
+        zh = secname(sec)
+        L = ['---', f"title: {zh or sec}", 'aside: false', 'sidebar: false', '---', '',
+             f'<p class="dt-crumb"><a href="/{c["zh"]}/">{c["zh"]}</a></p>', '', f"# {zh or sec}", '', f'<p class="dt-bo-title notranslate" translate="no">{sec}</p>', '']
+        for no, s2, letter in vols:
+            if s2 != sec:
+                continue
+            L.append(f'<h2 class="dt-vol notranslate" translate="no"><span class="dt-bo">{letter or sec}</span><span class="dt-vol-no">第 {int(no)} 函</span></h2>')
+            L.append('<ol class="dt-texts notranslate" translate="no">')
+            for e in catalog:
+                for pi, (vno, start) in enumerate(e['parts'], 1):
+                    if vno != no:
+                        continue
+                    first_in_vol = pi == 1 or e['parts'][pi - 2][0] != no
+                    if not first_in_vol:
+                        continue
+                    cont = pi > 1
+                    toh = f'<span class="dt-toh">Toh {e["toh"]}</span>' if e['toh'] else ''
+                    L.append(f'<li><a href="/{c["zh"]}/read?t={e["t"]}&p={pi}"><span class="dt-bo">{e["title"]}</span></a>'
+                             f'{toh}<span class="dt-folio-ref">{start}{"（续）" if cont else ""}</span></li>')
+            L.append('</ol>')
+            L.append('')
+        open(os.path.join(page_dir, f'{slug(sec)}.md'), 'w', encoding='utf-8').write('\n'.join(L) + '\n')
+
+    open(os.path.join(page_dir, 'read.md'), 'w', encoding='utf-8').write(
+        f"---\ntitle: {c['zh']}\naside: false\nsidebar: false\nprev: false\nnext: false\n---\n\n<CanonReader coll=\"{key}\" />\n")
+
+
+def vols_from_catalog(catalog):
+    """旧版没有存 vols.json 时，从经目里各段的起点推出各函：函的部别取该函第一段所属经论的部别"""
+    seen = {}
+    for e in catalog:
+        for vno, start in e['parts']:
+            if vno not in seen:
+                seen[vno] = (vno, e['sec'], start.split(' ')[0] if ' ' in start else '')
+    return [seen[k] for k in sorted(seen)]
+
+
+def retitle(key):
+    repo = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    data_dir = os.path.join(repo, 'docs', 'public', 'canon', key)
+    catalog = json.load(open(os.path.join(data_dir, 'catalog.json'), encoding='utf-8'))
+    vp = os.path.join(data_dir, 'vols.json')
+    vols = [tuple(v) for v in json.load(open(vp, encoding='utf-8'))] if os.path.exists(vp) else vols_from_catalog(catalog)
+    n = 0
+    for e in catalog:
+        rd = lambda i: ''.join(p[1] for p in json.load(open(os.path.join(data_dir, e['t'], f'{i}.json'), encoding='utf-8'))['paras'])
+        head = rd(1)
+        body = head if len(e['parts']) == 1 else head[:6000] + rd(len(e['parts']))[-6000:]
+        t = find_title(body)
+        if t != e['title']:
+            n += 1
+            e['title'] = t
+    with open(os.path.join(data_dir, 'catalog.json'), 'w', encoding='utf-8') as fh:
+        json.dump(catalog, fh, ensure_ascii=False, separators=(',', ':'))
+    if not os.path.exists(vp):
+        with open(vp, 'w', encoding='utf-8') as fh:
+            json.dump(vols, fh, ensure_ascii=False)
+    write_pages(key, catalog, vols)
+    print(f"{COLL[key]['zh']}：重取经名，改了 {n} 部；目录页已重排")
+
+
+def build(src, key):
+    c = COLL[key]
     repo = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     page_dir = os.path.join(repo, 'docs', c['zh'])
     data_dir = os.path.join(repo, 'docs', 'public', 'canon', key)
@@ -248,62 +426,18 @@ def build(src, key):
     # 分成 256 个小文件，搜索时只下载查询里那几个音节所在的小文件，再到候选分段里逐字核对。
     build_index(data_dir, catalog)
 
-    # ---------- 页面 ----------
-    sec_order = []
-    for no, sec, letter in vols:
-        if sec not in sec_order:
-            sec_order.append(sec)
-    order = SEC_ORDER.get(key, [])
-    first = list(sec_order)
-    sec_order.sort(key=lambda x: (order.index(x) if x in order else len(order), first.index(x)))
-    slug = lambda sec: re.sub(r'[།༎\s]', '', sec)
-
-    lines = ['---', f"title: {c['zh']}", 'aside: false', 'sidebar: false', '---', '', f"# {c['zh']}", '',
-             f"<p class=\"dt-bo-title notranslate\" translate=\"no\">{c['bo']}</p>", '',
-             f"德格版《{c['zh']}》，即{c['about']}。下列各部，点进去可以看到每一函所收的经论，点经论名即可阅读藏文原文。阅读时选中一段藏文，可以请机器译成白话；目录上的藏文名称也一样可以选中翻译。", '',
-             '<div class="dt-secgrid notranslate" translate="no">']
-    for sec in sec_order:
-        nvol = sum(1 for v in vols if v[1] == sec)
-        nt = sum(1 for e in catalog if e['sec'] == sec)
-        zh = secname(sec)
-        lines.append(f'<a class="dt-secbtn" href="/{c["zh"]}/{slug(sec)}"><span class="dt-bo">{sec}</span>'
-                     + (f'<span class="dt-sec-zh">{zh}</span>' if zh else '')
-                     + f'<span class="dt-sec-n">{nvol} 函 · {nt} 部</span></a>')
-    lines.append('</div>')
-    open(os.path.join(page_dir, 'index.md'), 'w', encoding='utf-8').write('\n'.join(lines) + '\n')
-
-    for sec in sec_order:
-        zh = secname(sec)
-        L = ['---', f"title: {zh or sec}", 'aside: false', 'sidebar: false', '---', '',
-             f'<p class="dt-crumb"><a href="/{c["zh"]}/">{c["zh"]}</a></p>', '', f"# {zh or sec}", '', f'<p class="dt-bo-title notranslate" translate="no">{sec}</p>', '']
-        for no, s2, letter in vols:
-            if s2 != sec:
-                continue
-            L.append(f'<h2 class="dt-vol notranslate" translate="no"><span class="dt-bo">{letter or sec}</span><span class="dt-vol-no">第 {int(no)} 函</span></h2>')
-            L.append('<ol class="dt-texts notranslate" translate="no">')
-            for e in catalog:
-                for pi, (vno, start) in enumerate(e['parts'], 1):
-                    if vno != no:
-                        continue
-                    first_in_vol = pi == 1 or e['parts'][pi - 2][0] != no
-                    if not first_in_vol:
-                        continue
-                    cont = pi > 1
-                    toh = f'<span class="dt-toh">Toh {e["toh"]}</span>' if e['toh'] else ''
-                    L.append(f'<li><a href="/{c["zh"]}/read?t={e["t"]}&p={pi}"><span class="dt-bo">{e["title"]}</span></a>'
-                             f'{toh}<span class="dt-folio-ref">{start}{"（续）" if cont else ""}</span></li>')
-            L.append('</ol>')
-            L.append('')
-        open(os.path.join(page_dir, f'{slug(sec)}.md'), 'w', encoding='utf-8').write('\n'.join(L) + '\n')
-
-    open(os.path.join(page_dir, 'read.md'), 'w', encoding='utf-8').write(
-        f"---\ntitle: {c['zh']}\naside: false\nsidebar: false\nprev: false\nnext: false\n---\n\n<CanonReader coll=\"{key}\" />\n")
+    with open(os.path.join(data_dir, 'vols.json'), 'w', encoding='utf-8') as fh:
+        json.dump(vols, fh, ensure_ascii=False)
+    write_pages(key, catalog, vols)
 
     total = sum(len(e['parts']) for e in catalog)
-    print(f"{c['zh']}：{len(sec_order)} 部，{len(vols)} 函，{len(catalog)} 部经论，{total} 个正文分段")
+    print(f"{c['zh']}：{len(set(v[1] for v in vols))} 部，{len(vols)} 函，{len(catalog)} 部经论，{total} 个正文分段")
 
 
 if __name__ == '__main__':
+    if len(sys.argv) == 3 and sys.argv[1] == 'retitle' and sys.argv[2] in COLL:
+        retitle(sys.argv[2])
+        sys.exit(0)
     if len(sys.argv) != 3 or sys.argv[2] not in COLL:
         print(__doc__)
         sys.exit(1)
