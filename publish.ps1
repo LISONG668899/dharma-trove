@@ -32,6 +32,29 @@ $candidates = Get-ChildItem -Path $desktop -File | Where-Object {
 }
 
 if ($candidates.Count -eq 0) {
+    # 桌面没有新文章时，检查是否有上次没推送成功的提交，有就补推
+    Set-Location $repoRoot
+    $ahead = (git rev-list --count origin/main..HEAD 2>$null)
+    if ($ahead -and [int]$ahead -gt 0) {
+        Write-Host "发现 $ahead 个上次没推送成功的提交，正在补推..." -ForegroundColor Yellow
+        Write-Host ""
+        $pushed = $false
+        for ($i = 1; $i -le 5; $i++) {
+            git push origin main
+            if ($LASTEXITCODE -eq 0) { $pushed = $true; break }
+            if ($i -lt 5) { Write-Host "第 $i 次失败，10 秒后重试..." -ForegroundColor Yellow; Start-Sleep -Seconds 10 }
+        }
+        Write-Host ""
+        if ($pushed) {
+            Get-ChildItem -Path $inbox -File | Where-Object { $_.Name -ne "说明.txt" } | Remove-Item -Force
+            Write-Host "补推成功！Cloudflare Pages 会在一两分钟内自动完成部署。" -ForegroundColor Green
+        } else {
+            Write-Host "补推仍然失败，网站没有更新。请稍后再试。" -ForegroundColor Red
+        }
+        Pause
+        exit
+    }
+
     Write-Host "桌面上没有找到命名为「类目_标题.txt」或「类目_标题.md」的文章。"
     Write-Host "请把要发布的文章放在桌面上，文件名格式例如「大手印_降雷大手印导论.txt」。"
     Write-Host ""
@@ -144,14 +167,44 @@ Set-Location $repoRoot
 git add .
 $commitMsg = "发布文章：" + ($generated -join "、")
 git commit -m $commitMsg
-git push
 
-# 推送后清空待发布文件夹里的存档 .md/.txt 文件（说明.txt 保留）
+# 推送：失败自动重试，最多 5 次，每次间隔 10 秒
+$maxTries = 5
+$pushed = $false
+for ($i = 1; $i -le $maxTries; $i++) {
+    git push origin main
+    if ($LASTEXITCODE -eq 0) {
+        $pushed = $true
+        break
+    }
+    if ($i -lt $maxTries) {
+        Write-Host ""
+        Write-Host "第 $i 次推送失败，10 秒后自动重试（共 $maxTries 次）..." -ForegroundColor Yellow
+        Write-Host ""
+        Start-Sleep -Seconds 10
+    }
+}
+
+if (-not $pushed) {
+    Write-Host ""
+    Write-Host "======================================" -ForegroundColor Red
+    Write-Host "推送失败！网站没有更新。" -ForegroundColor Red
+    Write-Host "文章已经保存并提交在你电脑上，不会丢失。" -ForegroundColor Red
+    Write-Host "待发布文件夹里的存档已保留。" -ForegroundColor Red
+    Write-Host ""
+    Write-Host "稍后请重新双击本发布程序即可补推，" -ForegroundColor Red
+    Write-Host "或在 PowerShell 里执行：git push origin main" -ForegroundColor Red
+    Write-Host "======================================" -ForegroundColor Red
+    Pause
+    exit 1
+}
+
+# 推送成功后才清空待发布文件夹里的存档 .md/.txt 文件（说明.txt 保留）
 Get-ChildItem -Path $inbox -File | Where-Object { $_.Name -ne "说明.txt" } | Remove-Item -Force
 
 Write-Host ""
-Write-Host "======================================"
-Write-Host "全部完成！本次发布：$($generated -join '、')"
-Write-Host "Cloudflare Pages 会在一两分钟内自动完成部署。"
-Write-Host "======================================"
+Write-Host "======================================" -ForegroundColor Green
+Write-Host "全部完成！本次发布：$($generated -join '、')" -ForegroundColor Green
+Write-Host "Cloudflare Pages 会在一两分钟内自动完成部署。" -ForegroundColor Green
+Write-Host "======================================" -ForegroundColor Green
 Pause
