@@ -219,4 +219,5 @@ title: 禅宗
   <li><a href="/禅宗/如卺《缁门警训》卷第五">如卺《缁门警训》卷第五</a><span class="dt-article-date">2026-11-25</span></li>
   <li><a href="/禅宗/如卺《缁门警训》卷第六">如卺《缁门警训》卷第六</a><span class="dt-article-date">2026-11-25</span></li>
   <li><a href="/禅宗/如卺《缁门警训》卷第七">如卺《缁门警训》卷第七</a><span class="dt-article-date">2026-11-25</span></li>
+  <li><a href="/禅宗/如卺《缁门警训》卷第八">如卺《缁门警训》卷第八</a><span class="dt-article-date">2026-11-25</span></li>
 </ul>
