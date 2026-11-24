@@ -52,4 +52,5 @@ title: 中观
   <li><a href="/中观/龙树《大智度论》卷第十六">龙树《大智度论》卷第十六</a><span class="dt-article-date">2026-11-24</span></li>
   <li><a href="/中观/龙树《大智度论》卷第十七">龙树《大智度论》卷第十七</a><span class="dt-article-date">2026-11-24</span></li>
   <li><a href="/中观/龙树《大智度论》卷第十八">龙树《大智度论》卷第十八</a><span class="dt-article-date">2026-11-24</span></li>
+  <li><a href="/中观/龙树《大智度论》卷第十九">龙树《大智度论》卷第十九</a><span class="dt-article-date">2026-11-24</span></li>
 </ul>
