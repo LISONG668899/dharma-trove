@@ -114,4 +114,5 @@ title: 综合
   <li><a href="/综合/《大般涅槃经》卷第七（邪正品、四谛品、四倒品）">《大般涅槃经》卷第七（邪正品、四谛品、四倒品）</a><span class="dt-article-date">2026-11-25</span></li>
   <li><a href="/综合/《大般涅槃经》卷第八（如来性品、文字品、鸟喻品）">《大般涅槃经》卷第八（如来性品、文字品、鸟喻品）</a><span class="dt-article-date">2026-11-25</span></li>
   <li><a href="/综合/《大般涅槃经》卷第九（月喻品、菩萨品）">《大般涅槃经》卷第九（月喻品、菩萨品）</a><span class="dt-article-date">2026-11-25</span></li>
+  <li><a href="/综合/《大般涅槃经》卷第十（一切大众所问品、现病品）">《大般涅槃经》卷第十（一切大众所问品、现病品）</a><span class="dt-article-date">2026-11-25</span></li>
 </ul>
