@@ -118,4 +118,5 @@ title: 中观
   <li><a href="/中观/龙树《大智度论》卷第八十二">龙树《大智度论》卷第八十二</a><span class="dt-article-date">2026-11-25</span></li>
   <li><a href="/中观/龙树《大智度论》卷第八十三">龙树《大智度论》卷第八十三</a><span class="dt-article-date">2026-11-25</span></li>
   <li><a href="/中观/龙树《大智度论》卷第八十四">龙树《大智度论》卷第八十四</a><span class="dt-article-date">2026-11-25</span></li>
+  <li><a href="/中观/龙树《大智度论》卷第八十五">龙树《大智度论》卷第八十五</a><span class="dt-article-date">2026-11-25</span></li>
 </ul>
