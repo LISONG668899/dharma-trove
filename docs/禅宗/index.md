@@ -222,5 +222,4 @@ title: 禅宗
   <li><a href="/禅宗/如卺《缁门警训》卷第八">如卺《缁门警训》卷第八</a><span class="dt-article-date">2026-11-25</span></li>
   <li><a href="/禅宗/如卺《缁门警训》卷第九">如卺《缁门警训》卷第九</a><span class="dt-article-date">2026-11-25</span></li>
   <li><a href="/禅宗/如卺《缁门警训》卷第十">如卺《缁门警训》卷第十</a><span class="dt-article-date">2026-11-25</span></li>
-  <li><a href="/禅宗/永明延寿《宗镜录》卷第六">永明延寿《宗镜录》卷第六</a><span class="dt-article-date">2026-11-25</span></li>
 </ul>
