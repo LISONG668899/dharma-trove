@@ -138,4 +138,5 @@ title: 综合
   <li><a href="/综合/《大般涅槃经》卷第三十一（迦叶菩萨品）">《大般涅槃经》卷第三十一（迦叶菩萨品）</a><span class="dt-article-date">2026-11-26</span></li>
   <li><a href="/综合/《大般涅槃经》卷第三十二（迦叶菩萨品）">《大般涅槃经》卷第三十二（迦叶菩萨品）</a><span class="dt-article-date">2026-11-26</span></li>
   <li><a href="/综合/《大般涅槃经》卷第三十三（迦叶菩萨品）">《大般涅槃经》卷第三十三（迦叶菩萨品）</a><span class="dt-article-date">2026-11-26</span></li>
+  <li><a href="/综合/《大般涅槃经》卷第三十四（迦叶菩萨品）">《大般涅槃经》卷第三十四（迦叶菩萨品）</a><span class="dt-article-date">2026-11-26</span></li>
 </ul>
