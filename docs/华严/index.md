@@ -52,4 +52,5 @@ title: 华严
   <li><a href="/华严/知讷《华严论节要》卷二">知讷《华严论节要》卷二</a><span class="dt-article-date">2026-11-14</span></li>
   <li><a href="/华严/知讷《华严论节要》卷三">知讷《华严论节要》卷三</a><span class="dt-article-date">2026-11-14</span></li>
   <li><a href="/华严/灌顶《天台八教大意》">灌顶《天台八教大意》</a><span class="dt-article-date">2026-11-25</span></li>
+  <li><a href="/华严/入法界体性经">入法界体性经</a><span class="dt-article-date">2026-11-25</span></li>
 </ul>
