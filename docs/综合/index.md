@@ -109,4 +109,5 @@ title: 综合
   <li><a href="/综合/《大般涅槃经》卷第二（纯陀品、哀叹品）">《大般涅槃经》卷第二（纯陀品、哀叹品）</a><span class="dt-article-date">2026-11-25</span></li>
   <li><a href="/综合/《大般涅槃经》卷第三（长寿品、金刚身品、名字功德品）">《大般涅槃经》卷第三（长寿品、金刚身品、名字功德品）</a><span class="dt-article-date">2026-11-25</span></li>
   <li><a href="/综合/《大般涅槃经》卷第四（四相品）">《大般涅槃经》卷第四（四相品）</a><span class="dt-article-date">2026-11-25</span></li>
+  <li><a href="/综合/《大般涅槃经》卷第五（四相品）">《大般涅槃经》卷第五（四相品）</a><span class="dt-article-date">2026-11-25</span></li>
 </ul>
