@@ -28,4 +28,5 @@ title: 净土
   <li><a href="/净土/古太和尚《参禅念佛文》">古太和尚《参禅念佛文》</a><span class="dt-article-date">2026-11-14</span></li>
   <li><a href="/净土/净土精华录">净土精华录</a><span class="dt-article-date">2026-11-18</span></li>
   <li><a href="/净土/天如惟则《净土或问》">天如惟则《净土或问》</a><span class="dt-article-date">2026-11-25</span></li>
+  <li><a href="/净土/窥基《西方要决释疑通规》">窥基《西方要决释疑通规》</a><span class="dt-article-date">2026-11-25</span></li>
 </ul>
