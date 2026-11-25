@@ -131,4 +131,5 @@ title: 综合
   <li><a href="/综合/《大般涅槃经》卷第二十四（光明遍照高贵德王菩萨品）">《大般涅槃经》卷第二十四（光明遍照高贵德王菩萨品）</a><span class="dt-article-date">2026-11-25</span></li>
   <li><a href="/综合/《大般涅槃经》卷第二十五（师子吼菩萨品）">《大般涅槃经》卷第二十五（师子吼菩萨品）</a><span class="dt-article-date">2026-11-25</span></li>
   <li><a href="/综合/《大般涅槃经》卷第二十六（师子吼菩萨品）">《大般涅槃经》卷第二十六（师子吼菩萨品）</a><span class="dt-article-date">2026-11-25</span></li>
+  <li><a href="/综合/《大般涅槃经》卷第二十七（师子吼菩萨品）">《大般涅槃经》卷第二十七（师子吼菩萨品）</a><span class="dt-article-date">2026-11-25</span></li>
 </ul>
