@@ -118,4 +118,5 @@ title: 综合
   <li><a href="/综合/《大般涅槃经》卷第十一（圣行品）">《大般涅槃经》卷第十一（圣行品）</a><span class="dt-article-date">2026-11-25</span></li>
   <li><a href="/综合/《大般涅槃经》卷第十二（圣行品）">《大般涅槃经》卷第十二（圣行品）</a><span class="dt-article-date">2026-11-25</span></li>
   <li><a href="/综合/《大般涅槃经》卷第十三（圣行品）">《大般涅槃经》卷第十三（圣行品）</a><span class="dt-article-date">2026-11-25</span></li>
+  <li><a href="/综合/《大般涅槃经》卷第十四（梵行品）">《大般涅槃经》卷第十四（梵行品）</a><span class="dt-article-date">2026-11-25</span></li>
 </ul>
