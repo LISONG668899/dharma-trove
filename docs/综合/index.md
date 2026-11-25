@@ -135,4 +135,5 @@ title: 综合
   <li><a href="/综合/《大般涅槃经》卷第二十八（师子吼菩萨品）">《大般涅槃经》卷第二十八（师子吼菩萨品）</a><span class="dt-article-date">2026-11-25</span></li>
   <li><a href="/综合/《大般涅槃经》卷第二十九（师子吼菩萨品）">《大般涅槃经》卷第二十九（师子吼菩萨品）</a><span class="dt-article-date">2026-11-25</span></li>
   <li><a href="/综合/《大般涅槃经》卷第三十（师子吼菩萨品）">《大般涅槃经》卷第三十（师子吼菩萨品）</a><span class="dt-article-date">2026-11-25</span></li>
+  <li><a href="/综合/《大般涅槃经》卷第三十一（迦叶菩萨品）">《大般涅槃经》卷第三十一（迦叶菩萨品）</a><span class="dt-article-date">2026-11-26</span></li>
 </ul>
