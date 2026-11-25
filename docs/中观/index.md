@@ -107,4 +107,5 @@ title: 中观
   <li><a href="/中观/龙树《大智度论》卷第七十一">龙树《大智度论》卷第七十一</a><span class="dt-article-date">2026-11-25</span></li>
   <li><a href="/中观/龙树《大智度论》卷第七十二">龙树《大智度论》卷第七十二</a><span class="dt-article-date">2026-11-25</span></li>
   <li><a href="/中观/龙树《大智度论》卷第七十三">龙树《大智度论》卷第七十三</a><span class="dt-article-date">2026-11-25</span></li>
+  <li><a href="/中观/龙树《大智度论》卷第七十四">龙树《大智度论》卷第七十四</a><span class="dt-article-date">2026-11-25</span></li>
 </ul>
