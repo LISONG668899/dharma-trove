@@ -104,4 +104,5 @@ title: 大圆满
   <li><a href="/大圆满/观音上师开示《三句击要》">嘉瓦仁波切《三句击要》开示</a><span class="dt-article-date">2026-09-14</span></li>
   <li><a href="/大圆满/任运八门——大圆满基现之教理探原">任运八门——大圆满基现之教理探原</a><span class="dt-article-date">2026-09-06</span></li>
   <li><a href="/大圆满/谈锡永《净治明相.导论》综述">谈锡永《净治明相·导论》综述</a><span class="dt-article-date">2026-11-17</span></li>
+  <li><a href="/大圆满/贡嘎卓秋《大手印大圆满双运·见即解脱宝甚深教授》">贡嘎卓秋《大手印大圆满双运·见即解脱宝甚深教授》</a><span class="dt-article-date">2026-11-25</span></li>
 </ul>
