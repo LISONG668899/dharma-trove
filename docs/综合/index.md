@@ -106,4 +106,5 @@ title: 综合
   <li><a href="/综合/唯识与中观千年的文献错位">唯识与中观：千年的文献错位</a><span class="dt-article-date">2026-10-21</span></li>
   <li><a href="/综合/菩萨戒中的八十种支分恶作">菩萨戒中的八十种支分恶作</a><span class="dt-article-date">2026-11-19</span></li>
   <li><a href="/综合/《大般涅槃经》卷第一（序品）">《大般涅槃经》卷第一（序品）</a><span class="dt-article-date">2026-11-25</span></li>
+  <li><a href="/综合/《大般涅槃经》卷第二（纯陀品、哀叹品）">《大般涅槃经》卷第二（纯陀品、哀叹品）</a><span class="dt-article-date">2026-11-25</span></li>
 </ul>
