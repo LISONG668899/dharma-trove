@@ -200,4 +200,5 @@ title: 综合
   <li><a href="/综合/《大宝积经》卷第五十五（佛为阿难说处胎会）">《大宝积经》卷第五十五（佛为阿难说处胎会）</a><span class="dt-article-date">2026-11-26</span></li>
   <li><a href="/综合/《大宝积经》卷第五十六（佛说入胎藏会）">《大宝积经》卷第五十六（佛说入胎藏会）</a><span class="dt-article-date">2026-11-26</span></li>
   <li><a href="/综合/《大宝积经》卷第五十七（佛说入胎藏会）">《大宝积经》卷第五十七（佛说入胎藏会）</a><span class="dt-article-date">2026-11-26</span></li>
+  <li><a href="/综合/《大宝积经》卷第五十八（文殊师利授记会）">《大宝积经》卷第五十八（文殊师利授记会）</a><span class="dt-article-date">2026-11-26</span></li>
 </ul>
