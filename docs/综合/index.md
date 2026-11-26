@@ -175,4 +175,5 @@ title: 综合
   <li><a href="/综合/《大宝积经》卷第三十（出现光明会）">《大宝积经》卷第三十（出现光明会）</a><span class="dt-article-date">2026-11-26</span></li>
   <li><a href="/综合/《大宝积经》卷第三十一（出现光明会）">《大宝积经》卷第三十一（出现光明会）</a><span class="dt-article-date">2026-11-26</span></li>
   <li><a href="/综合/《大宝积经》卷第三十二（出现光明会）">《大宝积经》卷第三十二（出现光明会）</a><span class="dt-article-date">2026-11-26</span></li>
+  <li><a href="/综合/《大宝积经》卷第三十三（出现光明会）">《大宝积经》卷第三十三（出现光明会）</a><span class="dt-article-date">2026-11-26</span></li>
 </ul>
