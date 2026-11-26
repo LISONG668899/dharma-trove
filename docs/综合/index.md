@@ -198,4 +198,5 @@ title: 综合
   <li><a href="/综合/《大宝积经》卷第五十三（菩萨藏会·般若波罗蜜多品）">《大宝积经》卷第五十三（菩萨藏会·般若波罗蜜多品）</a><span class="dt-article-date">2026-11-26</span></li>
   <li><a href="/综合/《大宝积经》卷第五十四（菩萨藏会·大自在天授记品）">《大宝积经》卷第五十四（菩萨藏会·大自在天授记品）</a><span class="dt-article-date">2026-11-26</span></li>
   <li><a href="/综合/《大宝积经》卷第五十五（佛为阿难说处胎会）">《大宝积经》卷第五十五（佛为阿难说处胎会）</a><span class="dt-article-date">2026-11-26</span></li>
+  <li><a href="/综合/《大宝积经》卷第五十六（佛说入胎藏会）">《大宝积经》卷第五十六（佛说入胎藏会）</a><span class="dt-article-date">2026-11-26</span></li>
 </ul>
