@@ -154,4 +154,5 @@ title: 综合
   <li><a href="/综合/《大宝积经》卷第九（密迹金刚力士会）">《大宝积经》卷第九（密迹金刚力士会）</a><span class="dt-article-date">2026-11-26</span></li>
   <li><a href="/综合/《大宝积经》卷第十（密迹金刚力士会）">《大宝积经》卷第十（密迹金刚力士会）</a><span class="dt-article-date">2026-11-26</span></li>
   <li><a href="/综合/《大宝积经》卷第十一（密迹金刚力士会）">《大宝积经》卷第十一（密迹金刚力士会）</a><span class="dt-article-date">2026-11-26</span></li>
+  <li><a href="/综合/《大宝积经》卷第十二（密迹金刚力士会）">《大宝积经》卷第十二（密迹金刚力士会）</a><span class="dt-article-date">2026-11-26</span></li>
 </ul>
