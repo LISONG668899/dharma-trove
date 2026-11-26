@@ -170,4 +170,5 @@ title: 综合
   <li><a href="/综合/《大宝积经》卷第二十五（被甲庄严会）">《大宝积经》卷第二十五（被甲庄严会）</a><span class="dt-article-date">2026-11-26</span></li>
   <li><a href="/综合/《大宝积经》卷第二十六（法界体性无分别会）">《大宝积经》卷第二十六（法界体性无分别会）</a><span class="dt-article-date">2026-11-26</span></li>
   <li><a href="/综合/《大宝积经》卷第二十七（法界体性无分别会）">《大宝积经》卷第二十七（法界体性无分别会）</a><span class="dt-article-date">2026-11-26</span></li>
+  <li><a href="/综合/《大宝积经》卷第二十八（大乘十法会）">《大宝积经》卷第二十八（大乘十法会）</a><span class="dt-article-date">2026-11-26</span></li>
 </ul>
