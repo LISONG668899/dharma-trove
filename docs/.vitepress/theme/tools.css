@@ -589,8 +589,10 @@ html.dark .VPFeature .title .dt-bo { color: #a8d3ed; }
 .VPFeature .title .dt-feat-wide { display: block; font-size: 20px; letter-spacing: 0.3em; text-indent: 0.3em; text-align: center; }
 .VPFeatures .container .items .item:has(.dt-feat-wide) { width: 100% !important; max-width: none !important; flex: 0 0 100% !important; }
 .VPFeatures .item:has(.dt-feat-wide) .VPFeature .box { padding: 18px 24px; justify-content: center; }
+/* 电脑上：上两行是八个类目（一行四个）；甘珠尔、丹珠尔各占半行，并排成一行；
+   乾隆大藏经占满一整行。三行原典和上面的类目左右对齐，不再中间悬空 */
 @media (min-width: 960px) {
-  .VPFeatures .container .items .item:has(.dt-feat-wide) { width: 50% !important; flex: 0 0 50% !important; margin: 0 25%; }
+  .VPFeatures .container .items .item:has(.dt-bo) { width: 50% !important; flex: 0 0 50% !important; }
 }
 
 /* 二级目录：一行两个豆腐块（只有中文） */

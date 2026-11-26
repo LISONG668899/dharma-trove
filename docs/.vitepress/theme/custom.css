@@ -255,9 +255,9 @@ html:not(.dark) .VPFooter {
    对比度仍在 10:1 以上（远高于舒适阅读所需），长时间阅读不累眼
    ============================================================ */
 html.dark {
-  --vp-c-text-1: #c6d2dd;        /* 正文：比原来的柔白 #E8EFF5 暗一档 */
-  --vp-c-text-2: #a3b6c7;        /* 次要文字 */
-  --vp-c-text-3: #7f93a5;        /* 日期等最次要的小字 */
+  --vp-c-text-1: #aebdca;        /* 正文：2026-11-26 再调暗一档（原 #c6d2dd），对比度仍约 9:1 */
+  --vp-c-text-2: #8fa2b4;        /* 次要文字（原 #a3b6c7） */
+  --vp-c-text-3: #71869a;        /* 日期等最次要的小字（原 #7f93a5） */
 }
 html.dark .vp-doc { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }   /* 深底浅字时笔画不发胖、不发光 */
 /* 标题比正文略亮一点，保持层次 */
@@ -275,3 +275,9 @@ html.dark .vp-doc h1, html.dark .vp-doc h2, html.dark .vp-doc h3, html.dark .dt-
 }
 .VPDocFooter { margin-top: 24px !important; }
 .VPFooter { padding-top: 24px !important; }
+
+/* 首页：类目卡片下面原有 128px（手机 96px）空白，浅色模式页脚和正文同一张纸纹，
+   看起来就是一大段空档。收小，并给浅色页脚加一条淡金色分隔线 */
+.VPHome { margin-bottom: 48px !important; }
+@media (max-width: 767px) { .VPHome { margin-bottom: 32px !important; } }
+html:not(.dark) .VPFooter { border-top: 1px solid rgba(166, 124, 46, 0.22) !important; }
