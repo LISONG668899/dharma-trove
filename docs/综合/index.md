@@ -158,4 +158,5 @@ title: 综合
   <li><a href="/综合/《大宝积经》卷第十三（密迹金刚力士会）">《大宝积经》卷第十三（密迹金刚力士会）</a><span class="dt-article-date">2026-11-26</span></li>
   <li><a href="/综合/《大宝积经》卷第十四（密迹金刚力士会）">《大宝积经》卷第十四（密迹金刚力士会）</a><span class="dt-article-date">2026-11-26</span></li>
   <li><a href="/综合/《大宝积经》卷第十五（净居天子会）">《大宝积经》卷第十五（净居天子会）</a><span class="dt-article-date">2026-11-26</span></li>
+  <li><a href="/综合/《大宝积经》卷第十六（净居天子会）">《大宝积经》卷第十六（净居天子会）</a><span class="dt-article-date">2026-11-26</span></li>
 </ul>
