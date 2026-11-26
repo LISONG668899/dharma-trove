@@ -10,7 +10,7 @@ import { T } from '../saved'
 
 const NAME = '乾隆大藏经'
 
-interface Entry { t: string; no: number; title: string; juan: string; by: string; sec: string; parts: string[] }
+interface Entry { t: string; no: number; title: string; juan: string; by: string; sec: string; parts: string[]; toc?: number }
 type Block = [string, string]
 const entry = ref<Entry | null>(null)
 const blocks = ref<Block[]>([])
@@ -23,11 +23,24 @@ let catalogP: Promise<Entry[]> | null = null
 const catalog = () => (catalogP ||= fetch(withBase('/canon/qianlong/catalog.json')).then((r) => r.json()))
 const total = computed(() => entry.value?.parts.length || 0)
 
-// 本册里的各卷，供“跳到某卷”
-const juans = computed(() => blocks.value.map((b, i) => ({ b, i })).filter((x) => x.b[0] === 'j'))
+// 卷目：整部经的每一卷，点了就到那一卷（多册的经读 toc.json，单册的就从本册正文里取）
+type TocItem = [number, number, string, string]   // [第几册, 第几块, 卷名, 品名]
+const toc = ref<TocItem[]>([])
+const tocOpen = ref(false)
+const tocItems = computed<TocItem[]>(() => toc.value.length
+  ? toc.value
+  : blocks.value.map((b, i) => [part.value, i, b[1], blocks.value[i + 1]?.[0] === 'h' ? blocks.value[i + 1][1] : ''] as TocItem).filter((x) => blocks.value[x[1]][0] === 'j'))
 const juanShort = (s: string) => {
   const m = s.match(/卷(第*[一二三四五六七八九十百千零〇]+(之?[上中下])?|[上中下])/)
   return m ? m[0].replace(/第+/, '第') : s
+}
+let tocFor = ''
+async function loadToc(e: Entry) {
+  if (tocFor === e.t) return
+  tocFor = e.t
+  toc.value = []
+  if (!e.toc) return
+  try { toc.value = await (await fetch(withBase(`/canon/qianlong/${encodeURIComponent(e.t)}/toc.json`))).json() } catch {}
 }
 
 function readQuery() {
@@ -66,6 +79,7 @@ async function load(push = false, t?: string, p?: number) {
     if (!r.ok) throw new Error('nf')
     const d = await r.json()
     entry.value = e
+    loadToc(e)
     part.value = p
     blocks.value = d.blocks
     if (push) history.pushState(null, '', `${location.pathname}?t=${encodeURIComponent(t)}&p=${p}`)
@@ -91,9 +105,18 @@ function go(p: number) {
   if (!entry.value || p < 1 || p > total.value || p === part.value) return
   load(true, entry.value.t, p).then(() => window.scrollTo({ top: 0 }))
 }
-function jump(i: number) {
+function scrollToBlock(i: number, smooth = true) {
   const el = document.getElementById(`ql-${i}`)
-  if (el) window.scrollTo({ top: el.getBoundingClientRect().top + window.scrollY - 80, behavior: 'smooth' })
+  if (el) window.scrollTo({ top: el.getBoundingClientRect().top + window.scrollY - 80, behavior: smooth ? 'smooth' : 'auto' })
+}
+async function jump(p: number, i: number) {
+  tocOpen.value = false
+  if (!entry.value) return
+  if (p !== part.value) {
+    await load(true, entry.value.t, p)
+    await nextTick()
+    scrollToBlock(i, false)
+  } else scrollToBlock(i)
 }
 const onPop = () => load(false)
 
@@ -129,9 +152,18 @@ onBeforeUnmount(() => window.removeEventListener('popstate', onPop))
           {{ T('共', '共') }} {{ total }} {{ T('册', '冊') }}
         </span>
       </div>
-      <nav v-if="juans.length > 1" class="dt-ql-juans">
-        <a v-for="x in juans" :key="x.i" href="javascript:void 0" @click.prevent="jump(x.i)">{{ juanShort(x.b[1]) }}</a>
-      </nav>
+      <div v-if="tocItems.length > 1" class="dt-ql-toc">
+        <button class="dt-tool dt-ql-tocbtn" type="button" :aria-expanded="tocOpen" @click="tocOpen = !tocOpen">
+          {{ T('卷目', '卷目') }}（{{ tocItems.length }} {{ T('卷', '卷') }}）{{ tocOpen ? '▴' : '▾' }}
+        </button>
+        <ol v-if="tocOpen" class="dt-ql-toclist">
+          <li v-for="(x, k) in tocItems" :key="k" :class="{ here: x[0] === part }">
+            <a href="javascript:void 0" @click.prevent="jump(x[0], x[1])">
+              <span class="dt-ql-tocj">{{ juanShort(x[2]) }}</span><span v-if="x[3]" class="dt-ql-tocp">{{ x[3] }}</span>
+            </a>
+          </li>
+        </ol>
+      </div>
 
       <div class="dt-ql-body" :class="{ dim: loading }">
         <template v-for="(b, i) in blocks" :key="part + '-' + i">

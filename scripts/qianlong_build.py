@@ -183,9 +183,18 @@ def cut(bl):
     return res
 
 
+def drop_toc(bl):
+    """分册开头若是一串卷名、品名（正文前重复的目录），只留最后一个卷名起的部分。"""
+    f = next((i for i, b in enumerate(bl) if b[0] in 'pvk'), len(bl))
+    js = [i for i in range(f) if bl[i][0] == 'j']
+    if len(js) >= 2:
+        return bl[js[-1]:]
+    return bl
+
+
 def part_order(fname):
     base = os.path.basename(fname)
-    if '目录' in base or base.startswith('a'):
+    if base.startswith('a') and '目录' in base:
         return -1
     m = re.search(r'第(\d+)卷', base)
     return int(m.group(1)) if m else 0
@@ -193,7 +202,7 @@ def part_order(fname):
 
 def part_label(fname, n_parts):
     base = os.path.basename(fname)
-    if '目录' in base:
+    if base.startswith('a') and '目录' in base:
         return '目录'
     m = re.search(r'第(\d+)卷[～~\-－至]+第(\d+)卷', base)
     if m:
@@ -209,6 +218,10 @@ def main():
         L = read(f)
         if len(L) < 3 or not ''.join(L).strip():
             skipped.append(os.path.relpath(f, SRC)); continue
+        if os.path.basename(f).startswith('a') and '目录' in os.path.basename(f):
+            # 《大般若经》《大宝积经》各有一个“目录”TXT，只是卷名、品名的清单，
+            # 不能点、又和正文重复；改由阅读页的“卷目”（可点）代替
+            continue
         sec = os.path.relpath(f, SRC).split(os.sep)[0]
         m = HEAD.match(L[0].strip())
         if m:
@@ -266,7 +279,7 @@ def main():
         os.makedirs(os.path.join(DATA, e['t']))
         chunks = []
         for f in e['files']:
-            bl = blocks(split(read(f)))
+            bl = drop_toc(blocks(split(read(f))))
             label = part_label(f, n)
             for k, (sub, sub_label) in enumerate(cut(bl)):
                 chunks.append((sub, sub_label or label))
@@ -277,8 +290,18 @@ def main():
                 json.dump({'t': e['t'], 'p': p, 'blocks': bl}, fp, ensure_ascii=False, separators=(',', ':'))
             parts.append(label)
             total_parts += 1
+        # 卷目：每卷在第几册、第几块，以及紧跟的品名；多册的经单独存一个 toc.json，阅读页可直接点到任一卷
+        toc = []
+        for p, (bl, label) in enumerate(chunks, 1):
+            for i, b in enumerate(bl):
+                if b[0] == 'j':
+                    pin = bl[i + 1][1] if i + 1 < len(bl) and bl[i + 1][0] == 'h' else ''
+                    toc.append([p, i, b[1], pin[:40]])
+        if len(chunks) > 1 and toc:
+            with open(os.path.join(DATA, e['t'], 'toc.json'), 'w', encoding='utf-8') as fp:
+                json.dump(toc, fp, ensure_ascii=False, separators=(',', ':'))
         out_cat.append({'t': e['t'], 'no': e['no'], 'title': e['title'], 'juan': e['juan'],
-                        'by': e['by'], 'sec': e['sec'], 'parts': parts})
+                        'by': e['by'], 'sec': e['sec'], 'parts': parts, 'toc': 1 if (len(chunks) > 1 and toc) else 0})
     with open(os.path.join(DATA, 'catalog.json'), 'w', encoding='utf-8') as fp:
         json.dump(out_cat, fp, ensure_ascii=False, separators=(',', ':'))
 
@@ -297,7 +320,7 @@ def main():
     def juan_n(e):
         return cn2int(e['juan'].rstrip('卷')) if e['juan'] else 0
 
-    L = ['---', f'title: {NAME}', 'aside: false', 'sidebar: false', '---', '', f'# {NAME}', '',
+    L = ['---', f'title: {NAME}', 'aside: false', 'sidebar: false', 'prev: false', 'next: false', '---', '', f'# {NAME}', '',
          '《乾隆大藏经》，又称《龙藏》，清雍正十一年（1733）开雕，乾隆三年（1738）完成，'
          '共收经、律、论及中土撰述一千六百六十九部。下列各部类按龙藏原有的编次排列，'
          '点进去可以看到所收各经，点经名即可阅读原文。阅读时可以选中文字划线收藏，'
@@ -313,7 +336,7 @@ def main():
 
     for s in secs:
         es = [x for x in out_cat if x['sec'] == s]
-        L = ['---', f'title: {s}', 'aside: false', 'sidebar: false', '---', '',
+        L = ['---', f'title: {s}', 'aside: false', 'sidebar: false', 'prev: false', 'next: false', '---', '',
              f'<p class="dt-crumb"><a href="/{NAME}/">{NAME}</a></p>', '', f'# {s}', '',
              f'<p class="dt-ql-sub">{GROUP.get(s, "")} · 共 {len(es)} 部 · 按龙藏原编号排列</p>', '',
              '<ol class="dt-texts dt-ql-texts">']

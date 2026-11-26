@@ -262,3 +262,16 @@ html.dark {
 html.dark .vp-doc { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }   /* 深底浅字时笔画不发胖、不发光 */
 /* 标题比正文略亮一点，保持层次 */
 html.dark .vp-doc h1, html.dark .vp-doc h2, html.dark .vp-doc h3, html.dark .dt-title { color: #d6e0e9; }
+
+/* ============================================================
+   2026-11-26 页脚上方的空白收紧：
+   VitePress 默认在正文下面留 128px（手机 96px），文末“上一页/下一页”区再加 64px，
+   连同页脚自己的上边距，正文结束到页脚 Logo 之间空出将近两三百像素。
+   统一改小，各类页面（文章、目录、阅读页）都一样
+   ============================================================ */
+.VPDoc { padding-bottom: 32px !important; }
+@media (min-width: 960px) {
+  .VPDoc .content { padding-bottom: 40px !important; }
+}
+.VPDocFooter { margin-top: 24px !important; }
+.VPFooter { padding-top: 24px !important; }

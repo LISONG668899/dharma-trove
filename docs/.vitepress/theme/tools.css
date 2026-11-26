@@ -614,8 +614,19 @@ html.dark .dt-secbtn-zh .dt-sec-zh { color: #a8d3ed; }
 /* 阅读页 */
 .vp-doc h1.dt-ql-title { margin: 8px 0 6px; padding: 0; border: 0; font-size: 26px; line-height: 1.5; text-wrap: pretty; }
 .dt-ql-pickrow { margin-top: -10px; }
-.dt-ql-juans { display: flex; flex-wrap: wrap; gap: 6px 10px; margin: 0 0 22px; padding: 10px 12px; border-radius: 10px; background: var(--vp-c-bg-soft); font-size: 13.5px; }
-.vp-doc .dt-ql-juans a { color: var(--dt-gold); text-decoration: none; white-space: nowrap; }
+/* 卷目：平时收起，点开后列出整部经的每一卷（卷次＋品名），点了直接到那一卷 */
+.dt-ql-toc { margin: 0 0 22px; }
+.dt-ql-tocbtn { padding: 4px 14px; font-size: 14px; }
+.vp-doc ol.dt-ql-toclist { list-style: none; margin: 10px 0 0; padding: 8px 12px; max-height: 60vh; overflow-y: auto; border-radius: 10px; background: var(--vp-c-bg-soft); display: grid; grid-template-columns: 1fr 1fr; gap: 2px 18px; }
+.vp-doc ol.dt-ql-toclist li { margin: 0; line-height: 1.6; }
+.vp-doc ol.dt-ql-toclist a { display: block; padding: 3px 0; color: var(--vp-c-text-1); text-decoration: none; font-size: 14px; }
+.vp-doc ol.dt-ql-toclist a:hover .dt-ql-tocj { text-decoration: underline; }
+.dt-ql-tocj { color: var(--dt-gold); margin-right: 8px; white-space: nowrap; }
+.dt-ql-tocp { color: var(--vp-c-text-2); font-size: 13px; }
+.vp-doc ol.dt-ql-toclist li.here .dt-ql-tocj { font-weight: 600; }
+html.dark .vp-doc ol.dt-ql-toclist { background: #203d57; }
+html.dark .dt-ql-tocj { color: #a8d3ed; }
+@media (max-width: 639px) { .vp-doc ol.dt-ql-toclist { grid-template-columns: 1fr; } }
 .dt-ql-body.dim { opacity: 0.4; }
 .dt-ql-body { overflow-wrap: anywhere; }
 .vp-doc h2.dt-ql-juan { margin: 40px 0 6px; padding-top: 18px; border-top: 1px solid var(--dt-gold-line); font-size: 21px; line-height: 1.6; text-align: center; color: var(--dt-gold); letter-spacing: 0.05em; }
@@ -626,8 +637,7 @@ html.dark .dt-secbtn-zh .dt-sec-zh { color: #a8d3ed; }
 .vp-doc p.dt-ql-k { margin: 18px 0 10px; padding-left: 12px; border-left: 3px solid var(--dt-gold-line); font-size: 17px; line-height: 2; font-weight: 600; text-align: justify; }
 /* 偈颂：保留分行，整块居中、块内左对齐 */
 .vp-doc p.dt-ql-v { display: table; margin: 6px auto 16px; font-size: 17px; line-height: 2; white-space: pre-line; text-align: left; }
-html.dark .dt-ql-juans { background: #203d57; }
-html.dark .vp-doc h2.dt-ql-juan, html.dark .dt-ql-no, html.dark .vp-doc .dt-ql-juans a { color: #a8d3ed; }
+html.dark .vp-doc h2.dt-ql-juan, html.dark .dt-ql-no { color: #a8d3ed; }
 @media (max-width: 639px) {
   .vp-doc h1.dt-ql-title { font-size: 22px; }
   .vp-doc p.dt-ql-p, .vp-doc p.dt-ql-k, .vp-doc p.dt-ql-v { font-size: 16px; }
