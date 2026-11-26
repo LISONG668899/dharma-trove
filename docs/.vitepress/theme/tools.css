@@ -579,3 +579,58 @@ html.dark .VPFeature .title .dt-bo { color: #a8d3ed; }
   text-align: left;
 }
 .vp-doc div[class*='language-'] code span { color: inherit !important; }
+
+/* ============================================================
+   乾隆大藏经（2026-11-26）
+   目录页、部类页、阅读页全部由 scripts/qianlong_build.py 自动生成，这里只管排版
+   ============================================================ */
+
+/* 首页：甘珠尔、丹珠尔两个豆腐块下面的长条，宽度等于两个豆腐块，单独一行居中 */
+.VPFeature .title .dt-feat-wide { display: block; font-size: 20px; letter-spacing: 0.3em; text-indent: 0.3em; text-align: center; }
+.VPFeatures .container .items .item:has(.dt-feat-wide) { width: 100% !important; max-width: none !important; flex: 0 0 100% !important; }
+.VPFeatures .item:has(.dt-feat-wide) .VPFeature .box { padding: 18px 24px; justify-content: center; }
+@media (min-width: 960px) {
+  .VPFeatures .container .items .item:has(.dt-feat-wide) { width: 50% !important; flex: 0 0 50% !important; margin: 0 25%; }
+}
+
+/* 二级目录：一行两个豆腐块（只有中文） */
+.dt-secgrid.dt-secgrid-2 { grid-template-columns: 1fr 1fr; }
+.vp-doc a.dt-secbtn.dt-secbtn-zh { min-height: 84px; }
+.dt-secbtn-zh .dt-sec-zh { font-size: 17px; letter-spacing: 0.05em; color: var(--dt-gold); text-align: center; }
+html.dark .dt-secbtn-zh .dt-sec-zh { color: #a8d3ed; }
+@media (max-width: 639px) {
+  .vp-doc a.dt-secbtn.dt-secbtn-zh { min-height: 76px; padding: 8px; }
+  .dt-secbtn-zh .dt-sec-zh { font-size: 15.5px; }
+}
+
+/* 部类页：经名、第几部、卷数与译者 */
+.dt-ql-sub { margin: -6px 0 18px; font-size: 14px; color: var(--vp-c-text-3); }
+.vp-doc ol.dt-ql-texts { list-style: none; padding-left: 0; }
+.vp-doc ol.dt-ql-texts li { margin: 0; padding: 9px 0; border-bottom: 1px dashed var(--dt-gold-line); line-height: 1.7; }
+.vp-doc ol.dt-ql-texts a { font-size: 16.5px; }
+.dt-ql-no { display: inline-block; margin-left: 10px; font-size: 12px; color: var(--dt-gold); white-space: nowrap; }
+.dt-ql-meta { display: block; font-size: 13px; color: var(--vp-c-text-3); }
+
+/* 阅读页 */
+.vp-doc h1.dt-ql-title { margin: 8px 0 6px; padding: 0; border: 0; font-size: 26px; line-height: 1.5; text-wrap: pretty; }
+.dt-ql-pickrow { margin-top: -10px; }
+.dt-ql-juans { display: flex; flex-wrap: wrap; gap: 6px 10px; margin: 0 0 22px; padding: 10px 12px; border-radius: 10px; background: var(--vp-c-bg-soft); font-size: 13.5px; }
+.vp-doc .dt-ql-juans a { color: var(--dt-gold); text-decoration: none; white-space: nowrap; }
+.dt-ql-body.dim { opacity: 0.4; }
+.dt-ql-body { overflow-wrap: anywhere; }
+.vp-doc h2.dt-ql-juan { margin: 40px 0 6px; padding-top: 18px; border-top: 1px solid var(--dt-gold-line); font-size: 21px; line-height: 1.6; text-align: center; color: var(--dt-gold); letter-spacing: 0.05em; }
+.vp-doc .dt-ql-body > h2.dt-ql-juan:first-child { margin-top: 8px; border-top: 0; padding-top: 0; }
+.vp-doc h3.dt-ql-h { margin: 22px 0 8px; font-size: 17.5px; line-height: 1.7; text-align: center; text-wrap: pretty; }
+.vp-doc p.dt-ql-by { margin: 0 0 18px; font-size: 14px; text-align: center; color: var(--vp-c-text-2); }
+.vp-doc p.dt-ql-p { margin: 0 0 12px; font-size: 17px; line-height: 2; text-indent: 2em; text-align: justify; }
+.vp-doc p.dt-ql-k { margin: 18px 0 10px; padding-left: 12px; border-left: 3px solid var(--dt-gold-line); font-size: 17px; line-height: 2; font-weight: 600; text-align: justify; }
+/* 偈颂：保留分行，整块居中、块内左对齐 */
+.vp-doc p.dt-ql-v { display: table; margin: 6px auto 16px; font-size: 17px; line-height: 2; white-space: pre-line; text-align: left; }
+html.dark .dt-ql-juans { background: #203d57; }
+html.dark .vp-doc h2.dt-ql-juan, html.dark .dt-ql-no, html.dark .vp-doc .dt-ql-juans a { color: #a8d3ed; }
+@media (max-width: 639px) {
+  .vp-doc h1.dt-ql-title { font-size: 22px; }
+  .vp-doc p.dt-ql-p, .vp-doc p.dt-ql-k, .vp-doc p.dt-ql-v { font-size: 16px; }
+  .vp-doc p.dt-ql-v { display: block; }
+  .vp-doc h2.dt-ql-juan { font-size: 19px; }
+}

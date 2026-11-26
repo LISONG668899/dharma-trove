@@ -14,7 +14,7 @@ import {
 
 const route = useRoute()
 const { page, frontmatter } = useData()
-const CATS = ['唯识', '中观', '华严', '禅宗', '净土', '大手印', '大圆满', '综合', '甘珠尔', '丹珠尔']
+const CATS = ['唯识', '中观', '华严', '禅宗', '净土', '大手印', '大圆满', '综合', '甘珠尔', '丹珠尔', '乾隆大藏经']
 const rel = computed(() => page.value.relativePath || '')
 const cat = computed(() => rel.value.split('/')[0])
 const CANON = ['甘珠尔', '丹珠尔']

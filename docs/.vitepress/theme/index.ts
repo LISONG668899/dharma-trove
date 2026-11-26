@@ -6,6 +6,7 @@ import SelectSave from './components/SelectSave.vue'
 import SavedList from './components/SavedList.vue'
 import SavedNavButton from './components/SavedNavButton.vue'
 import CanonReader from './components/CanonReader.vue'
+import QianlongReader from './components/QianlongReader.vue'
 import './custom.css'
 import './tools.css'
 import type { Theme } from 'vitepress'
@@ -34,5 +35,6 @@ export default {
     app.component('ConvertToggle', ConvertToggle)
     app.component('SavedList', SavedList)
     app.component('CanonReader', CanonReader)
+    app.component('QianlongReader', QianlongReader)
   }
 } satisfies Theme

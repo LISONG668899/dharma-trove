@@ -25,4 +25,6 @@ features:
     link: /甘珠尔/
   - title: <span class="dt-bo">བསྟན་འགྱུར།</span><span class="dt-feat-zh">丹珠尔</span>
     link: /丹珠尔/
+  - title: <span class="dt-feat-wide">乾隆大藏经</span>
+    link: /乾隆大藏经/
 ---
