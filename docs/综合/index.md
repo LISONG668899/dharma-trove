@@ -245,4 +245,5 @@ title: 综合
   <li><a href="/综合/《大宝积经》卷第一百七（大乘方便会之二）">《大宝积经》卷第一百七（大乘方便会之二）</a><span class="dt-article-date">2026-11-27</span></li>
   <li><a href="/综合/《大宝积经》卷第一百八（大乘方便会之三）">《大宝积经》卷第一百八（大乘方便会之三）</a><span class="dt-article-date">2026-11-27</span></li>
   <li><a href="/综合/《大宝积经》卷第一百九（贤护长者会之一）">《大宝积经》卷第一百九（贤护长者会之一）</a><span class="dt-article-date">2026-11-27</span></li>
+  <li><a href="/综合/《大宝积经》卷第一百一十（贤护长者会之二）">《大宝积经》卷第一百一十（贤护长者会之二）</a><span class="dt-article-date">2026-11-27</span></li>
 </ul>
