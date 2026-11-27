@@ -405,4 +405,5 @@ title: 唯识
   <li><a href="/唯识/弥勒菩萨《瑜伽师地论》卷第十六（思所成地）">弥勒菩萨《瑜伽师地论》卷第十六（思所成地）</a><span class="dt-article-date">2026-11-27</span></li>
   <li><a href="/唯识/弥勒菩萨《瑜伽师地论》卷第十七（思所成地）">弥勒菩萨《瑜伽师地论》卷第十七（思所成地）</a><span class="dt-article-date">2026-11-27</span></li>
   <li><a href="/唯识/弥勒菩萨《瑜伽师地论》卷第十八（思所成地）">弥勒菩萨《瑜伽师地论》卷第十八（思所成地）</a><span class="dt-article-date">2026-11-27</span></li>
+  <li><a href="/唯识/弥勒菩萨《瑜伽师地论》卷第十九（思所成地）">弥勒菩萨《瑜伽师地论》卷第十九（思所成地）</a><span class="dt-article-date">2026-11-27</span></li>
 </ul>
