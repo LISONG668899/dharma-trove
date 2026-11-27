@@ -388,4 +388,5 @@ title: 唯识
   <li><a href="/唯识/安慧《唯识三十颂释》">安慧《唯识三十颂释》</a><span class="dt-article-date">2026-11-23</span></li>
   <li><a href="/唯识/中边分别论">中边分别论</a><span class="dt-article-date">2026-11-25</span></li>
   <li><a href="/唯识/弥勒菩萨《瑜伽师地论》卷第一（五识身相应地、意地）">弥勒菩萨《瑜伽师地论》卷第一（五识身相应地、意地）</a><span class="dt-article-date">2026-11-27</span></li>
+  <li><a href="/唯识/弥勒菩萨《瑜伽师地论》卷第二（意地）">弥勒菩萨《瑜伽师地论》卷第二（意地）</a><span class="dt-article-date">2026-11-27</span></li>
 </ul>
