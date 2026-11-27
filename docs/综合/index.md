@@ -226,4 +226,5 @@ title: 综合
   <li><a href="/综合/《大宝积经》卷第八十一（护国菩萨会之二）">《大宝积经》卷第八十一（护国菩萨会之二）</a><span class="dt-article-date">2026-11-27</span></li>
   <li><a href="/综合/《大宝积经》卷第八十二（郁伽长者会）">《大宝积经》卷第八十二（郁伽长者会）</a><span class="dt-article-date">2026-11-27</span></li>
   <li><a href="/综合/《大宝积经》卷第九十（优波离会）">《大宝积经》卷第九十（优波离会）</a><span class="dt-article-date">2026-11-27</span></li>
+  <li><a href="/综合/《大宝积经》卷第九十一（发胜志乐会之一）">《大宝积经》卷第九十一（发胜志乐会之一）</a><span class="dt-article-date">2026-11-27</span></li>
 </ul>
