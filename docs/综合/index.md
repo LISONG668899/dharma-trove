@@ -234,4 +234,5 @@ title: 综合
   <li><a href="/综合/《大宝积经》卷第九十六（勤授长者会）">《大宝积经》卷第九十六（勤授长者会）</a><span class="dt-article-date">2026-11-27</span></li>
   <li><a href="/综合/《大宝积经》卷第九十七（优陀延王会）">《大宝积经》卷第九十七（优陀延王会）</a><span class="dt-article-date">2026-11-27</span></li>
   <li><a href="/综合/《大宝积经》卷第九十八（妙慧童女会、恒河上优婆夷会）">《大宝积经》卷第九十八（妙慧童女会、恒河上优婆夷会）</a><span class="dt-article-date">2026-11-27</span></li>
+  <li><a href="/综合/《大宝积经》卷第九十九（无畏德菩萨会）">《大宝积经》卷第九十九（无畏德菩萨会）</a><span class="dt-article-date">2026-11-27</span></li>
 </ul>
