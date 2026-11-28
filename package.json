@@ -4,10 +4,11 @@
   "private": true,
   "scripts": {
     "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs && pagefind",
+    "docs:build": "vitepress build docs && pagefind && node scripts/canon_r2.mjs",
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
+    "@aws-sdk/client-s3": "^3.1179.0",
     "pagefind": "^1.6.0",
     "vitepress": "^1.6.4"
   },
