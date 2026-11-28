@@ -15,6 +15,8 @@
 // 礼节：Dharmamitra 是免费公开的服务。正式公开前，请写信到 dharmamitra-project@gmail.com 告知对方。
 // ============================================================
 
+import { readCanonAsset } from '../../lib/canon-r2.js'
+
 const MITRA_URL = 'https://dharmamitra.org/api-search/cat-translate/v1/translate'
 const MITRA_TIMEOUT_MS = 95000   // 长句可能要 60 秒；对方网关 100 秒截断
 const MAX_LEN = 1500
@@ -124,7 +126,10 @@ export async function onRequestPost({ request, env }) {
   // 藏文原典的阅读页正文不在网页里，而在 /canon/…/经号/分段.json，这时按 src 核对那个文件。
   const src = String(body?.src || '')
   const useSrc = /^\/canon\/(kangyur|tengyur)\/[\w-]+\/\d+\.json$/.test(src)
-  const pageRes = await env.ASSETS.fetch(new Request(new URL(useSrc ? src : p, request.url).toString()))
+  const sourceURL = new URL(useSrc ? src : p, request.url)
+  const pageRes = useSrc
+    ? await readCanonAsset(env, sourceURL)
+    : await env.ASSETS.fetch(new Request(sourceURL))
   if (!pageRes.ok) { await rec('not-found-' + pageRes.status); return json({ ok: false, error: 'not-found' }, 404) }
   const raw = await pageRes.text()
   let pageText = ''
